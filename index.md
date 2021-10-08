@@ -29,8 +29,8 @@
   2021, so have only just started my IT journey.<br>
 <br>
 
-  <h3><b>Name:</b></h3>
-  <h3><b>Student Number:</b></h3>
+  <h3><b>Name:</b></h3> Kias Henry
+  <h3><b>Student Number:</b></h3> s3564324
   <h3><b>Background:</b></h3>
   <h3><b>Hobbies:</b></h3>
   <h3><b>IT Interests:</b></h3>
