@@ -97,7 +97,6 @@ Games Developer
 <br>
   <h1><b>Industry Data</b></h1>
 
-
 <br>
   <h1><b>IT Work</b></h1>
 
