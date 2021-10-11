@@ -40,6 +40,21 @@ The individual team members are to upload their personal information and ideal j
       <li>Cybersecurity </li>
       <li>Autonomous vehicles</li>
       <li>Raspberry PIs, Arduinos, Makey Makeys and other small computing dev </li>
+        <li><b>Answer the following questions:</b></li>
+          <li>What does it do? (600 words)</li>
+            <li>What is the state of the art of this new technology?</li>
+            <li>What can be done now?</li>
+            <li>What is likely to be able to do be done soon (say in the next 3 years)?</li>
+            <li>What technological or other developments make this possible?</li>
+          <li><b>What is the likely impact? (300 words)</b></li>
+            <li>What is the potential impact of this development? </li>
+            <li>What is likely to change? </li>
+            <li>Which people will be most affected and how? </li>
+            <li>Will this create, replace or make redundant any current jobs or technologies?</li>
+          <li><b>How will this affect you? (300 words)</b></li>
+            <li>In your daily life, how will this affect you? </li>
+            <li>What will be different for you? </li>
+            <li>How might this affect members of your family or your friends?</li>
   </ul>
 
 <h2>Group Project></h2>
