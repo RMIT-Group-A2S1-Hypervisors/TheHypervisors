@@ -35,7 +35,7 @@ The individual team members are to upload their personal information and ideal j
 
 <h2>IT Technologies</h2>
   <ul>
-    <li>•	Report on 4 of the following areas:</li>
+    <li><b>Report on 4 of the following areas:</b></li>
       <li>Clouds, services, servers </li>
       <li>Cybersecurity </li>
       <li>Autonomous vehicles</li>
