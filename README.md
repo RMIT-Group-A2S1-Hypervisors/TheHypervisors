@@ -8,10 +8,12 @@ This is the GitHub Website for the RMIT Group Project for Group A2S1. <br>
 <b>Personal Information:</b> 1 paragraph per person
 The individual team members are to upload their personal information and ideal job to the GitHub Repository.<br>
 
+<b>Team Profile</b>
+Upload personality test results
+
 <h2>Ideal Job</h2>
   <ul>
-    <li>Upload personality test results</li>
-    <li>Compare results</li>
+    <li>Compare ideal jobs for the team members</li>
     <li>Similarities/Differences</li>
   </ul>
 
