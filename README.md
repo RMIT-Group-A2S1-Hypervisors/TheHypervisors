@@ -26,7 +26,7 @@ The individual team members are to upload their personal information and ideal j
   <ul>
     <li>Watch 3-4 YouTube videos on what the IT professional does on a daily basis</li>
     <li>Day in the life of IT Professional</li>
-    <li>For each video, ask the following questions:</li>
+    <li><b>For each video, ask the following questions:</b></li>
       <li>What kind of work does the IT professional perform?</li>
       <li>What kinds of people do they interact with? Other IT professionals, Clients, Investors, or the general public</li>
       <li>Where do they spend most of their time?</li>
