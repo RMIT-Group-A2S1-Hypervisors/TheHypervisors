@@ -42,7 +42,7 @@ The individual team members are to upload their personal information and ideal j
       <li>Raspberry PIs, Arduinos, Makey Makeys and other small computing dev </li>
   </ul>
 
-<h2>Group Project>
+<h2>Group Project></h2>
   <ul>
     <li>Read the project file located under A2S1 > Discussions > Sharing & Discussion of our Week 3 Task 1 My Profile Assignment</li>
   </ul>
