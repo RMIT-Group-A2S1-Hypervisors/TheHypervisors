@@ -37,8 +37,8 @@
   <h3><b>IT Experience:</b></h3>
 <br>
 
-  <h3><b>Name:</b></h3>
-  <h3><b>Student Number:</b></h3>
+  <h3><b>Name:</b></h3> Cody Sadler
+  <h3><b>Student Number:</b></h3> s3923221
   <h3><b>Background:</b></h3>
   <h3><b>Hobbies:</b></h3>
   <h3><b>IT Interests:</b></h3>
@@ -89,12 +89,14 @@
 
 <br>
   <h1><b>Ideal Jobs</b></h1>
+Games Developer
 
 <br>
   <h1><b>Tools</b></h1>
 
 <br>
   <h1><b>Industry Data</b></h1>
+
 
 <br>
   <h1><b>IT Work</b></h1>
