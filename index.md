@@ -29,16 +29,28 @@
   2021, so have only just started my IT journey.<br>
 <br>
 
-  <h3><b>Name:</b></h3> Kias Henry
-  <h3><b>Student Number:</b></h3> s3564324
-  <h3><b>Background:</b></h3>
-  <h3><b>Hobbies:</b></h3>
-  <h3><b>IT Interests:</b></h3>
-  <h3><b>IT Experience:</b></h3>
+<h3><b>Name:</b></h3> Kias Henry
+<h3><b>Student Number:</b></h3> s3564324
+<h3><b>Background:</b></h3>
+<p>I was born in Proserpine, near Airlie Beach up north, in an english speaking household but our family moved down to Brisbane <br>
+  when I was asround 3.  A interesting fact about me is I have both been homeless for several years in the past, as well as the <br>
+  CEO of an web company.  I did half of an IT degree @ Griffith University in Brisbane when I finished school, but left early to <br>
+  start a web company with a friend.</p>
+<h3><b>Hobbies:</b></h3>
+<p>Photoshop, Chess, Walking my dog, researching latest science, cooking
+<h3><b>IT Interests:</b></h3>
+<p>I started getting interested in computers after being given an Amiga 500 for mowing one of my mums friend's lawns a few times and <br>
+  it came with about 500 games on giant floppy discs.  It was games originally that got me interested, but s I became a teenager I <br>
+  was most impressed with discussion boards, internet relay chat and the potential for the internet to connect me with like minded <br>
+  indiviuals all over the world.  I became obsessed with computers around 13-13 years of age.</p>
+<h3><b>IT Experience:</b></h3>
+<p>I did IT in years 11 & 12 and then started a Bachelor of IT at Griffith university in Brisbane.  I did half of this degree but <br>
+  left to start an internet company.  I stopped using computers again till I was mid 20s and have had an active interest in them <br>
+  since.  I have worked on several database driven websites but feel I have quite a basic knowledge of website design.</p>
 <br>
 
-  <h3><b>Name:</b></h3>
-  <h3><b>Student Number:</b></h3>
+  <h3><b>Name:</b></h3> Cody Sadler
+  <h3><b>Student Number:</b></h3> s3923221
   <h3><b>Background:</b></h3>
   <h3><b>Hobbies:</b></h3>
   <h3><b>IT Interests:</b></h3>
@@ -86,9 +98,43 @@
 <br>
 
   <h3><b>Team Profile</b></h3>
+  <b>David Hucklebridge</b>
+  <a href="https://www.16personalities.com/intj-personality">Architect</a><br>
+  I have the Architect personality, which means that I am high in the Introverted (71%), Intuitive (54%), Thinking (55%), and <br>
+  Judging (53%) personality traits.  I also have a Turbulent (74%) personality trait.  As an Architect I am high in creativity <br>
+  rationality.<br>
+  <br>
+
+  <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=9&V=8&T=3">What's Your Learning Style? The Results</a><br>
+  <ul>
+    <li>Auditory: 45%</li>
+    <li>Visual: 40%</li>
+    <li>Tactile: 15%</li>
+  </ul>
+  As an auditory learner, I perform best by talking over issues, and listening to others.  However, since my Auditory and Visual <br>
+  scores are rather close, I can also learn by reading or viewing pictures.
+  <br>
+
+  <a href="https://www.truity.com/test-results/bigfive/17315/22274855">The Big Five Personality Test</a><br>
+  <ul>
+    <li>Openness: 71%</li>
+    <li>Conscientiousness: 54%</li>
+    <li>Extraversion: 23%</li>
+    <li>Agreeableness: 58%</li>
+    <li>Neuroticism: 71%</li>
+  </ul>
+  The results of this test am a highly creative person, who can think of subject in a abtract manner (Openness). I am a peacemaker, and will try to put <br>
+  the needs and views of others before my own (Conscientiousness). However, I am highly critical and I am highly susceptible to <br>
+  negative emotions (Neuroticism).
+  <br>
 
 <br>
   <h1><b>Ideal Jobs</b></h1>
+  <a href="https://au.linkedin.com/jobs/view/gameplay-programmer-at-gameloft-2746329876?refId=gsMP5X4f22cgwEKk5VUh2A%3D%3D&trackingId=mM9zF%2FDBzc3aGyAXy5We9Q%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card">Gameplay Programmer</a>
+  A Gameplay Programmer needs to have a good understanding of programming languages (C++, C#, GML, Python), as well as having <br>
+  a good understanding of common game technologies, processes and software development, such as Rendering pipelines (renders a <br>
+  3D scene for a 2d screen), Physics, AI, and Online multiplayer.  They also need the ability to work independently and <br>
+  problem-solve issues using documentation and existing processes and codebases, rapidly prototype and produce the final code.
 
 <br>
   <h1><b>Tools</b></h1>
@@ -98,6 +144,81 @@
 
 <br>
   <h1><b>IT Work</b></h1>
+  <a href="https://www.youtube.com/watch?v=nZh_ue1Nw_k">A Day as an Indie Game Developer</a>
+  This video shows what Karl, an Indie Game Developer with a YouTube channel called ThinMatrix, does during a day at work.  He <br>
+  is currently developing a city-builder game. He also developed the nature-themed sandbox game Equilinox which is available on Steam.
+  <a href="https://store.steampowered.com/app/853550/Equilinox/">Equilinox</a>
+
+  <ul>
+    <li>What kind of work does the IT professional perform?
+      As an Indie Games Developer Karl spends his day adapting code, mainly working on developing the save function for his <br>
+      city-builder, adding additional functions to the behaviour trees of NPCs, so that activities performed have multiple <br>
+      actions and aligning these actions with a status of Running, Passed or Failed, and a Boolean value of either True, for <br>
+      both Passed and Failed, or False for Running.  He spent the afternoon working on a new developer tool to import mesh <br>
+      information regarding points of interest (nodes and how these nodes are connected) from a 3D model, and then converts the <br>
+      information to a format suitable Entities document, which is then viewed in Notepad++.  To do this he opens the 3d model <br>
+      in Blender and then applies a mesh showing how all nodes are connected, and then exports the information into a Wavefront <br>
+      (.obj) file, and then created a new Java file that imports the .obj file and then extracts the necessary mesh data, converts <br>
+      the data so the Entities file can read it, and the exports the data to the clipboard, so it can be copied and pasted  into <br>
+      the Entities file.</li>
+    <li>What kinds of people do they interact with?
+      Other IT professionals, Clients, Investors, or the general public
+    Karl responds to emails and comments left on his YouTube videos from the general public.</li>
+    <li>Where do they spend most of their time?
+      Karl works from his home, so spends most the day working in his home office.</li>
+  </ul>
+
+  <a href="https://www.youtube.com/watch?v=dsL16YynAfw">Day In The Life - Independent iOS Developer - The Green Developer Vlogs</a>
+  This video shows what Sean, an independent iOS Software Developer, would do during a day at work.
+
+  <ul>
+    <li>What kind of work does the IT professional perform?
+    As an independent iOS Software Developer the morning Sean works on creating app icons, and redesigning app icons are he finds <br>
+    better ways to design them and compares the iterations.  He constantly loads these app icons into his app, and assesses how they <br>
+    look, so that he can see how better to improve them.  In the afternoon he works on logical problems, such an adding location-based <br>
+    permission and notifications to the app.</li>
+    <li>What kinds of people do they interact with? Other IT professionals, Clients, Investors, or the general public.
+    In the morning Sean gets onto social media sites to communicate with the general public.</li>
+    <li>Where do they spend most of their time?
+    Sean works from home, so spends most of the day working in his home office.</li>
+    <li>What aspect of their position is most challenging?
+    Sean states that he finds the creative side of app design to be the most difficult, such as creating icons, so he is constantly <br>
+    looking for new ways to improve his skills.  He also states that some functionality of creating a game requires learning new ways <br>
+    to code, and thus he relies upon forum posts to learn how to implement this functionality.</li>
+  </ul>
+
+  <a href="https://www.youtube.com/watch?v=e_TxH59MclA">Day in the Life of a Japanese Game Programmer</a>
+  This video shows what a Games Developer working for Bandai Namco Entertainment does during a day at work.
+  <ul>
+    <li>What kind of work does the IT professional perform?
+    As a Games Developer for a major gaming company Massa spends most of the day coding, either creating new code, or adapting code <br>
+    to fix issues.</li>
+    <li>What kinds of people do they interact with? Other IT professionals, Clients, Investors, or the general public.
+    In the morning Massa checks his emails, as well as the company’s internal social media sites for company wide messages.  Massa <br>
+    attends a daily team meeting where they assess what they programmed the previous day, what needs to be done today, and discuss <br>
+    any problems that have been discovered.</li>
+    <li>Where do they spend most of their time?
+    Massa spends most of his time at his desk at Bandai Namco’s Tokyo office.</li>
+  </ul>
+
+  <a href="https://www.youtube.com/watch?v=ShRIOSRE86A&t=127s">A Day in the Life of an Indie Game Developer</a>
+  This video shows Danyil, an Indie Games Developer with a small Indie Games Development Team called Hyve.  Danyil is working on a game <br>
+  titled “Windshire”, which is being made with Unity.
+  <ul>
+    <li>What kind of work does the IT professional perform?
+    Danyil writes code for the game, as well as trouble shoots as issues that the game may encounter, such as an AI pathing issues where <br>
+    they colluded with terrain.  He also takes the game assets designed by the other team members and import these into the game, and then <br>
+    works on building the world so that the world gives off the atmosphere that he is looking for.  Danyil also created the DevLog videos <br>
+    showing the progress state of the game.</li>
+    <li>What kinds of people do they interact with? Other IT professionals, Clients, Investors, or the general public.
+    Danyil mainly communicates with the general public through his Patreon account and his YouTube channel.  He also communicates with the <br>
+    other members of his team, which includes a character artist, artist, concept artist, sound effect designer, and web developer.</li>
+    <li>Where do they spend most of their time?
+    Danyil works from home, so he spends most of his day working out of his home office.</li>
+    <li>What aspect of their position is most challenging?
+    Danyil states that the most challenging part of being an Indie Games Developer is having to juggle games development, as well as working <br>
+    as a Truck Dispatcher, and creating videos for the YouTube channel, called Hyve.</li>
+  </ul>
 
 <br>
   <h1><b>IT Technologies</b></h1>
