@@ -383,16 +383,16 @@
    
   <h1>Referencing Guide – RMIT Harvard</h1>
   <h3>Websites</h3>
-    <ul>
+  <ul>
   <li><b>Paraphrasing:</b> (Author Date)</li>
   <li><b>Example:</b> (World Health Organization 2014)</li>
   <li><b>Reference entry list:</b> Author details (Individual or Corporation), date or n.d., title of the webpage or document in italics, publication details (publisher and place of publication), viewed date, <URL address enclosed in angled brackets>.</li>
   <li><b>Example:</b> World Health Organization 2014, WHO recommendations for routine immunization - summary tables, World Health Organization, viewed 1 May 2014, <a href="http://www.who.int/immunization/policy/immunization_tables/en/">http://www.who.int/immunization/policy/immunization_tables/en/</a>.</li>
-    </ul>
+  </ul>
 
   <h2>References</h2>
   <p>
-    <ul>
+  <ul>
       <li>Akamai 2019, The 4 number-one ways to protect your game from hackers, Venture Beat, viewed 11 October 2021 <a href="https://venturebeat.com/2019/10/29/the-4-number-one-ways-to-protect-your-game-from-hackers-vb-live/">https://venturebeat.com/2019/10/29/the-4-number-one-ways-to-protect-your-game-from-hackers-vb-live/</a>.</li>
       <li>Amazon Web Services 2021, Amazon gamelift pricing, Amazon, viewed 11 October 2021, <https://aws.amazon.com/gamelift/pricing/>.</li>
       <li>Amazon Web Services 2021, Amazon gamelift faq, Amazon, viewed 11 October 2021, <a href="https://aws.amazon.com/gamelift/faq">https://aws.amazon.com/gamelift/faq</a>.</li>
@@ -422,8 +422,8 @@
       <li>YoYo Games 2021, GameMaker Studio 2 manual – GameMaker language index, YoYo Games, viewed 18 September 2021, <a href="https://manual.yoyogames.com/#t=GameMaker_Language%2FGameMaker_Language_Index.htm">https://manual.yoyogames.com/#t=GameMaker_Language%2FGameMaker_Language_Index.htm</a>.</li>
       <li>YoYo Games 2021, GameMaker Studio 2 – system requirements, YoYo Games, viewed 18 September 2021, <a href="https://www.yoyogames.com/en/get#sysreq">https://www.yoyogames.com/en/get#sysreq</a>.</li>
       <li>YoYo Games 2021, GMS2 required SDKs, YoYo Games, viewed 19 September 2021, <a href="https://help.yoyogames.com/hc/en-us/articles/227860547-GMS2-Required-SDKs">https://help.yoyogames.com/hc/en-us/articles/227860547-GMS2-Required-SDKs</a>.</li>
-    </ul>
-   </p>
+  </ul>
+  </p>
 </div>
 </body>
 </html>
