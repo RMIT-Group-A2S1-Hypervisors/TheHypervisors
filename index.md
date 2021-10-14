@@ -281,7 +281,7 @@
   <li>St. Thomas University 2021, AI is the top cyber security innovation of 2021, St. Thomas University, viewed 14 October 2021, <a href="https://online.stu.edu/articles/business/top-cyber-security-innovation-2021.aspx">https://online.stu.edu/articles/business/top-cyber-security-innovation-2021.aspx</a>.</li>
   <li>Swinhoe, D 2019, What is a man-in-the-middle attack? How MitM attacks work and how to prevent them, CSO, <a href="https://www.csoonline.com/article/3340117/what-is-a-man-in-the-middle-attack-how-mitm-attacks-work-and-how-to-prevent-them.html">https://www.csoonline.com/article/3340117/what-is-a-man-in-the-middle-attack-how-mitm-attacks-work-and-how-to-prevent-them.html</a>.</li>
   <li>Telstra n.d., Top 6 ways to protect businesses from phishing attacks, Telstra, viewed 13 October 2021, <a href="https://telstraventures.com/ways-to-protect-businesses-from-phishing-attacks/">https://telstraventures.com/ways-to-protect-businesses-from-phishing-attacks/</a>.</li>
-  <li>Unisys n.d., Cyber attacks - what you need to know, Unisys, viewed 13 October 2021, <https://www.unisys.com/glossary/cyber-attack/>.</li>
+  <li>Unisys n.d., Cyber attacks - what you need to know, Unisys, viewed 13 October 2021, <a href="https://www.unisys.com/glossary/cyber-attack/">https://www.unisys.com/glossary/cyber-attack/</a>.</li>
   <li>Whitehead, M 2020, What is the future of cybersecurity?, Trustwave, viewed 13 October 2021, <a href="https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/what-is-the-future-of-cybersecurity/">https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/what-is-the-future-of-cybersecurity/</a>.</li>
   </ul>
 
