@@ -437,12 +437,12 @@
    
   <h1>Referencing Guide – RMIT Harvard</h1>
   <h3>Websites</h3>
-  <ol>
+  <ul>
   <li><b>Paraphrasing:</b> (Author Date)</li>
   <li><b>Example:</b> (World Health Organization 2014)</li>
   <li><b>Reference entry list:</b> Author details (Individual or Corporation), date or n.d., title of the webpage or document in italics, publication details (publisher and place of publication), viewed date, <URL address enclosed in angled brackets>.</li>
   <li><b>Example:</b> World Health Organization 2014, WHO recommendations for routine immunization - summary tables, World Health Organization, viewed 1 May 2014, <a href="http://www.who.int/immunization/policy/immunization_tables/en/">http://www.who.int/immunization/policy/immunization_tables/en/</a>.</li>
-  </ol>
+  </ul>
   
   <h2>References</h2>
   <p>
