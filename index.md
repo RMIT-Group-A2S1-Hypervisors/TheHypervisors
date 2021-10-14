@@ -57,46 +57,6 @@
   <h3><b>IT Experience:</b></h3>
 <br>
 
-  <h3><b>Name:</b></h3>
-  <h3><b>Student Number:</b></h3>
-  <h3><b>Background:</b></h3>
-  <h3><b>Hobbies:</b></h3>
-  <h3><b>IT Interests:</b></h3>
-  <h3><b>IT Experience:</b></h3>
-<br>
-
-  <h3><b>Name:</b></h3>
-  <h3><b>Student Number:</b></h3>
-  <h3><b>Background:</b></h3>
-  <h3><b>Hobbies:</b></h3>
-  <h3><b>IT Interests:</b></h3>
-  <h3><b>IT Experience:</b></h3>
-<br>
-
-  <h3><b>Name:</b></h3>
-  <h3><b>Student Number:</b></h3>
-  <h3><b>Background:</b></h3>
-  <h3><b>Hobbies:</b></h3>
-  <h3><b>IT Interests:</b></h3>
-  <h3><b>IT Experience:</b></h3>
-<br>
-
-  <h3><b>Name:</b></h3>
-  <h3><b>Student Number:</b></h3>
-  <h3><b>Background:</b></h3>
-  <h3><b>Hobbies:</b></h3>
-  <h3><b>IT Interests:</b></h3>
-  <h3><b>IT Experience:</b></h3>
-<br>
-
-  <h3><b>Name:</b></h3>
-  <h3><b>Student Number:</b></h3>
-  <h3><b>Background:</b></h3>
-  <h3><b>Hobbies:</b></h3>
-  <h3><b>IT Interests:</b></h3>
-  <h3><b>IT Experience:</b></h3>
-<br>
-
   <h3><b>Team Profile</b></h3>
   <b>Kias Henry</b>
    <h2>Personality test results</h2>
