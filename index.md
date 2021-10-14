@@ -70,7 +70,8 @@ div {
     <p>Most common traits: Agreeableness, Conscientiousness, Openness to new experience</p>
     <br>
 
-    <b>David Hucklebridge</b><br>
+    <b>David Hucklebridge</b>
+    <br>
   <a href="https://www.16personalities.com/intj-personality">Architect</a><br>
   <p>I have the Architect personality, which means that I am high in the Introverted (71%), Intuitive (54%), Thinking (55%), and Judging (53%) personality traits.  I also have a Turbulent (74%) personality trait.  As an Architect I am high in creativity rationality.<p><br>
   <br>
