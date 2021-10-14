@@ -448,7 +448,7 @@
   <p>
   <ul>
       <li>Akamai 2019, The 4 number-one ways to protect your game from hackers, Venture Beat, viewed 11 October 2021 <a href="https://venturebeat.com/2019/10/29/the-4-number-one-ways-to-protect-your-game-from-hackers-vb-live/">https://venturebeat.com/2019/10/29/the-4-number-one-ways-to-protect-your-game-from-hackers-vb-live/</a>.</li>
-      <li>Amazon Web Services 2021, Amazon gamelift pricing, Amazon, viewed 11 October 2021, <https://aws.amazon.com/gamelift/pricing/>.</li>
+      <li>Amazon Web Services 2021, Amazon gamelift pricing, Amazon, viewed 11 October 2021, <a href="https://aws.amazon.com/gamelift/pricing/">https://aws.amazon.com/gamelift/pricing/</a>.</li>
       <li>Amazon Web Services 2021, Amazon gamelift faq, Amazon, viewed 11 October 2021, <a href="https://aws.amazon.com/gamelift/faq">https://aws.amazon.com/gamelift/faq</a>.</li>
       <li>Amazon Web Services 2021, Choosing computing resources, Amazon, viewed 11 October 2021, <a href="https://docs.aws.amazon.com/gamelift/latest/developerguide/gamelift-ec2-instances.html">https://docs.aws.amazon.com/gamelift/latest/developerguide/gamelift-ec2-instances.html</a>.</li>
       <li>Atavism 2021, Atavism features overview, Atavism, viewed 11 October 2021, <a href="https://www.atavismonline.com/#featuresoverview">https://www.atavismonline.com/#featuresoverview</a>.</li>
