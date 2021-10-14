@@ -57,9 +57,9 @@
   <h3><b>IT Experience:</b></h3>
 <br>
 
-  <h3><b>Team Profile</b></h3>
+  <h2><b>Team Profile</b></h2>
   <b>Kias Henry</b>
-   <h2>Personality test results</h2>
+   <h3>Personality test results</h3>
     <h3>Myer-Briggs Test</h3>
     <p>Type: Turbulent campaigner, Code: ENFP-T, Role: diplomat, Strategy: Social engagement</p>
     <p>The ENFP is quirky, curious, creative, and idealistic. As one of the most open-minded personality types, ENFPs bring an experimental 
@@ -102,6 +102,20 @@
 
 <br>
   <h1><b>Ideal Jobs</b></h1>
+  
+  <h3>Senior/Lead Developer (Blockchain)</h3>
+  <p>This is a job for a Senior/Lead developer to work for a cryptocurrency trading business. The business works with several large cryptocurrency exchanges to perform Peer to Peer trading. I feel a job like this would be ideal for me as I am fascinated by what blockchain makes possible online. This job would allow me to be involved with app development, website development and design, work with APIs, the Python programming language as well as the latest internet technologies. I have had an interest in cybersecurity since a teenager and because of the inherent risks with blockchains re cyber attacks/hacks I think it would be amazing to work in a position like this where I had to stay up to date with cyber security topics to ensure I could write efficient, safe code that wasn't easily exploited for my client.</p>
+
+ <p>I find this job very attractive because they also state the successful applicant may get shares in the company, may be able to extend onto being manager of the whole IT department, and it also says the work can be remote.</p>
+
+<p>The position asks for an exceptional understanding of Python, knowledge of blockchain and cryptocurrencies, front end development tools such as Javascript, VueJS, React & Angular. The company is also saying someone with programming experience in C++, Java, Go, Node & Solidity is beneficial. Further they state knowledge of RDBMS or NoSQL databases is also beneficial.</p>
+
+
+<p>I have skills in web development, PHP, some Python (from this course already), database design however I am familiar with MYSQL and Phpmyadmin. I have no experience with VUEJS, React, Angular, RDBMS, or NoSQL. I have played around with a small Solidity file to make my own cryptocurrency coin on Binance Smart Chain using Remix. I have experience as a web designer, web admin and database admin for large scale commercial projects, as well as some private projects.</p>
+
+
+<p>My plan to be able to fulfil all the requirements for this role is to continue to learn as much as I can about blockchain technologies, Solidity, Javascript and cyber security. I will research all of the skills I do not currently have to better advance my understanding throughout this degree. I will continue to stay up to date with the latest web technologies, and also hone my skills on programming automated systems.</p>
+<br><br>
   <a href="https://au.linkedin.com/jobs/view/gameplay-programmer-at-gameloft-2746329876?refId=gsMP5X4f22cgwEKk5VUh2A%3D%3D&trackingId=mM9zF%2FDBzc3aGyAXy5We9Q%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card">Gameplay Programmer</a>
   A Gameplay Programmer needs to have a good understanding of programming languages (C++, C#, GML, Python), as well as having <br>
   a good understanding of common game technologies, processes and software development, such as Rendering pipelines (renders a <br>
