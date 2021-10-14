@@ -91,7 +91,7 @@
 <br>
 
   <h3><a href="https://au.linkedin.com/jobs/view/gameplay-programmer-at-gameloft-2746329876?refId=gsMP5X4f22cgwEKk5VUh2A%3D%3D&trackingId=mM9zF%2FDBzc3aGyAXy5We9Q%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card">Gameplay Programmer</a></h3><br>
-    <p>A Gameplay Programmer needs to have a good understanding of programming languages (C++, C#, GML, Python), as well as having a good understanding of common game technologies, processes and software development, such as Rendering pipelines (renders a 3D scene for a 2d screen), Physics, AI, and Online multiplayer.  They also need the ability to work independently and problem-solve issues using documentation and existing processes and codebases, rapidly prototype and produce the final code.</p>
+    <p>The role of a Game Programmer is to develop the software that will be used to create video games.  They need to have good coloration skills, as they work closely with the Game Designers and Game Developers during the video game pipeline process, and they will create the prototypes as a proof of concept during the early stages of the production pipeline, as well as setting up the game engine that will power the games.  They need good problem-solving skills, so they need a good understanding of programming languages (C++, C#, GML, Python), as well as a firm understanding of gaming software, and a good understanding of common game technologies, processes, and software development, such as Rendering pipelines (renders a 3D scene for a 2d screen), Physics, AI, and Online multiplayer.  They also need the ability to work independently, and problem-solve issues using documentation and existing processes and codebases, rapidly prototype and produce the final code.</p>
 <br>
 
   <h1><b>Tools</b></h1>
@@ -100,7 +100,61 @@
 <br>
 
   <h1><b>Industry Data</b></h1>
+<p>According to Seek there were 17,548 IT jobs posted in the past 30 days for Australia, with these jobs falling into these IT categories:</p>
+  <ul>
+    <li>Developer/Programmers: 3,066 jobs;</li>
+    <li>Business/System Analysts: 2,046 jobs; </li>
+    <li>Software Engineering: 1,965 jobs; </li>
+    <li>Help Desk & It Support: 1,499 jobs; </li>
+    <li>Programme & Project Management: 1,473 jobs;</li>
+    <li>Testing & Assurance: 868 jobs;</li>
+    <li>Architects: 758 jobs;</li>
+    <li>Consultants: 646 jobs;</li>
+    <li>System & Cyber Security: 631 jobs;</li>
+    <li>Management: 467 jobs;</li>
+    <li>Network Engineering:433 jobs; and </li>
+    <li>Database Development & Administration: 411 jobs.</li>
+  </ul>
 
+  <p>Hays suggest that the top three IT jobs in demand in Australia in 2021 are Cloud Engineers, Security Awareness Consultants, and Full Stack Developers.</p>
+  <p>The most in demand skills for IT professionals according to jobs posted to Seek in the past 30 days for Australia are:</p>
+  <ul>
+    <li>Business Management: 8,845 jobs;</li>
+    <li>SQL: 8,680 jobs;</li>
+    <li>Java: 7,229 jobs</li>
+    <li>.NET Programming: 6,424 jobs;</li>
+    <li>Software Development: 5,925 jobs;</li>
+    <li>Python: 5,800 jobs;</li>
+    <li>Customer Service: 5,318 jobs;</li>
+    <li>Azure: 5,261 jobs;</li>
+    <li>C#: 5,177 jobs;</li>
+    <li>Technical Support: 4,809 jobs; </li>
+    <li>Project Management: 4,664 jobs;</li>
+    <li>Javascript: 4,460 jobs;</li>
+    <li>Business Analysis: 4,189;</li>
+    <li>Software Engineering: 3,899 jobs;</li>
+    <li>Linux: 3,804 jobs;</li>
+    <li>C++: 3,280 jobs;</li>
+    <li>Oracle: 2,716 jobs</li>
+    <li>SAP: 2,637 jobs;</li>
+    <li>ITIL: 2,503 jobs;</li>
+    <li>Systems Engineering: 2,280 jobs;</li>
+    <li>Building Relationships: 1,737 jobs;</li>
+    <li>Microsoft Server: 1,366;</li>
+    <li>Git: 1,156 jobs; and</li>
+    <li>Microsoft Windows: 1,084 jobs.</li>
+  </ul>
+  <p>According to Seek there were 74 Games Developer job postings in the past 30 days for Australia.</p>
+  <p>The most in demand skills in the Games Industry according to jobs posted to Seek in the past 30 days for Australia are:</p>
+  <ul>
+    <li>Unity: 475 jobs;</li>
+    <li>Unreal: 17 jobs</li>
+  </ul>
+
+  <h2>References</h2>
+  <ul>
+    <li>Hays 2021, The most in-demand skills for 2021, Hays, viewed 14 October 2021, <a href="https://www.hays.com.au/press-release/content/skills-in-demand-in-2021">https://www.hays.com.au/press-release/content/skills-in-demand-in-2021</a>.</li>
+  </ul>
 <br>
 
   <h1><b>IT Work</b></h1>
@@ -405,15 +459,13 @@
       <li>Epic Games 2021, Unreal Engine 4.27 Documentation – Programming and Scripting, Epic Games, viewed 18 September 2021, <a href="https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/">https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/</a>.</li>
       <li>Epic Games 2021, Unreal engine 4.27 documentation – hardware and software specifications, Epic Games, viewed 19 September 2021,<br>
        <a href="https://docs.unrealengine.com/4.27/en-US/Basics/InstallingUnrealEngine/RecommendedSpecifications/">https://docs.unrealengine.com/4.27/en-US/Basics/InstallingUnrealEngine/RecommendedSpecifications/</a>.</li>
-      <li>IGDA 2020, Skills you need to start a career in the game development industry, IGDA, viewed 19 September 2021,<br>
-       <a href="https://igda.org/news-archive/skills-you-need-to-start-a-career-in-the-game-development-industry/">https://igda.org/news-archive/skills-you-need-to-start-a-career-in-the-game-development-industry/</a>.</li>
+      <li>IGDA 2020, Skills you need to start a career in the game development industry, IGDA, viewed 19 September 2021, <a href="https://igda.org/news-archive/skills-you-need-to-start-a-career-in-the-game-development-industry/">https://igda.org/news-archive/skills-you-need-to-start-a-career-in-the-game-development-industry/</a>.</li>
       <li>IronSource n.d., Advertising (ad) revenue: what is ad revenue and how does it work?, IronSource, viewed 11 October 2021, <a href="https://www.is.com/glossary/ad-revenue/">https://www.is.com/glossary/ad-revenue/</a>.</li>
       <li>IronSource n.d., Glossary: eCPM – effective cost per mille (thousand), IronSource, viewed 11 October 2021, <a href="https://www.is.com/glossary/ecpm/">https://www.is.com/glossary/ecpm/</a>.</li>
       <li>IronSource n.d., Interstitial ads: mobile, ad revenue & interstitial video, IronSource, viewed 11 October 2021, <a href="https://www.is.com/interstitial-ads/">https://www.is.com/interstitial-ads/</a>.</li>
       <li>IronSource n.d., Offerwall, IronSource, viewed 11 October 2021, <a href="https://www.is.com/offerwall/">https://www.is.com/offerwall/</a>.</li>
       <li>Juppiomenz 2017, Bit Heroes, Kongregate, viewed 11 October 2021, <a href="https://store.steampowered.com/app/666860/Bit_Heroes/">https://store.steampowered.com/app/666860/Bit_Heroes/</a>.</li>
-      <li>Leung, H-P 2017, Protect multiplayer game servers from DDoS attacks using Amazon GameLift, viewed 11 October 2021,<br>
-       <a href="https://aws.amazon.com/blogs/gametech/protect-multiplayer-game-servers-from-ddos-attacks-using-amazon-gamelift-2/">https://aws.amazon.com/blogs/gametech/protect-multiplayer-game-servers-from-ddos-attacks-using-amazon-gamelift-2/</a>.</li>
+      <li>Leung, H-P 2017, Protect multiplayer game servers from DDoS attacks using Amazon GameLift, viewed 11 October 2021, <a href="https://aws.amazon.com/blogs/gametech/protect-multiplayer-game-servers-from-ddos-attacks-using-amazon-gamelift-2/">https://aws.amazon.com/blogs/gametech/protect-multiplayer-game-servers-from-ddos-attacks-using-amazon-gamelift-2/</a>.</li>
       <li>NGINX n.d., What is load balancing?, F5 Networks Inc, viewed 11 October 2021, <a href="https://www.nginx.com/resources/glossary/load-balancing/">https://www.nginx.com/resources/glossary/load-balancing/</a>.</li>
       <li>O'Connor, P 2020, The craft and science of game design : a video game designer's manual, Taylor & Francis Group, Milton Park, UK.
       <li>OWASP 2021, M9: reverse engineering, OWASP, viewed 11 October 2021, <a href="https://owasp.org/www-project-mobile-top-10/2016-risks/m9-reverse-engineering">https://owasp.org/www-project-mobile-top-10/2016-risks/m9-reverse-engineering</a>.</li>
