@@ -1,8 +1,7 @@
 <html>
 <head>
 </head>
-
-
+  
 <body>
   <div>
   <h1><b>Team Profile</b></h1>
@@ -424,12 +423,7 @@
       <li>YoYo Games 2021, GameMaker Studio 2 – system requirements, YoYo Games, viewed 18 September 2021, <a href="https://www.yoyogames.com/en/get#sysreq">https://www.yoyogames.com/en/get#sysreq</a>.</li>
       <li>YoYo Games 2021, GMS2 required SDKs, YoYo Games, viewed 19 September 2021, <a href="https://help.yoyogames.com/hc/en-us/articles/227860547-GMS2-Required-SDKs">https://help.yoyogames.com/hc/en-us/articles/227860547-GMS2-Required-SDKs</a>.</li>
     </ul>
-
-  </p>
-
+   </p>
 </div>
 </body>
-
-</html>
-
 </html>
