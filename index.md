@@ -11,13 +11,12 @@
   <h2><b>Team Name:</b></h2> <p><b>The Hypervisors</b></p>
 
   <h2><b>Personal Information</b></h2>
-<br>
 
   <h3><b>Name:</b></h3> <p>David Hucklebridge</p>
   <h3><b>Student Number:</b></h3> <p>s3924012</p>
   <h3><b>Background:</b></h3>
-  <b>Nationality:</b> <p>Australian</p><br>
-  <b>Culture:</b> <p>Australian</p><br>
+  <b>Nationality:</b> <p>Australian</p>
+  <b>Culture:</b> <p>Australian</p>
   <b>Education:</b>
   <ul>
         <li>Certificate III in Information, Digital Media and Technology</li>
@@ -63,9 +62,7 @@
     <br>
 
   <b>David Hucklebridge</b><br>
-  <a href="https://www.16personalities.com/intj-personality">Architect</a><br>
-  <p>I have the Architect personality, which means that I am high in the Introverted (71%), Intuitive (54%), Thinking (55%), and Judging (53%) personality traits.  I also have a Turbulent (74%) personality trait.  As an Architect I am high in creativity rationality.<p><br>
-  <br>
+  <p>I have the <a href="https://www.16personalities.com/intj-personality">Architect</a> personality, which means that I am high in the Introverted (71%), Intuitive (54%), Thinking (55%), and Judging (53%) personality traits.  I also have a Turbulent (74%) personality trait.  As an Architect I am high in creativity rationality.<p>
 
   <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=9&V=8&T=3">What's Your Learning Style? The Results</a><br>
   <ul>
@@ -73,8 +70,7 @@
     <li>Visual: 40%</li>
     <li>Tactile: 15%</li>
   </ul>
-  <p>As an auditory learner, I perform best by talking over issues, and listening to others.  However, since my Auditory and Visual scores are rather close, I can also learn by reading or viewing pictures.</p><br>
-  <br>
+  <p>As an auditory learner, I perform best by talking over issues, and listening to others.  However, since my Auditory and Visual scores are rather close, I can also learn by reading or viewing pictures.</p>
 
   <a href="https://www.truity.com/test-results/bigfive/17315/22274855">The Big Five Personality Test</a><br>
   <ul>
@@ -85,7 +81,6 @@
     <li>Neuroticism: 71%</li>
   </ul>
   <p>The results of this test am a highly creative person, who can think of subject in a abtract manner (Openness). I am a peacemaker, and will try to put the needs and views of others before my own (Conscientiousness). However, I am highly critical and I am highly susceptible to negative emotions (Neuroticism).</p>
-  <br>
 
 <br>
   <h1><b>Ideal Jobs</b></h1>
@@ -95,7 +90,7 @@
     <p>The position asks for an exceptional understanding of Python, knowledge of blockchain and cryptocurrencies, front end development tools such as Javascript, VueJS, React & Angular. The company is also saying someone with programming experience in C++, Java, Go, Node & Solidity is beneficial. Further they state knowledge of RDBMS or NoSQL databases is also beneficial.</p>
     <p>I have skills in web development, PHP, some Python (from this course already), database design however I am familiar with MYSQL and Phpmyadmin. I have no experience with VUEJS, React, Angular, RDBMS, or NoSQL. I have played around with a small Solidity file to make my own cryptocurrency coin on Binance Smart Chain using Remix. I have experience as a web designer, web admin and database admin for large scale commercial projects, as well as some private projects.</p>
     <p>My plan to be able to fulfil all the requirements for this role is to continue to learn as much as I can about blockchain technologies, Solidity, Javascript and cyber security. I will research all of the skills I do not currently have to better advance my understanding throughout this degree. I will continue to stay up to date with the latest web technologies, and also hone my skills on programming automated systems.</p>
-<br><br>
+<br>
 
   <h3><a href="https://au.linkedin.com/jobs/view/gameplay-programmer-at-gameloft-2746329876?refId=gsMP5X4f22cgwEKk5VUh2A%3D%3D&trackingId=mM9zF%2FDBzc3aGyAXy5We9Q%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card">Gameplay Programmer</a></h3><br>
     <p>A Gameplay Programmer needs to have a good understanding of programming languages (C++, C#, GML, Python), as well as having a good understanding of common game technologies, processes and software development, such as Rendering pipelines (renders a 3D scene for a 2d screen), Physics, AI, and Online multiplayer.  They also need the ability to work independently and problem-solve issues using documentation and existing processes and codebases, rapidly prototype and produce the final code.</p>
