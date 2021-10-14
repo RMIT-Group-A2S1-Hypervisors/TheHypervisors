@@ -158,7 +158,7 @@
 <br>
 
   <h1><b>IT Work</b></h1>
-  <h2><a href="https://www.youtube.com/watch?v=nZh_ue1Nw_k">A Day as an Indie Game Developer</a></h2><br>
+  <h2><a href="https://www.youtube.com/watch?v=nZh_ue1Nw_k">A Day as an Indie Game Developer</a></h2>
   <p>This video shows what Karl, an Indie Game Developer with a YouTube channel called ThinMatrix, does during a day at work.  He is currently developing a city-builder game. He also developed the <br>
   nature-themed sandbox game <a href="https://store.steampowered.com/app/853550/Equilinox/">Equilinox</a> which is available on Steam.</p>
 
@@ -171,7 +171,7 @@
       <p>Karl works from his home, so spends most the day working in his home office.</p>
   </ul>
 
-  <h2><a href="https://www.youtube.com/watch?v=dsL16YynAfw">Day In The Life - Independent iOS Developer - The Green Developer Vlogs</a></h2><br>
+  <h2><a href="https://www.youtube.com/watch?v=dsL16YynAfw">Day In The Life - Independent iOS Developer - The Green Developer Vlogs</a></h2>
   <p>This video shows what Sean, an independent iOS Software Developer, would do during a day at work.</p>
 
   <ul>
@@ -186,7 +186,7 @@
       some functionality of creating a game requires learning new ways to code, and thus he relies upon forum posts to learn how to implement this functionality.</p>
   </ul>
 
-  <h2><a href="https://www.youtube.com/watch?v=e_TxH59MclA">Day in the Life of a Japanese Game Programmer</a></h2><br>
+  <h2><a href="https://www.youtube.com/watch?v=e_TxH59MclA">Day in the Life of a Japanese Game Programmer</a></h2>
   <p>This video shows what a Games Developer working for Bandai Namco Entertainment does during a day at work.</p>
   <ul>
     <li><b>What kind of work does the IT professional perform?</b></li><br>
@@ -198,7 +198,7 @@
     <p>Massa spends most of his time at his desk at Bandai Namco’s Tokyo office.</p>
   </ul>
 
-  <h2><a href="https://www.youtube.com/watch?v=ShRIOSRE86A&t=127s">A Day in the Life of an Indie Game Developer</a></h2><br>
+  <h2><a href="https://www.youtube.com/watch?v=ShRIOSRE86A&t=127s">A Day in the Life of an Indie Game Developer</a></h2>
   <p>This video shows Danyil, an Indie Games Developer with a small Indie Games Development Team called Hyve.  Danyil is working on a game titled “Windshire”, which is being made with Unity.</p>
   <ul>
     <li><b>What kind of work does the IT professional perform?</b></li><br>
