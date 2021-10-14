@@ -1,14 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style media="screen">
-body {background-color: Gainsboro;}
-div {
-  text-align: left;
-  margin-left: : 50px;
-  width: auto;
-}
-</style>
 </head>
 
 
@@ -66,12 +58,11 @@ div {
       reluctant to stay in one place too long.<p>
     <h3>Personality Max Learning Styles</h3>
     <p>Primary Learning Style: Primarily Visual, Then Auditory, then Kinesthetic</p>
-    <h3>Big5 Personality Test</h3>
-    <p>Most common traits: Agreeableness, Conscientiousness, Openness to new experience</p>
+    <h3>Big Five Personality Test</h3>
+    <p><b>Most common traits:</b> Agreeableness, Conscientiousness, Openness to new experience</p>
     <br>
 
-    <b>David Hucklebridge</b>
-    <br>
+  <b>David Hucklebridge</b><br>
   <a href="https://www.16personalities.com/intj-personality">Architect</a><br>
   <p>I have the Architect personality, which means that I am high in the Introverted (71%), Intuitive (54%), Thinking (55%), and Judging (53%) personality traits.  I also have a Turbulent (74%) personality trait.  As an Architect I am high in creativity rationality.<p><br>
   <br>
@@ -100,17 +91,13 @@ div {
   <h1><b>Ideal Jobs</b></h1>
   <h3>Senior/Lead Developer (Blockchain)</h3>
     <p>This is a job for a Senior/Lead developer to work for a cryptocurrency trading business. The business works with several large cryptocurrency exchanges to perform Peer to Peer trading. I feel a job like this would be ideal for me as I am fascinated by what blockchain makes possible online. This job would allow me to be involved with app development, website development and design, work with APIs, the Python programming language as well as the latest internet technologies. I have had an interest in cybersecurity since a teenager and because of the inherent risks with blockchains re cyber attacks/hacks I think it would be amazing to work in a position like this where I had to stay up to date with cyber security topics to ensure I could write efficient, safe code that wasn't easily exploited for my client.</p>
-
     <p>I find this job very attractive because they also state the successful applicant may get shares in the company, may be able to extend onto being manager of the whole IT department, and it also says the work can be remote.</p>
-
     <p>The position asks for an exceptional understanding of Python, knowledge of blockchain and cryptocurrencies, front end development tools such as Javascript, VueJS, React & Angular. The company is also saying someone with programming experience in C++, Java, Go, Node & Solidity is beneficial. Further they state knowledge of RDBMS or NoSQL databases is also beneficial.</p>
-
     <p>I have skills in web development, PHP, some Python (from this course already), database design however I am familiar with MYSQL and Phpmyadmin. I have no experience with VUEJS, React, Angular, RDBMS, or NoSQL. I have played around with a small Solidity file to make my own cryptocurrency coin on Binance Smart Chain using Remix. I have experience as a web designer, web admin and database admin for large scale commercial projects, as well as some private projects.</p>
-
     <p>My plan to be able to fulfil all the requirements for this role is to continue to learn as much as I can about blockchain technologies, Solidity, Javascript and cyber security. I will research all of the skills I do not currently have to better advance my understanding throughout this degree. I will continue to stay up to date with the latest web technologies, and also hone my skills on programming automated systems.</p>
 <br><br>
 
-  <a href="https://au.linkedin.com/jobs/view/gameplay-programmer-at-gameloft-2746329876?refId=gsMP5X4f22cgwEKk5VUh2A%3D%3D&trackingId=mM9zF%2FDBzc3aGyAXy5We9Q%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card">Gameplay Programmer</a><br>
+  <h3><a href="https://au.linkedin.com/jobs/view/gameplay-programmer-at-gameloft-2746329876?refId=gsMP5X4f22cgwEKk5VUh2A%3D%3D&trackingId=mM9zF%2FDBzc3aGyAXy5We9Q%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card">Gameplay Programmer</a></h3><br>
     <p>A Gameplay Programmer needs to have a good understanding of programming languages (C++, C#, GML, Python), as well as having a good understanding of common game technologies, processes and software development, such as Rendering pipelines (renders a 3D scene for a 2d screen), Physics, AI, and Online multiplayer.  They also need the ability to work independently and problem-solve issues using documentation and existing processes and codebases, rapidly prototype and produce the final code.</p>
 <br>
 
@@ -124,100 +111,99 @@ div {
 <br>
 
   <h1><b>IT Work</b></h1>
-  <a href="https://www.youtube.com/watch?v=nZh_ue1Nw_k">A Day as an Indie Game Developer</a><br>
+  <h2><a href="https://www.youtube.com/watch?v=nZh_ue1Nw_k">A Day as an Indie Game Developer</a></h2><br>
   <p>This video shows what Karl, an Indie Game Developer with a YouTube channel called ThinMatrix, does during a day at work.  He is currently developing a city-builder game. He also developed the <br>
   nature-themed sandbox game <a href="https://store.steampowered.com/app/853550/Equilinox/">Equilinox</a> which is available on Steam.</p>
 
   <ul>
-    <li>What kind of work does the IT professional perform?</li><br>
+    <li><b>What kind of work does the IT professional perform?</b></li><br>
       <p>As an Indie Games Developer Karl spends his day adapting code, mainly working on developing the save function for his city-builder, adding additional functions to the behaviour trees of NPCs, so that activities performed have multiple actions and aligning these actions with a status of Running, Passed or Failed, and a Boolean value of either True, for both Passed and Failed, or False for Running.  He spent the afternoon working on a new developer tool to import mesh information regarding points of interest (nodes and how these nodes are connected) from a 3D model, and then converts the information to a format suitable Entities document, which is then viewed in Notepad++.  To do this he opens the 3d model in Blender and then applies a mesh showing how all nodes are connected, and then exports the information into a Wavefront (.obj) file, and then created a new Java file that imports the .obj file and then extracts the necessary mesh data, converts the data so the Entities file can read it, and the exports the data to the clipboard, so it can be copied and pasted into the Entities file.</p>
-    <li>What kinds of people do they interact with? Other IT professionals, Clients, Investors, or the general public</li><br>
+    <li><b>What kinds of people do they interact with? Other IT professionals, Clients, Investors, or the general public</b></li><br>
     <p>Karl responds to emails and comments left on his YouTube videos from the general public.</p>
-    <li>Where do they spend most of their time?</li><br>
+    <li><b>Where do they spend most of their time?</b></li><br>
       <p>Karl works from his home, so spends most the day working in his home office.</p>
   </ul>
 
-  <a href="https://www.youtube.com/watch?v=dsL16YynAfw">Day In The Life - Independent iOS Developer - The Green Developer Vlogs</a><br>
+  <h2><a href="https://www.youtube.com/watch?v=dsL16YynAfw">Day In The Life - Independent iOS Developer - The Green Developer Vlogs</a></h2><br>
   <p>This video shows what Sean, an independent iOS Software Developer, would do during a day at work.</p>
 
   <ul>
-    <li>What kind of work does the IT professional perform?</li><br>
+    <li><b>What kind of work does the IT professional perform?</b></li><br>
     <p>As an independent iOS Software Developer the morning Sean works on creating app icons, and redesigning app icons are he finds better ways to design them and compares the iterations.  He constantly loads these app icons into his app, and assesses how they look, so that he can see how better to improve them.  In the afternoon he works on logical problems, such an adding location-based permission and notifications to the app.</p>
-    <li>What kinds of people do they interact with? Other IT professionals, Clients, Investors, or the general public.</li><br>
+    <li><b>What kinds of people do they interact with? Other IT professionals, Clients, Investors, or the general public.</b></li><br>
     <p>In the morning Sean gets onto social media sites to communicate with the general public.</p>
-    <li>Where do they spend most of their time?</li><br>
+    <li><b>Where do they spend most of their time?</b></li><br>
     <p>Sean works from home, so spends most of the day working in his home office.</p>
-    <li>What aspect of their position is most challenging?</li><br>
+    <li><b>What aspect of their position is most challenging?</b></li><br>
     <p>Sean states that he finds the creative side of app design to be the most difficult, such as creating icons, so he is constantly looking for new ways to improve his skills.  He also states that <br>
       some functionality of creating a game requires learning new ways to code, and thus he relies upon forum posts to learn how to implement this functionality.</p>
   </ul>
 
-  <a href="https://www.youtube.com/watch?v=e_TxH59MclA">Day in the Life of a Japanese Game Programmer</a><br>
+  <h2><a href="https://www.youtube.com/watch?v=e_TxH59MclA">Day in the Life of a Japanese Game Programmer</a></h2><br>
   <p>This video shows what a Games Developer working for Bandai Namco Entertainment does during a day at work.</p>
   <ul>
-    <li>What kind of work does the IT professional perform?</li><br>
+    <li><b>What kind of work does the IT professional perform?</b></li><br>
     <p>As a Games Developer for a major gaming company Massa spends most of the day coding, either creating new code, or adapting code to fix issues.</p>
-    <li>What kinds of people do they interact with? Other IT professionals, Clients, Investors, or the general public.</li><br>
+    <li><b>What kinds of people do they interact with? Other IT professionals, Clients, Investors, or the general public.</b></li><br>
     <p>In the morning Massa checks his emails, as well as the company’s internal social media sites for company wide messages.  Massa attends a daily team meeting where they assess what they programmed <br>
     the previous day, what needs to be done today, and discuss any problems that have been discovered.</p>
-    <li>Where do they spend most of their time?</li><br>
+    <li><b>Where do they spend most of their time?</b></li><br>
     <p>Massa spends most of his time at his desk at Bandai Namco’s Tokyo office.</p>
   </ul>
 
   <a href="https://www.youtube.com/watch?v=ShRIOSRE86A&t=127s">A Day in the Life of an Indie Game Developer</a><br>
   <p>This video shows Danyil, an Indie Games Developer with a small Indie Games Development Team called Hyve.  Danyil is working on a game titled “Windshire”, which is being made with Unity.</p>
   <ul>
-    <li>What kind of work does the IT professional perform?</li><br>
+    <li><b>What kind of work does the IT professional perform?</b></li><br>
     <p>Danyil writes code for the game, as well as trouble shoots as issues that the game may encounter, such as an AI pathing issues where they colluded with terrain.  He also takes the game assets designed by the other team members and import these into the game, and then works on building the world so that the world gives off the atmosphere that he is looking for.  Danyil also created the DevLog videos showing the progress state of the game.</p>
-    <li>What kinds of people do they interact with? Other IT professionals, Clients, Investors, or the general public.</li><br>
+    <li><b>What kinds of people do they interact with? Other IT professionals, Clients, Investors, or the general public.</b></li><br>
     <p>Danyil mainly communicates with the general public through his Patreon account and his YouTube channel.  He also communicates with the other members of his team, which includes a character artist, artist, concept artist, sound effect designer, and web developer.</p>
-    <li>Where do they spend most of their time?</li><br>
+    <li><b>Where do they spend most of their time?</b></li><br>
     <p>Danyil works from home, so he spends most of his day working out of his home office.</p>
-    <li>What aspect of their position is most challenging?</li><br>
+    <li><b>What aspect of their position is most challenging?</b></li><br>
     <p>Danyil states that the most challenging part of being an Indie Games Developer is having to juggle games development, as well as working as a Truck Dispatcher, and creating videos for the YouTube channel, called Hyve.</p>
   </ul>
 
 <br>
   <h1><b>IT Technologies</b></h1>
   <h2>Clouds Services, and Servers</h2>
-  <b>What does it do?</b>
+  <h3>What does it do?</h3>
   <ul>
-  <li>What is the state of the art of this new technology?</li>
+    <li><b>What is the state of the art of this new technology?</b></li>
   <p>In January Dell Technologies (2021) produced a list of the top 10 trends in the server market.  These trends focused on how aaS (as a Service) options are becoming more popular as companies look for ways to reduce overhead after a turbulent year facing a global pandemic.  The arrival of 5G Technology will allow for a quicker movement of data over networks, by offering faster data transmission speeds, reduces congestion by increasing bandwidth and reducing latency (Telstra n.d.).  The server industry is progressing from Compute-Centric Architectures to Data Centric Architectures where data is viewed as a critical component of a company’s decision-making process (Vista Projects 2021).</p>
 
-  <li>What can be done now?</li>
+  <li><b>What can be done now?</b></li>
   <p>Server virtualization is a way for companies to reduce their reliance on physical infrastructure and separates a single server into multiple virtual servers that can run independently of each other, and thus allows for multiple servers to run off a single physical server (Network Coverage n.d.).  Thus, server virtualization allows companies to reduce their overheads by reducing their <br>
     publisher hysical server needs, as well as the ongoing maintenance costs, as well a reducing the energy requirements needed to run these physical servers and to provide cooling (Network Coverage n.d.).  Server virtualisation also aids companies with disaster recovery, by allowing them to transfer from one server to another quickly and easily (Network Coverage n.d.).
     Cloud computing services (aaS) offer companies the ability to move some or all of their on-site business requirements to a third-party provider (Red Hat 2019).  Companies can choose to from IaaS (Infrastructure as a Service), where they move their networking, storage, server and virtualization to a third-party provider, examples include AWS Simple Storage Service and Elastic Compute Cloud, Google Compute Engine, and Microsoft Azure Virtual Machines, or PaaS (Platform as a Service) where a company moves not just their infrastructure needs but also some of their application-software needs, examples include Amazon Web Services (AWS) Elastic Beanstalk, Google App Engine, IBM Cloud Pak for Applications, Microsoft Azure Cloud Services, and Red Hat OpenShift, or  SaaS (Software as Service) where a company hands over all their needs to a third-party provider, examples include Adobe Creative Cloud, DocuSign, Microsoft 365, Slack, Zoom (Red Hat 2019).  In addition to IaaS, PaaS and SaaS there is also FaaS (Function as a Service which allows companies to develop and manage application packages directly from the cloud, examples include Amazon Web Services Lambda, Google Cloud Functions, IBM Cloud Functions, and Microsoft Azure Functions, (Red Hat 2019).
 
-  <li>What is likely to be able to do be done soon (say in the next 3 years)?</li>
+  <li><b>What is likely to be able to do be done soon (say in the next 3 years)?</b></li>
   <p>The computer server manufacturing industry is trying to increase the areal density, the amount of storage space that a magnetic disc and tape can hold, and this is calculated by the number of bits per inch (bpi) multiplied by the number of tracks per inch (tpi) (World Wide Technology 2020).  In December 2020 IBM announced that in collaboration with Fujifilm their team of researcher achieved an areal density of 317 billion bits per square inch (B/i2 an increase of 116 billion B/i2 from the previous record of 201 B/i2 in 2017 (Lantz 2020).  Via the usage of advanced networking acceleration technology, such as Intel’s I/O Acceleration Technology, data can be moved over a network more efficiently and this results in a reduction of system overheads (Intel n.d.).  Improvements are being researched into the Transport Control Protocol (TCP) and Internet Protocol (IP), with research into the TCP being focused on modifying the TCP stack to offer increased downloading ability, as well as improving FAST TCP, a congestion control algorithm designed for long-distance and high-latency network connections (Stone 2017).</p>
   <p>Future research is being aimed at server disaggregation, which will break down server components into self-operating parts connected via a network (Fulton III 2020).  The main benefits of server disaggregation are that network functions will be removed from the central processing unit (CPU) to the new data processing unit (DPU), with the DPU being a component of a SmartNIC (network interface card), as moving data storage to an interface managed by the DPU, thus increasing security as now the CPU will now access stored data from the network rather then system bus (Fulton III 2020).</p>
 
-  <li>What technological or other developments make this possible?</li>
+  <li><b>What technological or other developments make this possible?</b></li>
   <p>Virtualization was the catalyst for cloud computing by allowing for an economy of virtual resources made up of virtual servers, virtual storage devices, and virtual operating systems (Tyagi 2021).</p>
-
-  <b>What is the likely impact?</b>
-  <li>What is the potential impact of this development?</li>
+  
+   <h3>What is the likely impact?</h3>
+  <li><b>What is the potential impact of this development?</b></li>
   <p>By 2023 global public cloud services usage will reach more than double the amount of 2019, with Software as a Service (SaaS), and Infrastructure as a Service (IaaS) seeing the largest growth as more companies in the public service, discrete manufacturing, and the banking sector move from using physical servers (World Wide Technology 2020).</p>
 
-  <li>What is likely to change?</li>
+  <li><b>What is likely to change?</b></li>
   <p>Cloud computing services are going to expand as the demand for their services from companies looking beyond their current on-site requirements to basing some, if not all, of their business requirements online (Tyagi 2021).  The scalability of cloud computing services is one of its major benefits and this is one of the main factors that drives companies to prefer cloud computing services over traditional on-site requirements, with storage capacity, processing power and networking capabilities all easily and quickly being scaled up (VMware n.d.).</p>
 
-  <li>Which people will be most affected and how?</li>
+  <li><b>Which people will be most affected and how?</b></li>
   <p>Panduit (n.d.) suggest that the main reasons behind companies embracing cloud computing services is due to data ballooning in size, as well as the projects working with Artificial Intelligence that put a massive strain on on-site facilities and networks.  Virtualization provides many benefits to cloud computing services, firstly by offering added security through the usage of firewalls to prevent unauthorised access and cyber threats and via the usage of encryption protocols (Tyagi 2021).</p>
 
-  <li>Will this create, replace or make redundant any current jobs or technologies?</li>
+  <li><b>Will this create, replace or make redundant any current jobs or technologies?</b></li>
   <p>As server disaggregation becomes functional, it will likely replace the old systems of blade and rack mounting currently used in servers (World Wide Technology 2020).</p>
-
-  <b>How will this affect you?</b>
-  <li>In your daily life, how will this affect you?</li>
+  <h3>How will this affect you?</h3>
+    <li><b>In your daily life, how will this affect you?</b></li>
   <p>For many people the rise of Cloud storage has seen new ways to save data and documents and allows to easy access to documents anywhere and at any time.  The 5G network will enable faster download and upload speeds, allowing users the ability to access content quicker, as well as share information more easily.</p>
 
-  <li>What will be different for you?</li>
+  <li><b>What will be different for you?</b></li>
   <p>For many people that are looking to enter the IT field changes to cloud computing, networking speeds and capabilities, as well as server upgrades will alter how they are able to perform the tasks that they are assigned.</p>
 
-  <li>How might this affect members of your family or your friends?</li>
+  <li><b>How might this affect members of your family or your friends?</b></li>
   <p>Friends and family members will see similar benefits from Could storage and the 5G network, as these allow anyone with access to these services the ability to access and share information quickly and easily.</p>
   </ul>
 
@@ -239,7 +225,7 @@ div {
   </ul>
 
   <h2>Cybersercurity</h2>
-  <b>What does it do?</b>
+  <h3>What does it do?</h3>
   <ul>
   <li>What is the state of the art of this new technology?</li>
   Artificial Intelligence (AI) that used an artificial neural network are currently being used by cybersecurity system to gather and analyse vast quantities of data, looking for certain patterns that distinguish cyber-attacks so that it can learn how to better detect, identify, and address these issues (St. Thomas University 2021).
@@ -257,7 +243,7 @@ div {
   <li>What technological or other developments make this possible?</li>
   <p>For some of the future advances to come about, there needs to be more advancements in areas of research such as AI, blockchain, and quantum physics.</p>
 
-  <b>What is the likely impact?</b>
+  <h3>What is the likely impact?</h3>
   <li>What is the potential impact of this development?</li>
   <p>As more companies start moving as their services to the cloud, it makes these same services a prime target for cybercriminals (Kaspersky 2021).</p>
 
@@ -270,7 +256,7 @@ div {
   <li>Will this create, replace or make redundant any current jobs or technologies?</li>
   <p>According to research conducted by Trend Micro, 41% of IT leaders believe that by 2030 some positions in IT industry will be replaced by AI, with remote and cloud-based systems being hit the hardest (Devanesan 2021).</p>
 
-  <b>How will this affect you?</b>
+  <h3>How will this affect you?</h3>
   <li>In your daily life, how will this affect you?</li>
   The global pandemic saw a lot of people start working from home, and this exposes company networks to potential risks of cyber-attacks, as the home environment of their employees are going to be less secure than the work environment, with employees having to use their personal mobile phones for team meetings vis Zoom or Microsoft Teams, or even as part of a two-factor authentication process (Kaspersky 2021).  As a variety of devices become tied to the internet in a term called the Internet of Things, it exposes new avenues for cybercriminals to try to gain access to networks, computers, and servers (Kaspersky 2021).</p>
 
