@@ -98,6 +98,18 @@
 <br>
 
   <h3><b>Team Profile</b></h3>
+  <b>Kias Henry</b>
+   <h2>Personality test results</h2>
+    <h3>Myer-Briggs Test</h3>
+    <p>Type: Turbulent campaigner, Code: ENFP-T, Role: diplomat, Strategy: Social engagement</p>
+    <p>The ENFP is quirky, curious, creative, and idealistic. As one of the most open-minded personality types, ENFPs bring an experimental 
+      and explorative attitude to their life and work. Enticed by new ideas, cultures, and possibilities, ENFPs enjoy traveling and are 
+      reluctant to stay in one place too long.<p>
+    <h3>Personality Max Learning Styles</h3>
+    <p>Primary Learning Style: Primarily Visual, Then Auditory, then Kinesthetic</p>
+    <h3>Big5 Personality Test</h3>
+    <p>Most common traits: Agreeableness, Conscientiousness, Openness to new experience</p>
+    <br>
   <b>David Hucklebridge</b>
   <a href="https://www.16personalities.com/intj-personality">Architect</a><br>
   I have the Architect personality, which means that I am high in the Introverted (71%), Intuitive (54%), Thinking (55%), and <br>
