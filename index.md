@@ -209,11 +209,12 @@
     <p>Danyil works from home, so he spends most of his day working out of his home office.</p>
     <li><b>What aspect of their position is most challenging?</b></li><br>
     <p>Danyil states that the most challenging part of being an Indie Games Developer is having to juggle games development, as well as working as a Truck Dispatcher, and creating videos for the YouTube channel, called Hyve.</p>
-  
+    </ul>
 
 <br>
    
     <h2><a href="https://www.youtube.com/watch?v=ikJ0i1GW0Bw">Day In The Life As Remote Blockchain Developer</a></h2>
+    <ul>
     <li><b>What kind of work does the blockchain developer perform?</b></li><br>
     <p>Shane works for a blockchain company called GridLock.  Shane usually starts working around 8am. Shane starts his day with a shower and coffee and firing up his laptop and     computer in his home office.  In this video, for this week, Shane is starting off with a bit of sprint review, reviewing the last sprint, some sprint planning along with         some development and meetings.</p>
     <p>Shane prepares documents relating to sprint 7 for the upcoming team meeting to discuss what went well and what didn't.
