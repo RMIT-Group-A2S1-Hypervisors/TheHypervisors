@@ -209,7 +209,7 @@
     <p>Danyil works from home, so he spends most of his day working out of his home office.</p>
     <li><b>What aspect of their position is most challenging?</b></li><br>
     <p>Danyil states that the most challenging part of being an Indie Games Developer is having to juggle games development, as well as working as a Truck Dispatcher, and creating videos for the YouTube channel, called Hyve.</p>
-  </ul>
+  
 
 <br>
    
@@ -222,7 +222,7 @@
     <p>In this video it was not made clear, but one would assume he was conversing with other staff at the company he worked for.</p>
     <li><b>Where do they spend most of their time?</b></li><br>
     Shane spends most of his time in his home office, though he did like to get outside for a walk in the snow.
-    <br>
+    <br></ul>
   <h1><b>IT Technologies</b></h1>
   <h2>Clouds Services, and Servers</h2>
   <ul>
