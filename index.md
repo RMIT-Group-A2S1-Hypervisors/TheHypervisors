@@ -40,9 +40,9 @@
  <h3><b>Name:</b></h3> <p>Cody Sadler</p>
  <h3><b>Student Number:</b></h3> <p>s3923221</p>
  <h3><b>Background:</b></h3>
- <p>My name is cody sadler i am 19 years of age i live in a rural town in victoria about 3 hours away from melbourne. i am a chill guy who enjoys a nice cold drink while listening to Guts Theme.</p>
+ <p>My name is Cody Sadler. I am 19 years of age. I live in a rural town in Victoria about 3 hours away from Melbourne. I am a chill guy who enjoys a nice cold drink while listening to Guts Theme.</p>
  <h3><b>Hobbies:</b></h3>
- <p>My hobbies include; Technology repairs and teardowns, exploring all aspects of filmmaking and the production of a film or television show, consuming film, shows, anime and   games is what i'm most likely doing throughout the day.</p>
+ <p>My hobbies include; Technology repairs and teardowns, exploring all aspects of filmmaking and the production of a film or television show, consuming film, shows, anime and   games is what I'm most likely doing throughout the day.</p>
     
  <h3><b>Name:</b></h3> <p>Karl Cruz</p>
  <h3><b>Student Number:</b></h3> <p></p>
