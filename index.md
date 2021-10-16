@@ -288,7 +288,7 @@
 
   <p>These cars utilise sensory devices such as GPS, radar, sonor, lidar and inertial measuring units.  They use an internal computer to interpret this sensory data and make informed 'decisions' about the safest driving options in any given moment. According to Dingyi(2018) these cars rely on "environmental perception, decision making and motion control" to operate.</p>
 
-<p>The first driveless car was made by google which they called Waymo in October of 2015 they took their first solo drive around Austin in a 10 minute trip, in one of their early 'pod' models. </p>
+<p>The first driverless car was made by google which they called Waymo in October of 2015 they took their first solo drive around Austin in a 10 minute trip, in one of their early 'pod' models. </p>
 
 <p>According to Twi-Global (2019) there are six levels of autonomous driving:</p>
 
@@ -336,7 +336,7 @@ The market for global autonomous vehicles is currently at over $54 billion and c
   <p>If I wish to catch a taxi, drive on the roads, get a bus, ride a motorbike, drive a truck or any other transport on roads, the rise of autonomous vehicles will effect me whether I like it or not as they will be on the roads, they may malfunction, they might stop suddenly, they might also make the roads a safer place it is hard to say.</p>
 
   <li><b>What will be different for you?</b></li>
-  <p>According to the statistics so far, driveless cars, like autopilot in planes, can make the roads safer so it should mean that life is safer on the roads for me.  It will mean less chance of work becoming a cab or uber driver for example.</p>
+  <p>According to the statistics so far, driverless cars, like autopilot in planes, can make the roads safer so it should mean that life is safer on the roads for me.  It will mean less chance of work becoming a cab or uber driver for example.</p>
 
   <li><b>How might this affect members of your family or your friends?</b></li>
   <p>This is such a big change to the cars on the roads and driving in general that it will affect everybody who uses the roads in any way shape or form.  Just like how it will effect me, it may either positively or negatively affect my friends and family but the hope is with time, and increased technological breakthrough that overall it will effect my friends and family in a very positive, safety increasing way. 
