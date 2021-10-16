@@ -404,7 +404,7 @@ On the other hand a Raspberry Pi is pretty much a credit card sized general purp
   
   <h2>References</h2>
   <ul>
-  <li>Arduino 2021, <i><What is Arduino?</i>, Arduino, viewed 15 October 2021, <a href="https://www.arduino.cc/en/guide/introduction">https://www.arduino.cc/en/guide/introduction</a>.</li>
+    <li>Arduino 2021, <i>What is Arduino?</i>, Arduino, viewed 15 October 2021, <a href="https://www.arduino.cc/en/guide/introduction">https://www.arduino.cc/en/guide/introduction</a>.</li>
   <li>ExplainingComputers n.d., <i>Single board computers</i>, ExplainingComputers, viewed 15 October 2021, <a href="https://www.explainingcomputers.com/sbc.html">https://www.explainingcomputers.com/sbc.html</a>.</li>
   <li>Long, M 2021, <i>Best single-board computers for every use and budget in 2021</i>, Electromaker, viewed 15 October 2021, <a href="https://www.electromaker.io/blog/article/best-single-board-computers">https://www.electromaker.io/blog/article/best-single-board-computers</a>.</li>
   <li>Raspberry Pi Australia 2021, <i>Raspberry Pi 4 model b</i>, Raspberry Pi Australia, viewed 15 October 2021, <a href="https://raspberry.piaustralia.com.au/products/raspberry-pi-4">https://raspberry.piaustralia.com.au/products/raspberry-pi-4</a>.</li>
