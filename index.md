@@ -58,9 +58,9 @@
   <h3><b>IT Experience:</b></h3> <p> Currently studying Introduction to Programming, Introduction to IT and Cybersecurity Data Analysis<br></p>
 <br>
 
-  <h3><b>Team Profile</b></h3>
-  <b>Kias Henry</b>
-   <h3>Personality test results</h3>
+  <h2><b>Team Profile</b></h2>
+  <h2>Personality Test Results</h2>
+    <b>Kias Henry</b>
     <h3>Myers–Briggs Type Indicator</h3>
     <p><b>Type:</b> Turbulent Campaigner, <b>Code:</b> ENFP-T, <b>Role:</b> Diplomat, <b>Strategy:</b> Social Engagement</p>
     <p>The ENFP is quirky, curious, creative, and idealistic. As one of the most open-minded personality types, ENFPs bring an experimental
@@ -96,7 +96,6 @@
   <p>The results of this test am a highly creative person, who can think of subject in a abtract manner (Openness). I am a peacemaker, and will try to put the needs and views of others before my own (Conscientiousness). However, I am highly critical and I am highly susceptible to negative emotions (Neuroticism).</p>
     
   <b>Cody Sadler</b>
-  <h3>Personality test results</h3>
   <h3>Myers–Briggs Type Indicator</h3>
   <p><b>Type:</b> Assertive Virtuoso, <b>Code:</b> ISTP-A, <b>Role:</b> Explorer, <b>Strategy:</b> 	Confident Individualism</p>
   <p> i am Creative and Practical, relaxed tending to live in the moment then thinking about the future. However Virtuosos can be insensitive in some situations using logic with little emotion even when meeting new people. Virtuosos can be easily bored and tend to dislike commitment, once something is learned and understood they will try to move on to something more interesting. Virtuosos also tend to keep to themselves instead of talking to others; they would rather prefer silence, which could prove very troublesome when placed into a team.<p>
@@ -106,7 +105,6 @@
   <p><b>Most common traits:</b> Openness to new experience, Conscientiousness, Neuroticism </p>
 
   <b>Karl Cruz</b>
-  <h3>Personality test results</h3>
   <h3>Myers–Briggs Type Indicator</h3>
   <p><b>Type:</b> Logican, <b>Code:</b> INTP-A , <b>Role:</b> Analyst, <b>Strategy:</b> Confident Individualism	</p>
   <p> As a Logician (INTP) I am someone with an Introverted, Intuitive, Thinking, and Prospecting personality traits.<p>
@@ -114,9 +112,19 @@
   <p>As auditory being my main learning style, I learn more by discussing the topic, hearing opinions or facts. </p>
   <h3>Big Five Personality Test</h3>
   <p><b>Most common traits:</b> Analytical, Inventive, Honest, Eccentric, Rational</b>  </p>
-    
+
+  <h2>Comparison of Personality Test Results</h2>
+  <h3>Myers-Briggs Test</h3>
+    <p>A comparison of the Myers-Briggs Type Indicator results show that we have a wide range of personality types.  We have a Kias Henry who is a Turbulent Campaigner (ENFP-T).   The Turbulent Campaigner is a Diplomat, with a strategy of Social Engagement.  The Turbulent Campaigner personality is described as enthusiastic, charismatic, and creative, and they are known for being charming, energetic, and independent.  They have excellent people skills, genuinely care about other people, and have an abundance of enthusiasm.  We have David Hucklebridge who is an Architect (INTJ-T).  Architect is an Analyst, with a strategy of Constant Improvement.  People with the Architect personality are described as being highly analytical, creative, and logical.  They tend to be highly introverted and prefer working alone.  They focus on logical and objective information.  We have Cody Sadler who is an Explorer (ISTP-A).  The Assertive Virtuoso is an Explorer, with a strategy of Confident Individualism.  People with the Assertive Virtuoso personality are described as being fiercely independent and enjoy having time to think alone.  They tend to be results-oriented, and when they find a problem they wish to get to the bottom of it and offer solutions.  We have Karl Cruz who is a Logician (INTP-A).  The Logician is an Analyst, with a strategy of Confident Individualism.  People with the Logician personality are described as being quiet and analytical.  They are logical and enjoying theoretical concepts, and since place a high value on intellect, they based decisions on objective information.</p>
+  <h3>Learning Style</h3>
+    <p>A comparison of the test results for learning styles, we have very similar learning styles.  Kias is someone who learns best with Visual aids; however, he can also learn via Auditory means.  David is someone who learns both via Auditory means, and by Visual means.  Cody is someone who learns mainly via Visual means; however, he can also learn via Auditory means.  Karl is someone who learns best with Auditory means, and thus learns best by discussing the topic.</p>
+  <h3>Big Five Personality Test</h3>
+    <p>A comparison of the Big Five Personality test results show that we have a wide range of personality styles.  According to Kias’ Big Five Personality test results, he is high in Agreeableness, Conscientiousness, and Openness.  According to David’s Big Five test results, he is high in Openness, Neuroticism, and Agreeableness.  According to Cody’s Big Five Personality test results, he is high Openness, Conscientiousness, and Neuroticism.  According to Karl’s Big Five Personality test results, he is high in Analytical, Inventive, Honest, Eccentric, Rational.</p>
+
+  
 <br>
   <h1><b>Ideal Jobs</b></h1>
+  <h3>Kias Henry</h3>
   <h3>Senior/Lead Developer (Blockchain)</h3>
     <p>This is a job for a Senior/Lead developer to work for a cryptocurrency trading business. The business works with several large cryptocurrency exchanges to perform Peer to Peer trading. I feel a job like this would be ideal for me as I am fascinated by what blockchain makes possible online. This job would allow me to be involved with app development, website development and design, work with APIs, the Python programming language as well as the latest internet technologies. I have had an interest in cybersecurity since a teenager and because of the inherent risks with blockchains re cyber attacks/hacks I think it would be amazing to work in a position like this where I had to stay up to date with cyber security topics to ensure I could write efficient, safe code that wasn't easily exploited for my client.</p>
     <p>I find this job very attractive because they also state the successful applicant may get shares in the company, may be able to extend onto being manager of the whole IT department, and it also says the work can be remote.</p>
@@ -124,7 +132,8 @@
     <p>I have skills in web development, PHP, some Python (from this course already), database design however I am familiar with MYSQL and Phpmyadmin. I have no experience with VUEJS, React, Angular, RDBMS, or NoSQL. I have played around with a small Solidity file to make my own cryptocurrency coin on Binance Smart Chain using Remix. I have experience as a web designer, web admin and database admin for large scale commercial projects, as well as some private projects.</p>
     <p>My plan to be able to fulfil all the requirements for this role is to continue to learn as much as I can about blockchain technologies, Solidity, Javascript and cyber security. I will research all of the skills I do not currently have to better advance my understanding throughout this degree. I will continue to stay up to date with the latest web technologies, and also hone my skills on programming automated systems.</p>
 <br>
-
+  
+  <h3>David Hucklebridge</h3>
   <h3><a href="https://au.linkedin.com/jobs/view/gameplay-programmer-at-gameloft-2746329876?refId=gsMP5X4f22cgwEKk5VUh2A%3D%3D&trackingId=mM9zF%2FDBzc3aGyAXy5We9Q%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card">Gameplay Programmer</a></h3>
     <p>The role of a Game Programmer is to develop the software that will be used to create video games.  They need to have good coloration skills, as they work closely with the Game Designers and Game Developers during the video game pipeline process, and they will create the prototypes as a proof of concept during the early stages of the production pipeline, as well as setting up the game engine that will power the games.  They need good problem-solving skills, so they need a good understanding of programming languages (C++, C#, GML, Python), as well as a firm understanding of gaming software, and a good understanding of common game technologies, processes, and software development, such as Rendering pipelines (renders a 3D scene for a 2d screen), Physics, AI, and Online multiplayer.  They also need the ability to work independently, and problem-solve issues using documentation and existing processes and codebases, rapidly prototype and produce the final code.</p>
 <br>
