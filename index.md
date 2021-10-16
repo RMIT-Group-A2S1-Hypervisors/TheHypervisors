@@ -204,7 +204,7 @@
     <li>AWS Lambda: 269 jobs;</li>
     <li>DynamoDb: 139 jobs;</li>
     <li>Jest: 114 jobs;</li>
-    <li>ES6: 80 jobs; and</li>]
+    <li>ES6: 80 jobs; and</li>
     <li>Koa; 2 jobs.</li>
   </ul>
 
