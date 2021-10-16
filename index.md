@@ -164,8 +164,7 @@
     <li>Database Development & Administration: 411 jobs.</li>
   </ul>
 
-  <p>Hays suggest that the top three IT jobs in demand in Australia in 2021 are Cloud Engineers, Security Awareness Consultants, and Full Stack Developers.</p>
-  <p>The most in demand skills for IT professionals according to jobs posted to Seek in the past 30 days for Australia are:</p>
+  <p>Hays suggest that the top three IT jobs in demand in Australia in 2021 are Cloud Engineers, Security Awareness Consultants, and Full Stack Developers.  The most in demand skills for IT professionals according to jobs posted to Seek in the past 30 days for Australia are:</p>
   <ul>
     <li>Business Management: 8,845 jobs;</li>
     <li>SQL: 8,680 jobs;</li>
@@ -192,8 +191,7 @@
     <li>Git: 1,156 jobs; and</li>
     <li>Microsoft Windows: 1,084 jobs.</li>
   </ul>
-  <p>According to Seek there were 74 Games Developer job postings in the past 30 days for Australia.</p>
-  <p>The most in demand skills in the Games Industry according to jobs posted to Seek in the past 30 days for Australia are:</p>
+  <p>According to Seek there were 74 Games Developer job postings in the past 30 days for Australia.  The most in demand skills in the Games Industry according to jobs posted to Seek in the past 30 days for Australia are:</p>
   <ul>
     <li>Unity: 475 jobs;</li>
     <li>Unreal: 17 jobs</li>
