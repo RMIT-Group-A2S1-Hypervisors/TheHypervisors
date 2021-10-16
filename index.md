@@ -40,9 +40,16 @@
   <h3><b>Name:</b></h3> <p>Cody Sadler</p>
   <h3><b>Student Number:</b></h3> <p>s3923221</p>
   <h3><b>Background:</b></h3>
+    <p>My name is cody sadler i am 19 years of age i live in a rural town in victoria about 3 hours away from melbourne. i am a chill guy who enjoys a nice cold drink while listening to Guts Theme.</p>
   <h3><b>Hobbies:</b></h3>
+    <p>My hobbies include; Technology repairs and teardowns, exploring all aspects of filmmaking and the production of a film or television show, consuming film, shows, anime and games is what i'm most likely doing throughout the day.
+</p>
   <h3><b>IT Interests:</b></h3>
+    <p>My interest in IT started relatively early in my life when I first started using a computer.
+         Pretty much I was hooked on anything technology from the hardware of PCs and old gaming consoles used to the software they were using and the code that made the apps, games and websites I use daily.
+</p>
   <h3><b>IT Experience:</b></h3>
+    <p>i completed a Cert III in screen and media my view changed and saw how i could make it a career. During that course one of  the assignments was web development. What I found was pretty fun diving further than just HTML and CSS. I looked a little into Java just to have some fun.</p>
 <br>
 
   <h3><b>Team Profile</b></h3>
@@ -79,6 +86,15 @@
     <li>Neuroticism: 71%</li>
   </ul>
   <p>The results of this test am a highly creative person, who can think of subject in a abtract manner (Openness). I am a peacemaker, and will try to put the needs and views of others before my own (Conscientiousness). However, I am highly critical and I am highly susceptible to negative emotions (Neuroticism).</p>
+    <b>Cody Sadler</b>
+   <h3>Personality test results</h3>
+    <h3>Myer-Briggs Test</h3>
+    <p><b>Type:</b> Assertive Virtuoso, <b>Code:</b> ISTP-A, <b>Role:</b> Explorer, <b>Strategy:</b> 	Confident Individualism</p>
+    <p> i am Creative and Practical, relaxed tending to live in the moment then thinking about the future. However Virtuosos can be insensitive in some situations using logic with little emotion even when meeting new people. Virtuosos can be easily bored and tend to dislike commitment, once something is learned and understood they will try to move on to something more interesting. Virtuosos also tend to keep to themselves instead of talking to others; they would rather prefer silence, which could prove very troublesome when placed into a team.<p>
+    <h3>Personality Max Learning Styles</h3>
+    <p>Primary Learning Style: Primarily Visual, Then Auditory, then Tactile</p>
+    <h3>Big Five Personality Test</h3>
+    <p><b>Most common traits:</b> Openness, Conscientiousness, Neuroticism to new experience</p>
 
 <br>
   <h1><b>Ideal Jobs</b></h1>
@@ -93,7 +109,20 @@
   <h3><a href="https://au.linkedin.com/jobs/view/gameplay-programmer-at-gameloft-2746329876?refId=gsMP5X4f22cgwEKk5VUh2A%3D%3D&trackingId=mM9zF%2FDBzc3aGyAXy5We9Q%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card">Gameplay Programmer</a></h3>
     <p>The role of a Game Programmer is to develop the software that will be used to create video games.  They need to have good coloration skills, as they work closely with the Game Designers and Game Developers during the video game pipeline process, and they will create the prototypes as a proof of concept during the early stages of the production pipeline, as well as setting up the game engine that will power the games.  They need good problem-solving skills, so they need a good understanding of programming languages (C++, C#, GML, Python), as well as a firm understanding of gaming software, and a good understanding of common game technologies, processes, and software development, such as Rendering pipelines (renders a 3D scene for a 2d screen), Physics, AI, and Online multiplayer.  They also need the ability to work independently, and problem-solve issues using documentation and existing processes and codebases, rapidly prototype and produce the final code.</p>
 <br>
-
+<h3>Cody Sadler</h3>
+    <h3>C++ Software Developer</h3>
+    <p>
+In this job position at Blackmagic Design you're making software and firmware for video and photo production that are used on hollywood movies,tv shows and music videos. You will be using Qt to code with C++ to build software and firmware from the ground up and you will be involved in most aspects of the softwares life cycle from conception to launch.
+I found this job would be perfect for me to work at as it focuses on my 2 favourite passions; Filmmaking and IT. It's just perfect, I have also heard of Blackmagic as a brand for cinema quality equipment. It's a company that has a good reputation
+</p>
+    <h4>Skills required for job position:</h4>
+    <ul>
+      <li>Skilled with programming knowledge and implementing solutions using C++</li>
+      <li>Have experience developing on Mac OS or Linux</li>
+      <li>Know how to use the software Qt using modern C++</li>
+      <li>Prior experience with complex data structures and have used multi process or threaded applications</li>
+      <li>Knowledge of Python is also a added bonus</li>  
+    </ul>
   <h1><b>Tools</b></h1>
   <b>Group Website:</b> <a href="https://rmit-group-a2s1-hypervisors.github.io/TheHypervisors/">The Hypervisors</a><br>
   <b>Group's Git Repository:</b> <a href="https://github.com/RMIT-Group-A2S1-Hypervisors/TheHypervisors/tree/gh-pages">RMIT-Group-A2S1-Hypervisors</a>
@@ -351,7 +380,20 @@
   <li>Unisys n.d., Cyber attacks - what you need to know, Unisys, viewed 13 October 2021, <a href="https://www.unisys.com/glossary/cyber-attack/">https://www.unisys.com/glossary/cyber-attack/</a>.</li>
   <li>Whitehead, M 2020, What is the future of cybersecurity?, Trustwave, viewed 13 October 2021, <a href="https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/what-is-the-future-of-cybersecurity/">https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/what-is-the-future-of-cybersecurity/</a>.</li>
   </ul>
-
+<h2>Raspberry Pis and SBCs</h2>
+  <ul>
+    <h3>What Does it do?</h3>
+    <p>Raspberry pis and arduinos are not exactly the same thing; both share differences.
+An arduino is a small microcontroller motherboard, it's a simple computer for running a single program at a time repeatedly. An Arduino would be good for simple tasks like opening and closing a door, turning a light on or off or even make them read the temperature rather than publishing the weather to a social site online.<br>
+On the other hand a Raspberry pi is pretty much a credit card sized general purpose computer complete with a full IO like usbs, ethernet and display outputs. Overall a raspberry pi is a much more complex board than a arduino so they have the ability to run multiple programs at once and also can complete more complex tasks, Because a raspberry pi is a full fledged PC it can run and complete intense calculations you could even mine bitcoin if you wanted!, you can set up an OS like linux on a raspberry pi.
+</p>
+    <li>What is the state of the art of this new technology?</li>
+    <p>In terms of single board micro computers both the arduino and the raspberry don't come close in terms to straight power compared to other more expensive SBCs, However the Raspberry pi 4 is still one of the best board you can get for normal consumers for the performance you get at the price of as low as $75 AUD is incredibly good.</p>
+    <li>What can be done now?</li>
+    <p>SBCs like arduinos and raspberry pis can be used in many different ways today, the most common uses of these boards are; learning how to program and work with robotics, home automation, running NAS drives, perform basic computer task like web browsing, word processing and also create emulation stations like Retropie to run old games.</p>
+    <li>What is likely to be able to do be done soon (say in the next 3 years)?</li>
+    <p>SBCs have potentials for future with the ever growing and more powerful hardware components that the industry are projecting to be producing SBCs within the next few years could become even more power efficient than they already are, support higher powered non arm processors like a ryzen cpu from AMD or even support a apu with decent graphics or even a dedicated gpu chip on the board.Although most SBCs are already tiny companies are already trying to make them smaller.  </p>
+  </ul>
 
 <br>
   <h1><b>Project Idea</b></h1>
