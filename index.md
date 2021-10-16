@@ -387,31 +387,31 @@
   
 <h2>Raspberry Pis and SBCs</h2>
   <ul>
-    <h3>What Does it do?</h3>
-    <p>Raspberry Pis and Arduinos are not exactly the same thing; both share differences.
+  <h3>What Does it do?</h3>
+  <p>Raspberry Pis and Arduinos are not exactly the same thing; both share differences.
 An arduino is a small microcontroller motherboard, it's a simple computer for running a single program at a time repeatedly (Arduino 2021). An Arduino would be good for simple tasks like opening and closing a door, turning a light on or off or even make them read the temperature rather than publishing the weather to a social site online (Teja 2021).<br>
 On the other hand a Raspberry Pi is pretty much a credit card sized general purpose computer complete with a full IO like usbs, ethernet and display outputs (Raspberry Pi Foundation 2021). Overall a Raspberry Pi is a much more complex board than an Arduino so they have the ability to run multiple programs at once and also can complete more complex tasks (Teja 2021). Because a Raspberry Pi is a full fledged PC it can run and complete intense calculations you could even mine bitcoin if you wanted!, you can set up an OS like linux on a Raspberry Pi.</p>
     
-    <li>What is the state of the art of this new technology?</li>
-    <p>In terms of single board micro computers (SBCs) both the Arduino and the Raspberry Pi don't come close in terms to straight power compared to other more expensive SBCs (Long 2021). However the Raspberry Pi 4 is still one of the best board you can get for normal consumers for the performance you get at the price of $74.50 AUD is incredibly good (Raspberry Pi Australia 2021).</p>
+  <li>What is the state of the art of this new technology?</li>
+  <p>In terms of single board micro computers (SBCs) both the Arduino and the Raspberry Pi don't come close in terms to straight power compared to other more expensive SBCs (Long 2021). However the Raspberry Pi 4 is still one of the best board you can get for normal consumers for the performance you get at the price of $74.50 AUD is incredibly good (Raspberry Pi Australia 2021).</p>
     
-    <li>What can be done now?</li>
-    <p>SBCs like Arduinos and Raspberry Pis can be used in many different ways today, the most common uses of these boards are; learning how to program and work with robotics, home automation, running NAS drives, perform basic computer task like web browsing, word processing and also create emulation stations like Retropie to run old games (ExplainingComputers n.d.).</p>
+  <li>What can be done now?</li>
+  <p>SBCs like Arduinos and Raspberry Pis can be used in many different ways today, the most common uses of these boards are; learning how to program and work with robotics, home automation, running NAS drives, perform basic computer task like web browsing, word processing and also create emulation stations like Retropie to run old games (ExplainingComputers n.d.).</p>
     
-    <li>What is likely to be able to do be done soon (say in the next 3 years)?</li>
-    <p>SBCs have potentials for future with the ever growing and more powerful hardware components that the industry are projecting to be producing SBCs within the next few years could become even more power efficient than they already are, support higher powered non arm processors like a ryzen cpu from AMD or even support a apu with decent graphics or even a dedicated gpu chip on the board. Although most SBCs are already tiny companies are already trying to make them smaller.  </p>
+  <li>What is likely to be able to do be done soon (say in the next 3 years)?</li>
+  <p>SBCs have potentials for future with the ever growing and more powerful hardware components that the industry are projecting to be producing SBCs within the next few years could become even more power efficient than they already are, support higher powered non arm processors like a ryzen cpu from AMD or even support a apu with decent graphics or even a dedicated gpu chip on the board. Although most SBCs are already tiny companies are already trying to make them smaller.  </p>
   </ul>
   
   <h2>References</h2>
   <ul>
-    <li>Arduino 2021, <i><What is Arduino?/i>, Arduino, viewed 15 October 2021, <a href="https://www.arduino.cc/en/guide/introduction">https://www.arduino.cc/en/guide/introduction</a>.</li>
-    <li>ExplainingComputers n.d., <i>Single board computers</i>, ExplainingComputers, viewed 15 October 2021, <a href="https://www.explainingcomputers.com/sbc.html">https://www.explainingcomputers.com/sbc.html</a>.></li>
-    <li>Long, M 2021, <i>Best single-board computers for every use and budget in 2021</i>, Electromaker, viewed 15 October 2021, <a href="https://www.electromaker.io/blog/article/best-single-board-computers">https://www.electromaker.io/blog/article/best-single-board-computers</a>.></li>
-    <li>Raspberry Pi Australia 2021, <i>Raspberry Pi 4 model b</i>, Raspberry Pi Australia, viewed 15 October 2021, <a href="https://raspberry.piaustralia.com.au/products/raspberry-pi-4">https://raspberry.piaustralia.com.au/products/raspberry-pi-4</a>.></li>
-    <li>Raspberry Pi Foundation 2021, <i>What is a Raspberry Pi?</i>, Raspberry Pi Foundation, viewed 15 October 2021, <a href="https://www.raspberrypi.org/help/what-%20is-a-raspberry-pi/">https://www.raspberrypi.org/help/what-%20is-a-raspberry-pi/</a>.></li>
-    <li>Teja, R 2021, <i>What are the differences between Raspberry Pi and Arduino?</i>, Electronics Hub, viewed 15 October 2021, <a href="https://www.electronicshub.org/raspberry-pi-vs-arduino/">https://www.electronicshub.org/raspberry-pi-vs-arduino/</a>.></li>
+  <li>Arduino 2021, <i><What is Arduino?/i>, Arduino, viewed 15 October 2021, <a href="https://www.arduino.cc/en/guide/introduction">https://www.arduino.cc/en/guide/introduction</a>.</li>
+  <li>ExplainingComputers n.d., <i>Single board computers</i>, ExplainingComputers, viewed 15 October 2021, <a href="https://www.explainingcomputers.com/sbc.html">https://www.explainingcomputers.com/sbc.html</a>.></li>
+  <li>Long, M 2021, <i>Best single-board computers for every use and budget in 2021</i>, Electromaker, viewed 15 October 2021, <a href="https://www.electromaker.io/blog/article/best-single-board-computers">https://www.electromaker.io/blog/article/best-single-board-computers</a>.></li>
+  <li>Raspberry Pi Australia 2021, <i>Raspberry Pi 4 model b</i>, Raspberry Pi Australia, viewed 15 October 2021, <a href="https://raspberry.piaustralia.com.au/products/raspberry-pi-4">https://raspberry.piaustralia.com.au/products/raspberry-pi-4</a>.></li>
+  <li>Raspberry Pi Foundation 2021, <i>What is a Raspberry Pi?</i>, Raspberry Pi Foundation, viewed 15 October 2021, <a href="https://www.raspberrypi.org/help/what-%20is-a-raspberry-pi/">https://www.raspberrypi.org/help/what-%20is-a-raspberry-pi/</a>.></li>
+  <li>Teja, R 2021, <i>What are the differences between Raspberry Pi and Arduino?</i>, Electronics Hub, viewed 15 October 2021, <a href="https://www.electronicshub.org/raspberry-pi-vs-arduino/">https://www.electronicshub.org/raspberry-pi-vs-arduino/</a>.></li>
     
-    <li>Tan, C 2021, <i>Jetson Nano vs Raspberry Pi 4: the differences</i>, All3DP, viewed 15 October 2021, <a href="https://all3dp.com/2/raspberry-pi-vs-jetson-nano-differences/#i-3-the-big-difference">https://all3dp.com/2/raspberry-pi-vs-jetson-nano-differences/#i-3-the-big-difference</a>.></li>
+  <li>Tan, C 2021, <i>Jetson Nano vs Raspberry Pi 4: the differences</i>, All3DP, viewed 15 October 2021, <a href="https://all3dp.com/2/raspberry-pi-vs-jetson-nano-differences/#i-3-the-big-difference">https://all3dp.com/2/raspberry-pi-vs-jetson-nano-differences/#i-3-the-big-difference</a>.></li>
   </ul>
 
 <br>
