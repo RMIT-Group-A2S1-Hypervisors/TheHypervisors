@@ -44,19 +44,18 @@
  <h3><b>Hobbies:</b></h3>
  <p>My hobbies include; Technology repairs and teardowns, exploring all aspects of filmmaking and the production of a film or television show, consuming film, shows, anime and   games is what I'm most likely doing throughout the day.</p>
     
- <h3><b>Name:</b></h3> <p>Karl Cruz</p>
- <h3><b>Student Number:</b></h3> <p>S3921177 </p>
- <h3><b>Background:</b></h3>
- <p></p>
- <h3><b>Hobbies:</b></h3>
- <p></p>
-    
-  <h3><b>IT Interests:</b></h3>
-    <p>My interest in IT started relatively early in my life when I first started using a computer.
-         Pretty much I was hooked on anything technology from the hardware of PCs and old gaming consoles used to the software they were using and the code that made the apps, games and websites I use daily.
-</p>
-  <h3><b>IT Experience:</b></h3>
-    <p>i completed a Cert III in screen and media my view changed and saw how i could make it a career. During that course one of  the assignments was web development. What I found was pretty fun diving further than just HTML and CSS. I looked a little into Java just to have some fun.</p>
+    <h3><b>Name:</b></h3> <p>Karl Cruz</p>
+  <h3><b>Student Number:</b></h3> <p>s3921177</p>
+  <h3><b>Background:</b></h3>
+  <b>Nationality:</b> <p>Filipino</p>
+  <b>Culture:</b> <p>Australian/Filipino</p>
+  <b>Education:</b>
+  <ul>
+        <li>Highschool Graduate 2018</li>
+  </ul>
+  <h3><b>Hobbies:</b></h3> <p>Gaming, Music, Health</p>
+  <h3><b>IT Interests:</b></h3> <p>I’ve always found technology to be interesting. I find it interesting because of what more it can become in the future and how it can help with simple and hard activities. My interest sparked when a friend of mine wanted to start a business which was based online. I chose to study in RMIT (Online) because most of the people I know have graduated or is currently studying in RMIT and it is a potential University that I would like to be with. I expect to learn and experience the broad world of IT but more to do with how to handle technology.</p>
+  <h3><b>IT Experience:</b></h3> <p> Currently studying Introduction to Programming, Introduction to IT and Cybersecurity Data Analysis<br></p>
 <br>
 
   <h3><b>Team Profile</b></h3>
