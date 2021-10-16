@@ -77,7 +77,7 @@
   <h3>Myer-Briggs Test</h3>
   <p>I have the <a href="https://www.16personalities.com/intj-personality">Architect</a> personality, which means that I am high in the Introverted (71%), Intuitive (54%), Thinking (55%), and Judging (53%) personality traits.  I also have a Turbulent (74%) personality trait.  As an Architect I am high in creativity rationality.<p>
 
-  <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=9&V=8&T=3">What's Your Learning Style? The Results</a><br>
+  <h3><a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=9&V=8&T=3">What's Your Learning Style? The Results</a></h3><br>
   <ul>
     <li>Auditory: 45%</li>
     <li>Visual: 40%</li>
@@ -85,7 +85,7 @@
   </ul>
   <p>As an auditory learner, I perform best by talking over issues, and listening to others.  However, since my Auditory and Visual scores are rather close, I can also learn by reading or viewing pictures.</p>
 
-  <a href="https://www.truity.com/test-results/bigfive/17315/22274855">The Big Five Personality Test</a><br>
+  <h3><a href="https://www.truity.com/test-results/bigfive/17315/22274855">The Big Five Personality Test</a></h3><br>
   <ul>
     <li>Openness: 71%</li>
     <li>Conscientiousness: 54%</li>
