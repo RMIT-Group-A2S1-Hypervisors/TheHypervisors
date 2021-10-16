@@ -74,6 +74,7 @@
     <br>
 
   <b>David Hucklebridge</b><br>
+  <h3>Myer-Briggs Test</h3>
   <p>I have the <a href="https://www.16personalities.com/intj-personality">Architect</a> personality, which means that I am high in the Introverted (71%), Intuitive (54%), Thinking (55%), and Judging (53%) personality traits.  I also have a Turbulent (74%) personality trait.  As an Architect I am high in creativity rationality.<p>
 
   <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=9&V=8&T=3">What's Your Learning Style? The Results</a><br>
