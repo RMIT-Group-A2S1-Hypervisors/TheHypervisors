@@ -37,13 +37,20 @@
 <p>I did IT in years 11 & 12 and then started a Bachelor of IT at Griffith university in Brisbane.  I did half of this degree but left to start an internet company.  I stopped using computers again till I was mid 20s and have had an active interest in them since.  I have worked on several database driven websites but feel I have quite a basic knowledge of website design.</p>
 <br>
 
-  <h3><b>Name:</b></h3> <p>Cody Sadler</p>
-  <h3><b>Student Number:</b></h3> <p>s3923221</p>
-  <h3><b>Background:</b></h3>
-    <p>My name is cody sadler i am 19 years of age i live in a rural town in victoria about 3 hours away from melbourne. i am a chill guy who enjoys a nice cold drink while listening to Guts Theme.</p>
-  <h3><b>Hobbies:</b></h3>
-    <p>My hobbies include; Technology repairs and teardowns, exploring all aspects of filmmaking and the production of a film or television show, consuming film, shows, anime and games is what i'm most likely doing throughout the day.
-</p>
+ <h3><b>Name:</b></h3> <p>Cody Sadler</p>
+ <h3><b>Student Number:</b></h3> <p>s3923221</p>
+ <h3><b>Background:</b></h3>
+ <p>My name is cody sadler i am 19 years of age i live in a rural town in victoria about 3 hours away from melbourne. i am a chill guy who enjoys a nice cold drink while listening to Guts Theme.</p>
+ <h3><b>Hobbies:</b></h3>
+ <p>My hobbies include; Technology repairs and teardowns, exploring all aspects of filmmaking and the production of a film or television show, consuming film, shows, anime and   games is what i'm most likely doing throughout the day.</p>
+    
+ <h3><b>Name:</b></h3> <p>Karl Cruz</p>
+ <h3><b>Student Number:</b></h3> <p></p>
+ <h3><b>Background:</b></h3>
+ <p></p>
+ <h3><b>Hobbies:</b></h3>
+ <p></p>
+    
   <h3><b>IT Interests:</b></h3>
     <p>My interest in IT started relatively early in my life when I first started using a computer.
          Pretty much I was hooked on anything technology from the hardware of PCs and old gaming consoles used to the software they were using and the code that made the apps, games and websites I use daily.
@@ -111,10 +118,7 @@
 <br>
 <h3>Cody Sadler</h3>
     <h3>C++ Software Developer</h3>
-    <p>
-In this job position at Blackmagic Design you're making software and firmware for video and photo production that are used on hollywood movies,tv shows and music videos. You will be using Qt to code with C++ to build software and firmware from the ground up and you will be involved in most aspects of the softwares life cycle from conception to launch.
-I found this job would be perfect for me to work at as it focuses on my 2 favourite passions; Filmmaking and IT. It's just perfect, I have also heard of Blackmagic as a brand for cinema quality equipment. It's a company that has a good reputation
-</p>
+    <p>In this job position at Blackmagic Design you're making software and firmware for video and photo production that are used on Hollywood movies, TV shows and music videos. You will be using Qt to code with C++ to build software and firmware from the ground up and you will be involved in most aspects of the softwares life cycle from conception to launch.  I found this job would be perfect for me to work at as it focuses on my 2 favourite passions; Filmmaking and IT. It's just perfect, I have also heard of Blackmagic as a brand for cinema quality equipment. It's a company that has a good reputation.</p>
     <h4>Skills required for job position:</h4>
     <ul>
       <li>Skilled with programming knowledge and implementing solutions using C++</li>
@@ -123,6 +127,7 @@ I found this job would be perfect for me to work at as it focuses on my 2 favour
       <li>Prior experience with complex data structures and have used multi process or threaded applications</li>
       <li>Knowledge of Python is also a added bonus</li>  
     </ul>
+   
   <h1><b>Tools</b></h1>
   <b>Group Website:</b> <a href="https://rmit-group-a2s1-hypervisors.github.io/TheHypervisors/">The Hypervisors</a><br>
   <b>Group's Git Repository:</b> <a href="https://github.com/RMIT-Group-A2S1-Hypervisors/TheHypervisors/tree/gh-pages">RMIT-Group-A2S1-Hypervisors</a>
@@ -252,9 +257,7 @@ I found this job would be perfect for me to work at as it focuses on my 2 favour
     <li><b>What aspect of their position is most challenging?</b></li><br>
     <p>Danyil states that the most challenging part of being an Indie Games Developer is having to juggle games development, as well as working as a Truck Dispatcher, and creating videos for the YouTube channel, called Hyve.</p>
     </ul>
-
 <br>
-   
     
   <h1><b>IT Technologies</b></h1>
   <h2>Clouds Services, and Servers</h2>
@@ -300,19 +303,19 @@ I found this job would be perfect for me to work at as it focuses on my 2 favour
 
   <h2>References</h2>
   <ul>
-  <li>Fulton III, S 2020, How system disaggregation would reorganize IT, and how Arm may benefit, ZDNet, viewed 13 October 2021, <a href="https://www.zdnet.com/article/how-system-disaggregation-would-reorganize-it-and-how-arm-may-benefit/">https://www.zdnet.com/article/how-system-disaggregation-would-reorganize-it-and-how-arm-may-benefit/</a>.</li>
-  <li>Intel n.d., Intel I/O acceleration technology, Intel, viewed 13 October 2021, <a href="https://www.intel.com.au/content/www/au/en/wireless-network/accel-technology.html">https://www.intel.com.au/content/www/au/en/wireless-network/accel-technology.html</a>.</li>
-  <li>Lantz, M 2020, Hybrid clouds will rely on magnetic tape for decades to come, IBM, viewed 13 October 2021, <a href="https://www.ibm.com/blogs/research/2020/12/tape-density-record/">https://www.ibm.com/blogs/research/2020/12/tape-density-record/</a>.</li>
-  <li>Network Coverage n.d., Server virtualization and its importance, Network Coverage, viewed 13 October 2021, <a href="https://www.netcov.com/server-virtualization-and-its-importance/">https://www.netcov.com/server-virtualization-and-its-importance/</a>.</li>
-  <li>Panduit n.d., Why state of the art facilities require state of the art infrastructure, Panduit, viewed 12 October 2021, <a href="https://vertassets.blob.core.windows.net/download/a0202fa5/a0202fa5-aa98-4285-99f9-93bd7f7a58be/ni_dc_cpat72_eng.pdf">https://vertassets.blob.core.windows.net/download/a0202fa5/a0202fa5-aa98-4285-99f9-93bd7f7a58be/ni_dc_cpat72_eng.pdf</a>.</li>
-  <li>Red Hat 2019, What are cloud services?, Red Hat, viewed 13 October 2021, <a href="https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-services">https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-services</a>.</li>
-  <li>Rousset, S 2021, Dell’s 2021 server trends & observations, Dell Technologies, viewed 13 October 2021, <a href="https://www.delltechnologies.com/en-us/blog/dells-2021-server-trends-observations/">https://www.delltechnologies.com/en-us/blog/dells-2021-server-trends-observations/</a>.</li>
-  <li>Stone, D 2017, The present and the future of TCP/IP, SILO, viewed 13 October 2021, <a href="https://silo.tips/download/the-present-and-the-future-of-tcp-ip#">https://silo.tips/download/the-present-and-the-future-of-tcp-ip#</a>.</li>
-  <li>Telstra n.d., What is 5G, Telstra, viewed 13 October 2021, <a href="https://www.telstra.com.au/coverage-networks/what-is-5g">https://www.telstra.com.au/coverage-networks/what-is-5g</a>.</li>
-  <li>Tyagi, N 2021, What is virtualization in cloud computing? - characteristics & benefits, Analytic Steps, viewed 13 October 2021, <a href="https://www.analyticssteps.com/blogs/what-virtualization-cloud-computing-characteristics-benefits">https://www.analyticssteps.com/blogs/what-virtualization-cloud-computing-characteristics-benefits</a>.</li>
-  <li>Vista Projects 2021, Data-centric architecture - a different way of thinking, Vista Projects, viewed 13 October 2021, <a href="https://www.vistaprojects.com/blog/data-centric-architecture/">https://www.vistaprojects.com/blog/data-centric-architecture/</a>.</li>
-  <li>VMware n.d., What is cloud scalability?, VMware, 13 October 2021, <a href="https://www.vmware.com/topics/glossary/content/cloud-scalability">https://www.vmware.com/topics/glossary/content/cloud-scalability</a>.</li>
-  <li>World Wide Technology 2020, The current state of servers: 2020 trends and expectations, World Wide Technology, viewed 13 October 2021, <a href="https://www.wwt.com/article/the-current-state-of-servers-trends-and-expectations">https://www.wwt.com/article/the-current-state-of-servers-trends-and-expectations</a>.</li>
+  <li>Fulton III, S 2020, <i>How system disaggregation would reorganize IT</i>, and how Arm may benefit, ZDNet, viewed 13 October 2021, <a href="https://www.zdnet.com/article/how-system-disaggregation-would-reorganize-it-and-how-arm-may-benefit/">https://www.zdnet.com/article/how-system-disaggregation-would-reorganize-it-and-how-arm-may-benefit/</a>.</li>
+  <li>Intel n.d., <i>Intel I/O acceleration technology</i>, Intel, viewed 13 October 2021, <a href="https://www.intel.com.au/content/www/au/en/wireless-network/accel-technology.html">https://www.intel.com.au/content/www/au/en/wireless-network/accel-technology.html</a>.</li>
+  <li>Lantz, M 2020, <i>Hybrid clouds will rely on magnetic tape for decades to come</i>, IBM, viewed 13 October 2021, <a href="https://www.ibm.com/blogs/research/2020/12/tape-density-record/">https://www.ibm.com/blogs/research/2020/12/tape-density-record/</a>.</li>
+  <li>Network Coverage n.d., <i>Server virtualization and its importance</i>, Network Coverage, viewed 13 October 2021, <a href="https://www.netcov.com/server-virtualization-and-its-importance/">https://www.netcov.com/server-virtualization-and-its-importance/</a>.</li>
+  <li>Panduit n.d., <i>Why state of the art facilities require state of the art infrastructure</i>, Panduit, viewed 12 October 2021, <a href="https://vertassets.blob.core.windows.net/download/a0202fa5/a0202fa5-aa98-4285-99f9-93bd7f7a58be/ni_dc_cpat72_eng.pdf">https://vertassets.blob.core.windows.net/download/a0202fa5/a0202fa5-aa98-4285-99f9-93bd7f7a58be/ni_dc_cpat72_eng.pdf</a>.</li>
+  <li>Red Hat 2019, <i>What are cloud services?</i>, Red Hat, viewed 13 October 2021, <a href="https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-services">https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-services</a>.</li>
+  <li>Rousset, S 2021, <i>Dell’s 2021 server trends & observations</i>, Dell Technologies, viewed 13 October 2021, <a href="https://www.delltechnologies.com/en-us/blog/dells-2021-server-trends-observations/">https://www.delltechnologies.com/en-us/blog/dells-2021-server-trends-observations/</a>.</li>
+  <li>Stone, D 2017, <i>The present and the future of TCP/IP</i>, SILO, viewed 13 October 2021, <a href="https://silo.tips/download/the-present-and-the-future-of-tcp-ip#">https://silo.tips/download/the-present-and-the-future-of-tcp-ip#</a>.</li>
+  <li>Telstra n.d., <i>What is 5G</i>, Telstra, viewed 13 October 2021, <a href="https://www.telstra.com.au/coverage-networks/what-is-5g">https://www.telstra.com.au/coverage-networks/what-is-5g</a>.</li>
+  <li>Tyagi, N 2021, <i>What is virtualization in cloud computing? - characteristics & benefits</i>, Analytic Steps, viewed 13 October 2021, <a href="https://www.analyticssteps.com/blogs/what-virtualization-cloud-computing-characteristics-benefits">https://www.analyticssteps.com/blogs/what-virtualization-cloud-computing-characteristics-benefits</a>.</li>
+  <li>Vista Projects 2021, <i>Data-centric architecture - a different way of thinking</i>, Vista Projects, viewed 13 October 2021, <a href="https://www.vistaprojects.com/blog/data-centric-architecture/">https://www.vistaprojects.com/blog/data-centric-architecture/</a>.</li>
+  <li>VMware n.d., <i>What is cloud scalability?</i>, VMware, 13 October 2021, <a href="https://www.vmware.com/topics/glossary/content/cloud-scalability">https://www.vmware.com/topics/glossary/content/cloud-scalability</a>.</li>
+  <li>World Wide Technology 2020, <i>The current state of servers: 2020 trends and expectations</i>, World Wide Technology, viewed 13 October 2021, <a href="https://www.wwt.com/article/the-current-state-of-servers-trends-and-expectations">https://www.wwt.com/article/the-current-state-of-servers-trends-and-expectations</a>.</li>
   </ul>
 
   <h2>Cybersercurity</h2>
@@ -360,39 +363,53 @@ I found this job would be perfect for me to work at as it focuses on my 2 favour
 
   <h2>References</h2>
   <ul>
-  <li>Amazon Web Service 2021, AWS Shield, Amazon, viewed 13 October 2021, <a href="https://aws.amazon.com/shield/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc">https://aws.amazon.com/shield/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc</a>.</li>
-  <li>Bulao, J 2021, The role of AI in cybersecurity – what does the future hold?, TechJury, viewed 14 October 2021, <a href="https://techjury.net/blog/ai-cybersecurity/#gref">https://techjury.net/blog/ai-cybersecurity/#gref</a>.</li>
-  <li>CDNetworks 2020, How to stop a DDoS attack & protect your business, CDNetworks, viewed 13 October 2021, <a href="https://www.cdnetworks.com/cloud-security-blog/tips-to-protect-your-business-from-ddos-attacks/">https://www.cdnetworks.com/cloud-security-blog/tips-to-protect-your-business-from-ddos-attacks/</a>.</li>
-  <li>Cisco n.d., Understanding SQL injection, Cisco, viewed 13 October 2021, <a href="https://tools.cisco.com/security/center/resources/sql_injection.html">https://tools.cisco.com/security/center/resources/sql_injection.html</a>.</li>
-  <li>Cisco n.d., What are the most common cyber attacks?, Cisco, viewed 13 October 2021, <a href="https://www.cisco.com/c/en_au/products/security/common-cyberattacks.html">https://www.cisco.com/c/en_au/products/security/common-cyberattacks.html</a>.</li>
-  <li>Devanesan, J 2021, Will AI replace cybersecurity teams completely?, Techwire, viewed 14 October 2021, <a href="https://techwireasia.com/2021/03/will-ai-replace-cybersecurity-teams-completely/">https://techwireasia.com/2021/03/will-ai-replace-cybersecurity-teams-completely/</a>.</li>
-  <li>Dholakiya, O 2020, 5 proactive measures companies can take against malware attacks, Small Business Trends, <a href="https://smallbiztrends.com/2020/11/5-proactive-measures-prevent-malware-attacks.html">https://smallbiztrends.com/2020/11/5-proactive-measures-prevent-malware-attacks.html.</a></li>
-  <li>Fastvue n.d., How Google’s QUIC protocol impacts network security and reporting, Fastvue, <a href="https://www.fastvue.co/fastvue/blog/googles-quic-protocols-security-and-reporting-implications/">https://www.fastvue.co/fastvue/blog/googles-quic-protocols-security-and-reporting-implications/</a>.</li>
-  <li>Hewitt, K 2021, 10 best practices to prevent DDoS attacks, SecurityScorecard, viewed 13 October 2021, <a href="https://securityscorecard.com/blog/best-practices-to-prevent-ddos-attacks">https://securityscorecard.com/blog/best-practices-to-prevent-ddos-attacks</a>.</li>
-  <li>Jefferson, B 2021, The 15 most common types of cyber attacks, Lepide, viewed 13 October 2021, <a href="https://www.lepide.com/blog/the-15-most-common-types-of-cyber-attacks/">https://www.lepide.com/blog/the-15-most-common-types-of-cyber-attacks/</a>.</li>
-  <li>Kaspersky 2021, 2021 Top ten cybersecurity trends, Kaspersky, viewed 13 October 2021, <a href="https://www.kaspersky.com/resource-center/preemptive-safety/cyber-security-trends">https://www.kaspersky.com/resource-center/preemptive-safety/cyber-security-trends</a>.</li>
-  <li>Keary, T 2021, 8 best DDoS protection service platforms & anti DDoS software, Comparitech, <a href="https://www.comparitech.com/net-admin/best-ddos-protection-service/">https://www.comparitech.com/net-admin/best-ddos-protection-service/</a>.</li>
-  <li>Netscout 2021, Arbor edge defense, Netscout, viewed 13 October 2021, <a href="https://www.netscout.com/product/netscout-aed">https://www.netscout.com/product/netscout-aed</a>.</li>
-  <li>Positive Technologies 2019, How to prevent SQL injection attacks, Positive Technologies, viewed 13 October 2021, <a href="ttps://www.ptsecurity.com/ww-en/analytics/knowledge-base/how-to-prevent-sql-injection-attacks/">https://www.ptsecurity.com/ww-en/analytics/knowledge-base/how-to-prevent-sql-injection-attacks/</a>.</li>
-  <li>St. Thomas University 2021, AI is the top cyber security innovation of 2021, St. Thomas University, viewed 14 October 2021, <a href="https://online.stu.edu/articles/business/top-cyber-security-innovation-2021.aspx">https://online.stu.edu/articles/business/top-cyber-security-innovation-2021.aspx</a>.</li>
-  <li>Swinhoe, D 2019, What is a man-in-the-middle attack? How MitM attacks work and how to prevent them, CSO, <a href="https://www.csoonline.com/article/3340117/what-is-a-man-in-the-middle-attack-how-mitm-attacks-work-and-how-to-prevent-them.html">https://www.csoonline.com/article/3340117/what-is-a-man-in-the-middle-attack-how-mitm-attacks-work-and-how-to-prevent-them.html</a>.</li>
-  <li>Telstra n.d., Top 6 ways to protect businesses from phishing attacks, Telstra, viewed 13 October 2021, <a href="https://telstraventures.com/ways-to-protect-businesses-from-phishing-attacks/">https://telstraventures.com/ways-to-protect-businesses-from-phishing-attacks/</a>.</li>
-  <li>Unisys n.d., Cyber attacks - what you need to know, Unisys, viewed 13 October 2021, <a href="https://www.unisys.com/glossary/cyber-attack/">https://www.unisys.com/glossary/cyber-attack/</a>.</li>
-  <li>Whitehead, M 2020, What is the future of cybersecurity?, Trustwave, viewed 13 October 2021, <a href="https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/what-is-the-future-of-cybersecurity/">https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/what-is-the-future-of-cybersecurity/</a>.</li>
+  <li>Amazon Web Service 2021, <i>AWS Shield</i>, Amazon, viewed 13 October 2021, <a href="https://aws.amazon.com/shield/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc">https://aws.amazon.com/shield/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc</a>.</li>
+  <li>Bulao, J 2021, <i>The role of AI in cybersecurity – what does the future hold?</i>, TechJury, viewed 14 October 2021, <a href="https://techjury.net/blog/ai-cybersecurity/#gref">https://techjury.net/blog/ai-cybersecurity/#gref</a>.</li>
+  <li>CDNetworks 2020, <i>How to stop a DDoS attack & protect your business</i>, CDNetworks, viewed 13 October 2021, <a href="https://www.cdnetworks.com/cloud-security-blog/tips-to-protect-your-business-from-ddos-attacks/">https://www.cdnetworks.com/cloud-security-blog/tips-to-protect-your-business-from-ddos-attacks/</a>.</li>
+  <li>Cisco n.d., <i>Understanding SQL injection</i>, Cisco, viewed 13 October 2021, <a href="https://tools.cisco.com/security/center/resources/sql_injection.html">https://tools.cisco.com/security/center/resources/sql_injection.html</a>.</li>
+  <li>Cisco n.d., <i>What are the most common cyber attacks?</i>, Cisco, viewed 13 October 2021, <a href="https://www.cisco.com/c/en_au/products/security/common-cyberattacks.html">https://www.cisco.com/c/en_au/products/security/common-cyberattacks.html</a>.</li>
+  <li>Devanesan, J 2021, <i>Will AI replace cybersecurity teams completely?</i>, Techwire, viewed 14 October 2021, <a href="https://techwireasia.com/2021/03/will-ai-replace-cybersecurity-teams-completely/">https://techwireasia.com/2021/03/will-ai-replace-cybersecurity-teams-completely/</a>.</li>
+  <li>Dholakiya, O 2020, <i>5 proactive measures companies can take against malware attacks</i>, Small Business Trends, <a href="https://smallbiztrends.com/2020/11/5-proactive-measures-prevent-malware-attacks.html">https://smallbiztrends.com/2020/11/5-proactive-measures-prevent-malware-attacks.html.</a></li>
+  <li>Fastvue n.d., <i>How Google’s QUIC protocol impacts network security and reporting</i>, Fastvue, <a href="https://www.fastvue.co/fastvue/blog/googles-quic-protocols-security-and-reporting-implications/">https://www.fastvue.co/fastvue/blog/googles-quic-protocols-security-and-reporting-implications/</a>.</li>
+  <li>Hewitt, K 2021, <i>10 best practices to prevent DDoS attacks</i>, SecurityScorecard, viewed 13 October 2021, <a href="https://securityscorecard.com/blog/best-practices-to-prevent-ddos-attacks">https://securityscorecard.com/blog/best-practices-to-prevent-ddos-attacks</a>.</li>
+  <li>Jefferson, B 2021, <i>The 15 most common types of cyber attacks</i>, Lepide, viewed 13 October 2021, <a href="https://www.lepide.com/blog/the-15-most-common-types-of-cyber-attacks/">https://www.lepide.com/blog/the-15-most-common-types-of-cyber-attacks/</a>.</li>
+  <li>Kaspersky 2021, <i>2021 Top ten cybersecurity trends</i>, Kaspersky, viewed 13 October 2021, <a href="https://www.kaspersky.com/resource-center/preemptive-safety/cyber-security-trends">https://www.kaspersky.com/resource-center/preemptive-safety/cyber-security-trends</a>.</li>
+  <li>Keary, T 2021, <i>8 best DDoS protection service platforms & anti DDoS software</i>, Comparitech, <a href="https://www.comparitech.com/net-admin/best-ddos-protection-service/">https://www.comparitech.com/net-admin/best-ddos-protection-service/</a>.</li>
+  <li>Netscout 2021, <i>Arbor edge defense</i>, Netscout, viewed 13 October 2021, <a href="https://www.netscout.com/product/netscout-aed">https://www.netscout.com/product/netscout-aed</a>.</li>
+  <li>Positive Technologies 2019, <i>How to prevent SQL injection attacks</i>, Positive Technologies, viewed 13 October 2021, <a href="ttps://www.ptsecurity.com/ww-en/analytics/knowledge-base/how-to-prevent-sql-injection-attacks/">https://www.ptsecurity.com/ww-en/analytics/knowledge-base/how-to-prevent-sql-injection-attacks/</a>.</li>
+  <li>St. Thomas University 2021, <i>AI is the top cyber security innovation of 2021</i>, St. Thomas University, viewed 14 October 2021, <a href="https://online.stu.edu/articles/business/top-cyber-security-innovation-2021.aspx">https://online.stu.edu/articles/business/top-cyber-security-innovation-2021.aspx</a>.</li>
+  <li>Swinhoe, D 2019, <i>What is a man-in-the-middle attack? How MitM attacks work and how to prevent them</i>, CSO, <a href="https://www.csoonline.com/article/3340117/what-is-a-man-in-the-middle-attack-how-mitm-attacks-work-and-how-to-prevent-them.html">https://www.csoonline.com/article/3340117/what-is-a-man-in-the-middle-attack-how-mitm-attacks-work-and-how-to-prevent-them.html</a>.</li>
+  <li>Telstra n.d., <i>Top 6 ways to protect businesses from phishing attacks</i>, Telstra, viewed 13 October 2021, <a href="https://telstraventures.com/ways-to-protect-businesses-from-phishing-attacks/">https://telstraventures.com/ways-to-protect-businesses-from-phishing-attacks/</a>.</li>
+  <li>Unisys n.d., <i>Cyber attacks - what you need to know</i>, Unisys, viewed 13 October 2021, <a href="https://www.unisys.com/glossary/cyber-attack/">https://www.unisys.com/glossary/cyber-attack/</a>.</li>
+  <li>Whitehead, M 2020, <i>What is the future of cybersecurity?</i>, Trustwave, viewed 13 October 2021, <a href="https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/what-is-the-future-of-cybersecurity/">https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/what-is-the-future-of-cybersecurity/</a>.</li>
   </ul>
+  
 <h2>Raspberry Pis and SBCs</h2>
   <ul>
     <h3>What Does it do?</h3>
-    <p>Raspberry pis and arduinos are not exactly the same thing; both share differences.
-An arduino is a small microcontroller motherboard, it's a simple computer for running a single program at a time repeatedly. An Arduino would be good for simple tasks like opening and closing a door, turning a light on or off or even make them read the temperature rather than publishing the weather to a social site online.<br>
-On the other hand a Raspberry pi is pretty much a credit card sized general purpose computer complete with a full IO like usbs, ethernet and display outputs. Overall a raspberry pi is a much more complex board than a arduino so they have the ability to run multiple programs at once and also can complete more complex tasks, Because a raspberry pi is a full fledged PC it can run and complete intense calculations you could even mine bitcoin if you wanted!, you can set up an OS like linux on a raspberry pi.
-</p>
+    <p>Raspberry Pis and Arduinos are not exactly the same thing; both share differences.
+An arduino is a small microcontroller motherboard, it's a simple computer for running a single program at a time repeatedly (Teja 2021). An Arduino would be good for simple tasks like opening and closing a door, turning a light on or off or even make them read the temperature rather than publishing the weather to a social site online (Arduino 2021).<br>
+On the other hand a Raspberry Pi is pretty much a credit card sized general purpose computer complete with a full IO like usbs, ethernet and display outputs (Raspberry Pi Foundation 2021). Overall a Raspberry Pi is a much more complex board than an Arduino so they have the ability to run multiple programs at once and also can complete more complex tasks. Because a Raspberry Pi is a full fledged PC it can run and complete intense calculations you could even mine bitcoin if you wanted!, you can set up an OS like linux on a Raspberry Pi.</p>
+    
     <li>What is the state of the art of this new technology?</li>
-    <p>In terms of single board micro computers both the arduino and the raspberry don't come close in terms to straight power compared to other more expensive SBCs, However the Raspberry pi 4 is still one of the best board you can get for normal consumers for the performance you get at the price of as low as $75 AUD is incredibly good.</p>
+    <p>In terms of single board micro computers (SBCs) both the Arduino and the Raspberry Pi don't come close in terms to straight power compared to other more expensive SBCs (Tan, C 2021). However the Raspberry Pi 4 is still one of the best board you can get for normal consumers for the performance you get at the price of $74.50 AUD is incredibly good .</p>
+    
     <li>What can be done now?</li>
-    <p>SBCs like arduinos and raspberry pis can be used in many different ways today, the most common uses of these boards are; learning how to program and work with robotics, home automation, running NAS drives, perform basic computer task like web browsing, word processing and also create emulation stations like Retropie to run old games.</p>
+    <p>SBCs like Arduinos and Raspberry Pis can be used in many different ways today, the most common uses of these boards are; learning how to program and work with robotics, home automation, running NAS drives, perform basic computer task like web browsing, word processing and also create emulation stations like Retropie to run old games.</p>
+    
     <li>What is likely to be able to do be done soon (say in the next 3 years)?</li>
-    <p>SBCs have potentials for future with the ever growing and more powerful hardware components that the industry are projecting to be producing SBCs within the next few years could become even more power efficient than they already are, support higher powered non arm processors like a ryzen cpu from AMD or even support a apu with decent graphics or even a dedicated gpu chip on the board.Although most SBCs are already tiny companies are already trying to make them smaller.  </p>
+    <p>SBCs have potentials for future with the ever growing and more powerful hardware components that the industry are projecting to be producing SBCs within the next few years could become even more power efficient than they already are, support higher powered non arm processors like a ryzen cpu from AMD or even support a apu with decent graphics or even a dedicated gpu chip on the board. Although most SBCs are already tiny companies are already trying to make them smaller.  </p>
+  </ul>
+  
+  <h2>References</h2>
+  <ul>
+    <li>Arduino 2021, <i><What is Arduino?/i>, Arduino, viewed 15 October 2021, <a href="https://www.arduino.cc/en/guide/introduction">https://www.arduino.cc/en/guide/introduction</a>.</li>
+    <li>Raspberry Pi Foundation 2021, <i>What is a Raspberry Pi?</i>, Raspberry Pi Foundation, viewed 15 October 2021, <a href="https://www.raspberrypi.org/help/what-%20is-a-raspberry-pi/">https://www.raspberrypi.org/help/what-%20is-a-raspberry-pi/</a>.></li>
+    <li>Teja, R 2021, <i>What are the differences between Raspberry Pi and Arduino?</i>, Electronics Hub, viewed 15 October 2021, <a href="https://www.electronicshub.org/raspberry-pi-vs-arduino/">https://www.electronicshub.org/raspberry-pi-vs-arduino/</a>.></li>
+    <li>Tan, C 2021, <i>Jetson Nano vs Raspberry Pi 4: the differences</i>, All3DP, viewed 15 October 2021, <a href="https://all3dp.com/2/raspberry-pi-vs-jetson-nano-differences/#i-3-the-big-difference">https://all3dp.com/2/raspberry-pi-vs-jetson-nano-differences/#i-3-the-big-difference</a>.></li>
+    <li>Tan, C 2021, <i>What are the differences between Raspberry Pi and Arduino?</i>, Electronics Hub, viewed 15 October 2021, <a href="https://www.electronicshub.org/raspberry-pi-vs-arduino/">https://www.electronicshub.org/raspberry-pi-vs-arduino/</a>.></li>
+    <li>Raspberry Pi Australia 2021, <i>Raspberry Pi 4 model b</i>, Raspberry Pi Australia, viewed 15 October 2021, <a href="https://raspberry.piaustralia.com.au/products/raspberry-pi-4
+">https://raspberry.piaustralia.com.au/products/raspberry-pi-4</a>.></li>
   </ul>
 
 <br>
@@ -504,33 +521,33 @@ On the other hand a Raspberry pi is pretty much a credit card sized general purp
   <h2>References</h2>
   <p>
   <ul>
-      <li>Akamai 2019, The 4 number-one ways to protect your game from hackers, Venture Beat, viewed 11 October 2021 <a href="https://venturebeat.com/2019/10/29/the-4-number-one-ways-to-protect-your-game-from-hackers-vb-live/">https://venturebeat.com/2019/10/29/the-4-number-one-ways-to-protect-your-game-from-hackers-vb-live/</a>.</li>
-      <li>Amazon Web Services 2021, Amazon gamelift pricing, Amazon, viewed 11 October 2021, <a href="https://aws.amazon.com/gamelift/pricing/">https://aws.amazon.com/gamelift/pricing/</a>.</li>
-      <li>Amazon Web Services 2021, Amazon gamelift faq, Amazon, viewed 11 October 2021, <a href="https://aws.amazon.com/gamelift/faq">https://aws.amazon.com/gamelift/faq</a>.</li>
-      <li>Amazon Web Services 2021, Choosing computing resources, Amazon, viewed 11 October 2021, <a href="https://docs.aws.amazon.com/gamelift/latest/developerguide/gamelift-ec2-instances.html">https://docs.aws.amazon.com/gamelift/latest/developerguide/gamelift-ec2-instances.html</a>.</li>
-      <li>Atavism 2021, Atavism features overview, Atavism, viewed 11 October 2021, <a href="https://www.atavismonline.com/#featuresoverview">https://www.atavismonline.com/#featuresoverview</a>.</li>
-      <li>Atavism 2021, Licensing, Atavism, viewed 11 October 2021, <a href="https://www.atavismonline.com/licensing">https://www.atavismonline.com/licensing</a>.</li>
-      <li>Auroch Digital 2021, How much does it cost to make a game?, Auroch Digital, viewed 11 October 2021, <a href="https://www.aurochdigital.com/blog/2021/8/19/how-much-does-it-cost-to-make-a-game">https://www.aurochdigital.com/blog/2021/8/19/how-much-does-it-cost-to-make-a-game</a>.</li>
-      <li>Cloudflare 2021, What is bot management?, Cloudflare, viewed 11 October 2021, <a href="https://www.cloudflare.com/en-au/learning/bots/what-is-bot-management/">https://www.cloudflare.com/en-au/learning/bots/what-is-bot-management/</a>.</li>
-      <li>Cloudflare 2021, What is Identity-as-a-Service (IDaaS)?, Cloudflare, viewed 11 October 2021, <a href="https://www.cloudflare.com/en-au/learning/access-management/what-is-identity-as-a-service/">https://www.cloudflare.com/en-au/learning/access-management/what-is-identity-as-a-service/</a>.</li>
-      <li>Epic Games 2021, Unreal Engine 4.27 Documentation – Programming and Scripting, Epic Games, viewed 18 September 2021, <a href="https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/">https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/</a>.</li>
-      <li>Epic Games 2021, Unreal engine 4.27 documentation – hardware and software specifications, Epic Games, viewed 19 September 2021,<br>
+      <li>Akamai 2019, <i>The 4 number-one ways to protect your game from hackers</i>, Venture Beat, viewed 11 October 2021 <a href="https://venturebeat.com/2019/10/29/the-4-number-one-ways-to-protect-your-game-from-hackers-vb-live/">https://venturebeat.com/2019/10/29/the-4-number-one-ways-to-protect-your-game-from-hackers-vb-live/</a>.</li>
+      <li>Amazon Web Services 2021, <i>Amazon gamelift pricing, Amazon, viewed 11 October 2021, <a href="https://aws.amazon.com/gamelift/pricing/">https://aws.amazon.com/gamelift/pricing/</a>.</li>
+      <li>Amazon Web Services 2021, <i>Amazon gamelift faq, Amazon, viewed 11 October 2021, <a href="https://aws.amazon.com/gamelift/faq">https://aws.amazon.com/gamelift/faq</a>.</li>
+      <li>Amazon Web Services 2021, <i>Choosing computing resources</i>, Amazon, viewed 11 October 2021, <a href="https://docs.aws.amazon.com/gamelift/latest/developerguide/gamelift-ec2-instances.html">https://docs.aws.amazon.com/gamelift/latest/developerguide/gamelift-ec2-instances.html</a>.</li>
+      <li>Atavism 2021, <i>Atavism features overview</i>, Atavism, viewed 11 October 2021, <a href="https://www.atavismonline.com/#featuresoverview">https://www.atavismonline.com/#featuresoverview</a>.</li>
+      <li>Atavism 2021, <i>Licensing</i>, Atavism, viewed 11 October 2021, <a href="https://www.atavismonline.com/licensing">https://www.atavismonline.com/licensing</a>.</li>
+      <li>Auroch Digital 2021, <i>How much does it cost to make a game?</i>, Auroch Digital, viewed 11 October 2021, <a href="https://www.aurochdigital.com/blog/2021/8/19/how-much-does-it-cost-to-make-a-game">https://www.aurochdigital.com/blog/2021/8/19/how-much-does-it-cost-to-make-a-game</a>.</li>
+      <li>Cloudflare 2021, <i>What is bot management?</i>, Cloudflare, viewed 11 October 2021, <a href="https://www.cloudflare.com/en-au/learning/bots/what-is-bot-management/">https://www.cloudflare.com/en-au/learning/bots/what-is-bot-management/</a>.</li>
+      <li>Cloudflare 2021, <i>What is Identity-as-a-Service (IDaaS)?</i>, Cloudflare, viewed 11 October 2021, <a href="https://www.cloudflare.com/en-au/learning/access-management/what-is-identity-as-a-service/">https://www.cloudflare.com/en-au/learning/access-management/what-is-identity-as-a-service/</a>.</li>
+      <li>Epic Games 2021, <i>Unreal Engine 4.27 Documentation – Programming and Scripting</i>, Epic Games, viewed 18 September 2021, <a href="https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/">https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/</a>.</li>
+      <li>Epic Games 2021, <i>Unreal engine 4.27 documentation – hardware and software specifications</i>, Epic Games, viewed 19 September 2021,<br>
        <a href="https://docs.unrealengine.com/4.27/en-US/Basics/InstallingUnrealEngine/RecommendedSpecifications/">https://docs.unrealengine.com/4.27/en-US/Basics/InstallingUnrealEngine/RecommendedSpecifications/</a>.</li>
-      <li>IGDA 2020, Skills you need to start a career in the game development industry, IGDA, viewed 19 September 2021, <a href="https://igda.org/news-archive/skills-you-need-to-start-a-career-in-the-game-development-industry/">https://igda.org/news-archive/skills-you-need-to-start-a-career-in-the-game-development-industry/</a>.</li>
-      <li>IronSource n.d., Advertising (ad) revenue: what is ad revenue and how does it work?, IronSource, viewed 11 October 2021, <a href="https://www.is.com/glossary/ad-revenue/">https://www.is.com/glossary/ad-revenue/</a>.</li>
-      <li>IronSource n.d., Glossary: eCPM – effective cost per mille (thousand), IronSource, viewed 11 October 2021, <a href="https://www.is.com/glossary/ecpm/">https://www.is.com/glossary/ecpm/</a>.</li>
-      <li>IronSource n.d., Interstitial ads: mobile, ad revenue & interstitial video, IronSource, viewed 11 October 2021, <a href="https://www.is.com/interstitial-ads/">https://www.is.com/interstitial-ads/</a>.</li>
-      <li>IronSource n.d., Offerwall, IronSource, viewed 11 October 2021, <a href="https://www.is.com/offerwall/">https://www.is.com/offerwall/</a>.</li>
-      <li>Juppiomenz 2017, Bit Heroes, Kongregate, viewed 11 October 2021, <a href="https://store.steampowered.com/app/666860/Bit_Heroes/">https://store.steampowered.com/app/666860/Bit_Heroes/</a>.</li>
-      <li>Leung, H-P 2017, Protect multiplayer game servers from DDoS attacks using Amazon GameLift, viewed 11 October 2021, <a href="https://aws.amazon.com/blogs/gametech/protect-multiplayer-game-servers-from-ddos-attacks-using-amazon-gamelift-2/">https://aws.amazon.com/blogs/gametech/protect-multiplayer-game-servers-from-ddos-attacks-using-amazon-gamelift-2/</a>.</li>
-      <li>NGINX n.d., What is load balancing?, F5 Networks Inc, viewed 11 October 2021, <a href="https://www.nginx.com/resources/glossary/load-balancing/">https://www.nginx.com/resources/glossary/load-balancing/</a>.</li>
-      <li>O'Connor, P 2020, The craft and science of game design : a video game designer's manual, Taylor & Francis Group, Milton Park, UK.
-      <li>OWASP 2021, M9: reverse engineering, OWASP, viewed 11 October 2021, <a href="https://owasp.org/www-project-mobile-top-10/2016-risks/m9-reverse-engineering">https://owasp.org/www-project-mobile-top-10/2016-risks/m9-reverse-engineering</a>.</li>
-      <li>Unity Technologies 2021, Documentation, version 2020.3 – scripting, Unity Technologies, viewed 18 September 2021, <a href="https://docs.unity3d.com/Manual/ScriptingSection.html">https://docs.unity3d.com/Manual/ScriptingSection.html</a>.</li>
-      <li>Unity Technologies 2021, Documentation, version 2020.3 – system requirements, Unity Technologies, viewed 19 September 2021, <a href="https://docs.unity3d.com/Manual/system-requirements.html">https://docs.unity3d.com/Manual/system-requirements.html</a>.</li>
-      <li>YoYo Games 2021, GameMaker Studio 2 manual – GameMaker language index, YoYo Games, viewed 18 September 2021, <a href="https://manual.yoyogames.com/#t=GameMaker_Language%2FGameMaker_Language_Index.htm">https://manual.yoyogames.com/#t=GameMaker_Language%2FGameMaker_Language_Index.htm</a>.</li>
-      <li>YoYo Games 2021, GameMaker Studio 2 – system requirements, YoYo Games, viewed 18 September 2021, <a href="https://www.yoyogames.com/en/get#sysreq">https://www.yoyogames.com/en/get#sysreq</a>.</li>
-      <li>YoYo Games 2021, GMS2 required SDKs, YoYo Games, viewed 19 September 2021, <a href="https://help.yoyogames.com/hc/en-us/articles/227860547-GMS2-Required-SDKs">https://help.yoyogames.com/hc/en-us/articles/227860547-GMS2-Required-SDKs</a>.</li>
+      <li>IGDA 2020, <i>Skills you need to start a career in the game development industry</i>, IGDA, viewed 19 September 2021, <a href="https://igda.org/news-archive/skills-you-need-to-start-a-career-in-the-game-development-industry/">https://igda.org/news-archive/skills-you-need-to-start-a-career-in-the-game-development-industry/</a>.</li>
+      <li>IronSource n.d., <i>Advertising (ad) revenue: what is ad revenue and how does it work?</i>, IronSource, viewed 11 October 2021, <a href="https://www.is.com/glossary/ad-revenue/">https://www.is.com/glossary/ad-revenue/</a>.</li>
+      <li>IronSource n.d., <i>Glossary: eCPM – effective cost per mille (thousand)</i>, IronSource, viewed 11 October 2021, <a href="https://www.is.com/glossary/ecpm/">https://www.is.com/glossary/ecpm/</a>.</li>
+      <li>IronSource n.d., <i>Interstitial ads: mobile, ad revenue & interstitial video</i>, IronSource, viewed 11 October 2021, <a href="https://www.is.com/interstitial-ads/">https://www.is.com/interstitial-ads/</a>.</li>
+      <li>IronSource n.d., <i>Offerwall</i>, IronSource, viewed 11 October 2021, <a href="https://www.is.com/offerwall/">https://www.is.com/offerwall/</a>.</li>
+      <li>Juppiomenz 2017, <i>Bit Heroes</i>, Kongregate, viewed 11 October 2021, <a href="https://store.steampowered.com/app/666860/Bit_Heroes/">https://store.steampowered.com/app/666860/Bit_Heroes/</a>.</li>
+      <li>Leung, H-P 2017, <i>Protect multiplayer game servers from DDoS attacks using Amazon GameLift</i>, viewed 11 October 2021, <a href="https://aws.amazon.com/blogs/gametech/protect-multiplayer-game-servers-from-ddos-attacks-using-amazon-gamelift-2/">https://aws.amazon.com/blogs/gametech/protect-multiplayer-game-servers-from-ddos-attacks-using-amazon-gamelift-2/</a>.</li>
+      <li>NGINX n.d., <i>What is load balancing?</i>, F5 Networks Inc, viewed 11 October 2021, <a href="https://www.nginx.com/resources/glossary/load-balancing/">https://www.nginx.com/resources/glossary/load-balancing/</a>.</li>
+      <li>O'Connor, P 2020, <i>The craft and science of game design : a video game designer's manual</i>, Taylor & Francis Group, Milton Park, UK.
+      <li>OWASP 2021, <i>M9: reverse engineering</i>, OWASP, viewed 11 October 2021, <a href="https://owasp.org/www-project-mobile-top-10/2016-risks/m9-reverse-engineering">https://owasp.org/www-project-mobile-top-10/2016-risks/m9-reverse-engineering</a>.</li>
+      <li>Unity Technologies 2021, <i>Documentation: version 2020.3 – scripting</i>, Unity Technologies, viewed 18 September 2021, <a href="https://docs.unity3d.com/Manual/ScriptingSection.html">https://docs.unity3d.com/Manual/ScriptingSection.html</a>.</li>
+      <li>Unity Technologies 2021, <i>Documentation: version 2020.3 – system requirements</i>, Unity Technologies, viewed 19 September 2021, <a href="https://docs.unity3d.com/Manual/system-requirements.html">https://docs.unity3d.com/Manual/system-requirements.html</a>.</li>
+      <li>YoYo Games 2021, <i>GameMaker Studio 2 manual – GameMaker language index</i>, YoYo Games, viewed 18 September 2021, <a href="https://manual.yoyogames.com/#t=GameMaker_Language%2FGameMaker_Language_Index.htm">https://manual.yoyogames.com/#t=GameMaker_Language%2FGameMaker_Language_Index.htm</a>.</li>
+      <li>YoYo Games 2021, <i>GameMaker Studio 2 – system requirements</i>, YoYo Games, viewed 18 September 2021, <a href="https://www.yoyogames.com/en/get#sysreq">https://www.yoyogames.com/en/get#sysreq</a>.</li>
+      <li>YoYo Games 2021, <i>GMS2 required SDKs</i>, YoYo Games, viewed 19 September 2021, <a href="https://help.yoyogames.com/hc/en-us/articles/227860547-GMS2-Required-SDKs">https://help.yoyogames.com/hc/en-us/articles/227860547-GMS2-Required-SDKs</a>.</li>
   </ul>
   </p>
 </div>
