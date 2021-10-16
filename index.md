@@ -281,9 +281,7 @@
 <br>
    
   <h1><b>IT Technologies</b></h1>
-  
-    <h1><b>Autonomous Vehicles</b></h1>
-  <h2>Also known as Driveless vehicles</h2>
+  <h2><b>Autonomous Vehicles</b></h2>
   <ul>
   <h3>What does it do?</h3>
   <li><b>What is the state of the art of this new technology?</b></li>
@@ -312,7 +310,7 @@ The market for global autonomous vehicles is currently at over $54 billion and c
 
 
   <li><b>What can be done now?</b></li>
-  <p>Unlike earlier cars, the latest cars use sensors that created a 3d picture around the vehicle and the AI interprets how the vehicle should respond.  He also states that while there have been improvements in this technology a big jump will come when the processing time between camera and computer in the car can be massively minimised compared to what it is now. Modern Autonomous Vehicles (AV) also utilise thermal imaging which can detect longer wavelengths than the visible spectrum making it great at detecting animals, humans, or obstructions on the road in dense foggy or rainy conditions. FLIR is leading the way in thermal imaging for AV's (Dingyi 2018)</p>
+  <p>Unlike earlier cars, the latest cars use sensors that created a 3d picture around the vehicle and the AI interprets how the vehicle should respond.  Kimmel (2019) also states that while there have been improvements in this technology a big jump will come when the processing time between camera and computer in the car can be massively minimised compared to what it is now. Modern Autonomous Vehicles (AV) also utilise thermal imaging which can detect longer wavelengths than the visible spectrum making it great at detecting animals, humans, or obstructions on the road in dense foggy or rainy conditions. FLIR is leading the way in thermal imaging for AV's (Dingyi 2018)</p>
 
 
   <li><b>What is likely to be able to do be done soon (say in the next 3 years)?</b></li>
