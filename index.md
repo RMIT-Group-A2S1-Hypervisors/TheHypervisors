@@ -103,7 +103,7 @@
     <h3>Personality Max Learning Styles</h3>
     <p>Primary Learning Style: Primarily Visual, Then Auditory, then Tactile</p>
     <h3>Big Five Personality Test</h3>
-    <p><b>Most common traits:</b> Openness, Conscientiousness, Neuroticism to new experience</p>
+    <p><b>Most common traits:</b> Openness to new experience, Conscientiousness, Neuroticism </p>
 
 <br>
   <h1><b>Ideal Jobs</b></h1>
