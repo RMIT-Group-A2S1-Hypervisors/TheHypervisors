@@ -196,7 +196,7 @@
     <li>Unity: 475 jobs;</li>
     <li>Unreal: 17 jobs</li>
   </ul>
-  According to Seek there were 144 Blackchain Developer jobs postings for Australia in the past 30 days.  The most in demand skills for Blockchain Developers are:
+  <p>According to Seek there were 144 Blackchain Developer jobs postings for Australia in the past 30 days.  The most in demand skills for Blockchain Developers are:</p>
   <ul>
     <li>NoSQL: 321 jobs;</li>
     <li>AWS Lambda: 269 jobs;</li>
