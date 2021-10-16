@@ -45,7 +45,7 @@
  <p>My hobbies include; Technology repairs and teardowns, exploring all aspects of filmmaking and the production of a film or television show, consuming film, shows, anime and   games is what I'm most likely doing throughout the day.</p>
     
  <h3><b>Name:</b></h3> <p>Karl Cruz</p>
- <h3><b>Student Number:</b></h3> <p></p>
+ <h3><b>Student Number:</b></h3> <p>S3921177 </p>
  <h3><b>Background:</b></h3>
  <p></p>
  <h3><b>Hobbies:</b></h3>
