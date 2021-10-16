@@ -109,12 +109,12 @@
   <b>Karl Cruz</b>
   <h3>Personality test results</h3>
   <h3>Myers–Briggs Type Indicator</h3>
-  <p><b>Type:</b> , <b>Code:</b> , <b>Role:</b> , <b>Strategy:</b> 	</p>
-  <p> <p>
-  <h3>Personality Max Learning Styles</h3>
-  <p>Primary Learning Style: </p>
+  <p><b>Type:</b> Logican, <b>Code:</b> INTP-A , <b>Role:</b> Analyst, <b>Strategy:</b> Confident Individualism	</p>
+  <p> As a Logician (INTP) I am someone with an Introverted, Intuitive, Thinking, and Prospecting personality traits.<p>
+  <h3>Learning Style: Auditory</h3>
+  <p>As auditory being my main learning style, I learn more by discussing the topic, hearing opinions or facts. </p>
   <h3>Big Five Personality Test</h3>
-  <p><b>Most common traits:</b>  </p>
+  <p><b>Most common traits:</b> Analytical, Inventive, Honest, Eccentric, Rational</b>  </p>
     
 <br>
   <h1><b>Ideal Jobs</b></h1>
