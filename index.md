@@ -62,7 +62,7 @@
   <h3><b>Team Profile</b></h3>
   <b>Kias Henry</b>
    <h3>Personality test results</h3>
-    <h3>Myer-Briggs Test</h3>
+    <h3>Myers-Briggs Test</h3>
     <p><b>Type:</b> Turbulent Campaigner, <b>Code:</b> ENFP-T, <b>Role:</b> Diplomat, <b>Strategy:</b> Social Engagement</p>
     <p>The ENFP is quirky, curious, creative, and idealistic. As one of the most open-minded personality types, ENFPs bring an experimental
       and explorative attitude to their life and work. Enticed by new ideas, cultures, and possibilities, ENFPs enjoy traveling and are
@@ -74,7 +74,7 @@
     <br>
 
   <b>David Hucklebridge</b><br>
-  <h3>Myer-Briggs Test</h3>
+  <h3>Myers-Briggs Test</h3>
   <p><b>Type:</b> Architect, <b>Code:</b> INTJ-T, <b>Role:</b> Analyst, <b>Strategy:</b> Constant Improvement</p>
   <p>I have the <a href="https://www.16personalities.com/intj-personality">Architect</a> personality, which means that I am high in the Introverted (71%), Intuitive (54%), Thinking (55%), and Judging (53%) personality traits.  I also have a Turbulent (74%) personality trait.  As an Architect I am high in creativity rationality.<p>
 
@@ -95,16 +95,27 @@
     <li>Neuroticism: 71%</li>
   </ul>
   <p>The results of this test am a highly creative person, who can think of subject in a abtract manner (Openness). I am a peacemaker, and will try to put the needs and views of others before my own (Conscientiousness). However, I am highly critical and I am highly susceptible to negative emotions (Neuroticism).</p>
-    <b>Cody Sadler</b>
-   <h3>Personality test results</h3>
-    <h3>Myer-Briggs Test</h3>
-    <p><b>Type:</b> Assertive Virtuoso, <b>Code:</b> ISTP-A, <b>Role:</b> Explorer, <b>Strategy:</b> 	Confident Individualism</p>
-    <p> i am Creative and Practical, relaxed tending to live in the moment then thinking about the future. However Virtuosos can be insensitive in some situations using logic with little emotion even when meeting new people. Virtuosos can be easily bored and tend to dislike commitment, once something is learned and understood they will try to move on to something more interesting. Virtuosos also tend to keep to themselves instead of talking to others; they would rather prefer silence, which could prove very troublesome when placed into a team.<p>
-    <h3>Personality Max Learning Styles</h3>
-    <p>Primary Learning Style: Primarily Visual, Then Auditory, then Tactile</p>
-    <h3>Big Five Personality Test</h3>
-    <p><b>Most common traits:</b> Openness to new experience, Conscientiousness, Neuroticism </p>
+    
+  <b>Cody Sadler</b>
+  <h3>Personality test results</h3>
+  <h3>Myers-Briggs Test</h3>
+  <p><b>Type:</b> Assertive Virtuoso, <b>Code:</b> ISTP-A, <b>Role:</b> Explorer, <b>Strategy:</b> 	Confident Individualism</p>
+  <p> i am Creative and Practical, relaxed tending to live in the moment then thinking about the future. However Virtuosos can be insensitive in some situations using logic with little emotion even when meeting new people. Virtuosos can be easily bored and tend to dislike commitment, once something is learned and understood they will try to move on to something more interesting. Virtuosos also tend to keep to themselves instead of talking to others; they would rather prefer silence, which could prove very troublesome when placed into a team.<p>
+  <h3>Personality Max Learning Styles</h3>
+  <p>Primary Learning Style: Primarily Visual, Then Auditory, then Tactile</p>
+  <h3>Big Five Personality Test</h3>
+  <p><b>Most common traits:</b> Openness to new experience, Conscientiousness, Neuroticism </p>
 
+  <b>Karl Cruz</b>
+  <h3>Personality test results</h3>
+  <h3>Myers-Briggs Test</h3>
+  <p><b>Type:</b> , <b>Code:</b> , <b>Role:</b> , <b>Strategy:</b> 	</p>
+  <p> <p>
+  <h3>Personality Max Learning Styles</h3>
+  <p>Primary Learning Style: </p>
+  <h3>Big Five Personality Test</h3>
+  <p><b>Most common traits:</b>  </p>
+    
 <br>
   <h1><b>Ideal Jobs</b></h1>
   <h3>Senior/Lead Developer (Blockchain)</h3>
