@@ -279,8 +279,82 @@
     <p>Danyil states that the most challenging part of being an Indie Games Developer is having to juggle games development, as well as working as a Truck Dispatcher, and creating videos for the YouTube channel, called Hyve.</p>
     </ul>
 <br>
-    
+   
   <h1><b>IT Technologies</b></h1>
+  
+    <h1><b>Autonomous Vehicles</b></h1>
+  <h2>Also known as Driveless vehicles</h2>
+  <ul>
+  <h3>What does it do?</h3>
+  <li><b>What is the state of the art of this new technology?</b></li>
+
+  <p>These cars utilise sensory devices such as GPS, radar, sonor, lidar and inertial measuring units.  They use an internal computer to interpret this sensory data and make informed 'decisions' about the safest driving options in any given moment. According to Dingyi(2018) these cars rely on "environmental perception, decision making and motion control" to operate.</p>
+
+<p>The first driveless car was made by google which they called Waymo in October of 2015 they took their first solo drive around Austin in a 10 minute trip, in one of their early 'pod' models. </p>
+
+<p>According to Twi-Global (2019) there are six levels of autonomous driving:</p>
+
+<ul>
+<li>
+<p>At level 0, the car has no control over its operation and the human driver does all of the driving.</p>
+</li>
+<li>
+<p>At level 1, the vehicle’s ADAS (advanced driver assistance system) has the ability to support the driver with either steering or accelerating and braking.</p>
+</li>
+<li><p>At level 2, the ADAS can oversee steering and accelerating and braking in some conditions, although the human driver is required to continue paying complete attention to the driving environment throughout the journey, while also performing the remainder of the necessary tasks.</p>
+</li>
+<li><p>At level 3, the ADS (advanced driving system) can perform all parts of the driving task in some conditions, but the human driver is required to be able to regain control when requested to do so by the ADS. In the remaining conditions, the human driver executes the necessary tasks.</p></li>
+<li><p>At level 4, the vehicle’s ADS is able to perform all driving tasks independently in certain conditions in which human attention is not required.</p></li>
+<li><p>Finally, level 5 involves full automation whereby the vehicle’s ADS is able to perform all tasks in all conditions, and no driving assistance is required from the human driver. This full automation will be enabled by the application of 5G technology, which will allow vehicles to communicate not just with one another, but also with traffic lights, signage and even the roads themselves.</p></li></ul>
+
+<p>
+The market for global autonomous vehicles is currently at over $54 billion and could reach more than ten times that amount by 2026. Drivers for this technology include regulatory pressure, increasing connectivity by passengers, high cost of vehicle ownership, and disinterest by an increasingly large segment of the population to own a vehicle outright. (Kimmel, 2019).  Kimmel also goes on to state that the latest advancements in AI & Imaging technology are pushing forward the limits on what is possible with these robo-cars. </p>
+
+
+  <li><b>What can be done now?</b></li>
+  <p>Unlike earlier cars, the latest cars use sensors that created a 3d picture around the vehicle and the AI interprets how the vehicle should respond.  He also states that while there have been improvements in this technology a big jump will come when the processing time between camera and computer in the car can be massively minimised compared to what it is now. Modern Autonomous Vehicles (AV) also utilise thermal imaging which can detect longer wavelengths than the visible spectrum making it great at detecting animals, humans, or obstructions on the road in dense foggy or rainy conditions. FLIR is leading the way in thermal imaging for AV's (Dingyi 2018)</p>
+
+
+  <li><b>What is likely to be able to do be done soon (say in the next 3 years)?</b></li>
+  <p>As AI continues to evolve, as well as cloud computing and blockchain developments it is possible that enhanced computing speeds will mean all of the current sensors used on AV's will be able to be processed much quicker, essentially meaning these vehicles will be able to make much more calculated decisions in the split seconds where it really matters.  Just as a chess computer given more time is usually a much stronger player, as technology speeds up processing power, AV's will be much stronger drivers on the road.</p>
+
+  <li><b>What technological or other developments make this possible?</b></li>
+  <p>There are developments outside of the vehicles that can also enhance the way these vehicles will interact with their environment, for example increased numbers of sattelites, sensors placed on roads and around cities, enhancements to internet speeds in general such as 5G, and the list goes on.</p>
+  
+   <h3>What is the likely impact?</h3>
+  <li><b>What is the potential impact of this development?</b></li>
+  <p>Innovations in AV may fundamentally transform how the current transportation system works and change our lives in terms of how we travel. As is the case in all disruptions, AVs will bring slowdown and present new opportunities in the form of new business models.  (Capgemini, 2020)</p>
+
+  <li><b>What is likely to change?</b></li>
+  <p>As AV's become safer and safer, it is likely more of them will appear on the roads, and they will disrupt many road based industries such as delivery, transport, and so on. It is also likely people will be doing work from within their cars conneted to the internet, just like in offices, while their AV's handle the driving load while they wait in traffic or are on long trips.</p>
+
+  <li><b>Which people will be most affected and how?</b></li>
+  <p>This is going to affect those who's employment relies on the roads, such as cab drivers, delivery drivers, bus drivers, and so on. But that being said, there are many industries this will effect indirectly, but in a big way for example Hotels and Motels, as many people on long trips need sleep and book in for the night.  With driverless vehicles they will no longer need to pay money to a hotel or motel along the way (AutoTrader, 2017).  People may choose AV's instead of airlines or public transportation.  Even Auto parts sellers will be effected as most car accidents (which then require new car parts) are caused by human errors, so less crashes means less income for this industry (AutoTrader, 2017).</p>
+
+  <li><b>Will this create, replace or make redundant any current jobs or technologies?</b></li>
+  <p>Other industries effected will be ride hailing companies, fast food will be less likely as the trips will already be programmed in and users may not even notice the fast food signs while doing other things. We should also not forget driving schools will become affected heavily, as requirements for driver proficiency becomes less and less into the future.  Last but not least law enforcement will have a hard time booking autonomous vehicles for speeding, bad driving or causing accidents.</p>
+  <h3>How will this affect you?</h3>
+    <li><b>In your daily life, how will this affect you?</b></li>
+  <p>If I wish to catch a taxi, drive on the roads, get a bus, ride a motorbike, drive a truck or any other transport on roads, the rise of autonomous vehicles will effect me whether I like it or not as they will be on the roads, they may malfunction, they might stop suddenly, they might also make the roads a safer place it is hard to say.</p>
+
+  <li><b>What will be different for you?</b></li>
+  <p>According to the statistics so far, driveless cars, like autopilot in planes, can make the roads safer so it should mean that life is safer on the roads for me.  It will mean less chance of work becoming a cab or uber driver for example.</p>
+
+  <li><b>How might this affect members of your family or your friends?</b></li>
+  <p>This is such a big change to the cars on the roads and driving in general that it will affect everybody who uses the roads in any way shape or form.  Just like how it will effect me, it may either positively or negatively affect my friends and family but the hope is with time, and increased technological breakthrough that overall it will effect my friends and family in a very positive, safety increasing way. 
+</p>
+  </ul>
+
+  <h2>References</h2>
+  <ul>
+  <li>Twi-Global, 2019, WHAT IS AN AUTONOMOUS VEHICLE, https://www.twi-global.com/technical-knowledge/faqs/what-is-an-autonomous-vehicle</li>
+  <li>Autotrader, 2017, https://www.autotrader.com/car-shopping/self-driving-cars-10-industries-that-will-be-disrupted-by-autonomous-vehicles-267214</li>
+  <li>capgemini.com, Automatic Vehicles, April 7, 2020, https://www.capgemini.com/2020/04/the-impact-of-autonomous-vehicles-part-1/</li>
+  <li>Adam Kimmel, 2019, https://www.engineering.com/story/state-of-the-art-autonomous-driving-technology-as-2019-comes-to-a-close</li>
+  <li>Dingyi 2018, State-of-the-art and trends of autonomous driving technology, Conference: 2018 IEEE International Symposium on Innovation and Entrepreneurship (TEMS-ISIE), City University of Hong Kong</li>
+  </ul>
+    
+    
   <h2>Clouds Services, and Servers</h2>
   <ul>
   <h3>What does it do?</h3>
