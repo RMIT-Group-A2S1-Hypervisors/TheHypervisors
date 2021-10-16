@@ -140,6 +140,10 @@
       <li>Prior experience with complex data structures and have used multi process or threaded applications</li>
       <li>Knowledge of Python is also a added bonus</li>  
     </ul>
+  
+  <h3><a href="https://au.indeed.com/jobs?q=remote%20web%20developer&mna=5&matchtype=b&network=g&device=c&devicemodel&creative=323997125229&keyword&placement&param1&param2&random=5958718950922981827&aceid&adposition&gclid=CjwKCAjw4qCKBhAVEiwAkTYsPBx5mE3zIBHpdondz4zDuQcCD87ixl6CVdBh7KKAyxCxn5nSDqRowRoCizMQAvD_BwE&vjk=7660c48845c3441f">Web Developer</a></h3>
+    <p>Personally, what is appealing to me in this advertisement is the job itself, I aim to be a web developer when I have enough experience and potentially earn as much as advertised. The job requires experience for 2 years programming in PHP and experience in Lavarel or Symphony then HTML, CSS and Javascript. I am yet to learn and experience these requirements although I have some time of experience with HTML. I plan to learn as much as I can from my current courses which is Intro to IT and Intro to Programming and courses I will take in the future. I also plan to research and learn coding in my own time and create projects to enhance my ability to code.</p>
+<br>
    
   <h1><b>Tools</b></h1>
   <b>Group Website:</b> <a href="https://rmit-group-a2s1-hypervisors.github.io/TheHypervisors/">The Hypervisors</a><br>
