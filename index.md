@@ -226,6 +226,9 @@
 <br>
 
   <h1><b>IT Work</b></h1>
+  <h2>It Professional Interview</h2>
+    <p></p>
+  
     <h2><a href="https://www.youtube.com/watch?v=ikJ0i1GW0Bw">Day In The Life As Remote Blockchain Developer</a></h2>
     <ul>
     <li><b>What kind of work does the blockchain developer perform?</b></li><br>
@@ -236,8 +239,7 @@
     <p>In this video it was not made clear, but one would assume he was conversing with other staff at the company he worked for.</p>
     <li><b>Where do they spend most of their time?</b></li><br>
     Shane spends most of his time in his home office, though he did like to get outside for a walk in the snow.
-    <br></ul>
-    
+    </ul>
     
    <h2><a href="https://www.youtube.com/watch?v=nZh_ue1Nw_k">A Day as an Indie Game Developer</a></h2>
   <p>This video shows what Karl, an Indie Game Developer with a YouTube channel called ThinMatrix, does during a day at work.  He is currently developing a city-builder game. He also developed the <br>
