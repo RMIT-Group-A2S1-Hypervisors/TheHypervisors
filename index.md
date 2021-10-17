@@ -227,18 +227,19 @@
 
   <h1><b>IT Work</b></h1>
   <h2>It Professional Interview</h2>
-    <p></p>
+    <p><b>Step 1: Insert the IT Professional Interview here.</b></p>
+    <p><b>Step 2: Delete the YouTube Videos summaries, so the next is a blank line, then the following line is "IT Technologies" heading</b></p>
   
-    <h2><a href="https://www.youtube.com/watch?v=ikJ0i1GW0Bw">Day In The Life As Remote Blockchain Developer</a></h2>
-    <ul>
+  <h2><a href="https://www.youtube.com/watch?v=ikJ0i1GW0Bw">Day In The Life As Remote Blockchain Developer</a></h2>
+  <ul>
     <li><b>What kind of work does the blockchain developer perform?</b></li><br>
-    <p>Shane works for a blockchain company called GridLock.  Shane usually starts working around 8am. Shane starts his day with a shower and coffee and firing up his laptop and     computer in his home office.  In this video, for this week, Shane is starting off with a bit of sprint review, reviewing the last sprint, some sprint planning along with         some development and meetings.</p>
+    <p>Shane works for a blockchain company called GridLock.  Shane usually starts working around 8am. Shane starts his day with a shower and coffee and firing up his laptop and computer in his home office.  In this video, for this week, Shane is starting off with a bit of sprint review, reviewing the last sprint, some sprint planning along with         some development and meetings.</p>
     <p>Shane prepares documents relating to sprint 7 for the upcoming team meeting to discuss what went well and what didn't.  He then finishes the day doing some coding and code reviews</p>
     <li><b>What kinds of people do they interact with? Other IT professionals, Clients, Investors, or the general public</b></li><br>
     <p>In this video it was not made clear, but one would assume he was conversing with other staff at the company he worked for.</p>
     <li><b>Where do they spend most of their time?</b></li><br>
     <p>Shane spends most of his time in his home office, though he did like to get outside for a walk in the snow.</p>
-    </ul>
+  </ul>
     
    <h2><a href="https://www.youtube.com/watch?v=nZh_ue1Nw_k">A Day as an Indie Game Developer</a></h2>
   <p>This video shows what Karl, an Indie Game Developer with a YouTube channel called ThinMatrix, does during a day at work.  He is currently developing a city-builder game. He also developed the <br>
@@ -246,7 +247,7 @@
 
   <ul>
     <li><b>What kind of work does the IT professional perform?</b></li><br>
-      <p>As an Indie Games Developer Karl spends his day adapting code, mainly working on developing the save function for his city-builder, adding additional functions to the behaviour trees of NPCs, so that activities performed have multiple actions and aligning these actions with a status of Running, Passed or Failed, and a Boolean value of either True, for both Passed and Failed, or False for Running.  He spent the afternoon working on a new developer tool to import mesh information regarding points of interest (nodes and how these nodes are connected) from a 3D model, and then converts the information to a format suitable Entities document, which is then viewed in Notepad++.  To do this he opens the 3d model in Blender and then applies a mesh showing how all nodes are connected, and then exports the information into a Wavefront (.obj) file, and then created a new Java file that imports the .obj file and then extracts the necessary mesh data, converts the data so the Entities file can read it, and the exports the data to the clipboard, so it can be copied and pasted into the Entities file.</p>
+      <p>As an Indie Games Developer Karl spends his day adapting code, mainly working on developing the save function for his city-builder, adding additional functions to the    behaviour trees of NPCs, so that activities performed have multiple actions and aligning these actions with a status of Running, Passed or Failed, and a Boolean value of    either True, for both Passed and Failed, or False for Running.  He spent the afternoon working on a new developer tool to import mesh information regarding points of       interest (nodes and how these nodes are connected) from a 3D model, and then converts the information to a format suitable Entities document, which is then viewed in Notepad++.  To do this he opens the 3d model in Blender and then applies a mesh showing how all nodes are connected, and then exports the information into a Wavefront (.obj) file, and then created a new Java file that imports the .obj file and then extracts the necessary mesh data, converts the data so the Entities file can read it, and the exports the data to the clipboard, so it can be copied and pasted into the Entities file.</p>
     <li><b>What kinds of people do they interact with? Other IT professionals, Clients, Investors, or the general public</b></li><br>
     <p>Karl responds to emails and comments left on his YouTube videos from the general public.</p>
     <li><b>Where do they spend most of their time?</b></li><br>
