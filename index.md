@@ -226,9 +226,28 @@
 <br>
 
   <h1><b>IT Work</b></h1>
-  <h2>It Professional Interview</h2>
-    <p><b>Step 1: Insert the IT Professional Interview here.</b></p>
-    <p><b>Step 2: Delete the YouTube Videos summaries, so the next is a blank line, then the following line is "IT Technologies" heading</b></p>
+  <h2>IT Professional Interview - Hashan DevOps Engineer</h2>
+  <ul>
+  <li><b>Please tell me about your IT work. What exactly do you do?</b></li><br>
+  <p><b>I work as a DevOps Engineer and I enable the company I work for teams to continuously deliver on a platform that is safe, simple, automated, reliable, performant and         observable.<b></p>
+  <li><b>Tell me about the industry you work in.</b></li><br>
+  <p><b>I work for DevOps and the industry is to optimise the flow of value from idea to end user<b></p>
+  <li><b>What other kinds of work do you have to do?</b></li><br>
+  <p>I only work as a DevOps Engineer it’s the only kind of work I do for this industry.</p>
+  <li><b>Who are all the different people you interact with in your work?<b></li><br>
+  <p>Since I’m remote I only interact with my team members which are also DevOp Engineers</p>
+  <li><b>Please tell me about your interactions with other IT professionals.<b></li><br>
+  <p>Like my previous answer I only interact with team members which are also DevOp Engineers.</p>
+  <li><b>What about your interactions with clients or investors?</b></li><br> 
+  <p>I have no interaction with clients or investors because I am only given the project task from my manager or my senior and work through my back log.<p>
+  <li><b>What aspects of your work do you spend most time on?</b></li><br>
+  <p>Adding functionality to existing apps which the company uses.</p>
+  <li><b>What aspects of your work do you find most challenging?</b></li><br>
+  <p>As a DevOp Engineer what I find most challenging is the workload given with limited time to complete and the amount of meetings that I have to be ready for.</p>
+  <li><b>Can you share an example of the work you do that best captures the essence of the IT industry?</b></li><br>
+  <p>Unfortunately, I can’t share examples of my work since I am bound not to share the technology the company uses and everything I develop for this company are internal applications.</p>
+  </ul>
+    
   
   <h2><a href="https://www.youtube.com/watch?v=ikJ0i1GW0Bw">Day In The Life As Remote Blockchain Developer</a></h2>
   <ul>
