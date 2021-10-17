@@ -229,9 +229,9 @@
   <h2>IT Professional Interview - Hashan DevOps Engineer</h2>
   <ul>
   <li><b>Please tell me about your IT work. What exactly do you do?</b></li><br>
-  <p><b>I work as a DevOps Engineer and I enable the company I work for teams to continuously deliver on a platform that is safe, simple, automated, reliable, performant and         observable.<b></p>
+  <p>I work as a DevOps Engineer and I enable the company I work for teams to continuously deliver on a platform that is safe, simple, automated, reliable, performant and         observable.</p>
   <li><b>Tell me about the industry you work in.</b></li><br>
-  <p><b>I work for DevOps and the industry is to optimise the flow of value from idea to end user<b></p>
+  <p>I work for DevOps and the industry is to optimise the flow of value from idea to end user</p>
   <li><b>What other kinds of work do you have to do?</b></li><br>
   <p>I only work as a DevOps Engineer it’s the only kind of work I do for this industry.</p>
   <li><b>Who are all the different people you interact with in your work?<b></li><br>
