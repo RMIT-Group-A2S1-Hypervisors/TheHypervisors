@@ -234,9 +234,9 @@
   <p>I work for DevOps and the industry is to optimise the flow of value from idea to end user</p>
   <li><b>What other kinds of work do you have to do?</b></li><br>
   <p>I only work as a DevOps Engineer it’s the only kind of work I do for this industry.</p>
-  <li><b>Who are all the different people you interact with in your work?<b></li><br>
+  <li><b>Who are all the different people you interact with in your work?</b></li><br>
   <p>Since I’m remote I only interact with my team members which are also DevOp Engineers</p>
-  <li><b>Please tell me about your interactions with other IT professionals.<b></li><br>
+  <li><b>Please tell me about your interactions with other IT professionals.</b></li><br>
   <p>Like my previous answer I only interact with team members which are also DevOp Engineers.</p>
   <li><b>What about your interactions with clients or investors?</b></li><br> 
   <p>I have no interaction with clients or investors because I am only given the project task from my manager or my senior and work through my back log.<p>
