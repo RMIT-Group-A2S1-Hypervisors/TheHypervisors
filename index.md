@@ -161,10 +161,13 @@
 <br>
 
   <h1><b>Industry Data</b></h1>
-<p>  The skills required to become a blockchain developer include the knowledge of C++, Java, and Python programming languages, as well as well as knowledge of Crytography, Smart Contracts, Data Structures, Blockchain Architecture, and Web Development (Sahu 2021).  
-  The skills required to become a Games Developer/Programmer include the knowledge of C, C++, C#, Java, Javascript, and Lua programming languages, as well as knowledge of 3D Studio Max, After Effects, Computer Science, Debugging, Game Design Principles, Games Development, GIT Version Control System, Illustrator, jQuery, Learning Design, Maya, Middleware, Nuke, Photoshop, Software Development, Test Plans, Unity, and Unreal Engine (cgspectrum n.d.; Seek n.d.).  
-  The skills required to get employed by the film industry include the knowledge of C++, CSS, HTML, Java, PHP, and SQL programming languages, as well as knowledge of After Effects, Lightworks, Photoshop, Red Giant Universe, and RenderMan (Matthews 2015).  
-  The skills required to become a C++ developer include the knowledge of C++, Java, Javascript, Perl, Python programming languages, as well as knowledge of Code Reviews, Data Structures, GIT, Machine Learning Algorithms, Software Development, STL, Version Control, and Windows OS (Zippia n.d.).  The skills required to become a web developer include the knowledge of C#, CSS, HTML, Javascript, and PHP programming languages, as well as knowledge of Angular, API, Bootstrap, GIT Version Control System, jQuery, Laravel, MySQL, Sass, SEO, Shopify, UI, UX,  Web Development, and Wordpress CMS (Seek n.d.).
+<p>  The skills required to become a blockchain developer include the knowledge of C++, Java, and Python programming languages, as well as well as knowledge of Crytography, Smart Contracts, Data Structures, Blockchain Architecture, and Web Development (Sahu 2021).</p>
+  
+<p>The skills required to become a Games Developer/Programmer include the knowledge of C, C++, C#, Java, Javascript, and Lua programming languages, as well as knowledge of 3D Studio Max, After Effects, Computer Science, Debugging, Game Design Principles, Games Development, GIT Version Control System, Illustrator, jQuery, Learning Design, Maya, Middleware, Nuke, Photoshop, Software Development, Test Plans, Unity, and Unreal Engine (cgspectrum n.d.; Seek n.d.).</p>
+  
+<p>The skills required to get employed by the film industry include the knowledge of C++, CSS, HTML, Java, PHP, and SQL programming languages, as well as knowledge of After Effects, Lightworks, Photoshop, Red Giant Universe, and RenderMan (Matthews 2015).</p>
+  
+<p>The skills required to become a C++ developer include the knowledge of C++, Java, Javascript, Perl, Python programming languages, as well as knowledge of Code Reviews, Data Structures, GIT, Machine Learning Algorithms, Software Development, STL, Version Control, and Windows OS (Zippia n.d.).  The skills required to become a web developer include the knowledge of C#, CSS, HTML, Javascript, and PHP programming languages, as well as knowledge of Angular, API, Bootstrap, GIT Version Control System, jQuery, Laravel, MySQL, Sass, SEO, Shopify, UI, UX,  Web Development, and Wordpress CMS (Seek n.d.).</p>
   
 <p>According to Seek there were 17,548 IT jobs posted in the past 30 days for Australia, with these jobs falling into these IT categories:</p>
   <ul>
@@ -189,7 +192,7 @@
     <li><b><i>Java: 7,229 jobs;</i></b></li>
     <li>.NET Programming: 6,424 jobs;</li>
     <li><b><i>Software Development: 5,925 jobs;</i></b></li>
-    <li><b<i>>Python: 5,800 jobs;</i></b></li>
+    <li><b><i>Python: 5,800 jobs;</i></b></li>
     <li>Customer Service: 5,318 jobs;</li>
     <li>Azure: 5,261 jobs;</li>
     <li><b><i>C#: 5,177 jobs;</i></b></li>
@@ -257,6 +260,8 @@
     <li><b><i>Red Giant Universe: 0 jobs;</i></b> and</li>
     <li><b><i>RenderMan: 0 jobs</i></b>.</li>
   </ul>
+  
+  <p>The programming languages that are most sought after by employers are SQL, Java, Python, C#, Javascript, PHP, C++, and HTML while skills and knowledge in areas like Software Development, React, Angular, Learning Design, Computer Science, Test Plans, Go, GIT, and Microsoft Windows OS are also highly sought by employers.  There were also several skills mentioned in the ideal jobs, like Laravel, Nuke, and Lightworks, that seem to be very specific to certain positions, as they had little or no mentions in job postings on Seek.</p>
 
   <h2>References</h2>
   <ul>
