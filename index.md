@@ -297,7 +297,6 @@
   <li><b>Can you share an example of the work you do that best captures the essence of the IT industry?</b></li><br>
   <p>Unfortunately, I can’t share examples of my work since I am bound not to share the technology the company uses and everything I develop for this company are internal applications.</p>
   </ul>
-    
   
   <h2><a href="https://www.youtube.com/watch?v=ikJ0i1GW0Bw">Day In The Life As Remote Blockchain Developer</a></h2>
   <ul>
@@ -311,9 +310,7 @@
   </ul>
     
    <h2><a href="https://www.youtube.com/watch?v=nZh_ue1Nw_k">A Day as an Indie Game Developer</a></h2>
-  <p>This video shows what Karl, an Indie Game Developer with a YouTube channel called ThinMatrix, does during a day at work.  He is currently developing a city-builder game. He also developed the <br>
-  nature-themed sandbox game <a href="https://store.steampowered.com/app/853550/Equilinox/">Equilinox</a> which is available on Steam.</p>
-
+  <p>This video shows what Karl, an Indie Game Developer with a YouTube channel called ThinMatrix, does during a day at work.  He is currently developing a city-builder game. He also developed the nature-themed sandbox game <a href="https://store.steampowered.com/app/853550/Equilinox/">Equilinox</a> which is available on Steam.</p>
   <ul>
     <li><b>What kind of work does the IT professional perform?</b></li><br>
       <p>As an Indie Games Developer Karl spends his day adapting code, mainly working on developing the save function for his city-builder, adding additional functions to the    behaviour trees of NPCs, so that activities performed have multiple actions and aligning these actions with a status of Running, Passed or Failed, and a Boolean value of    either True, for both Passed and Failed, or False for Running.  He spent the afternoon working on a new developer tool to import mesh information regarding points of       interest (nodes and how these nodes are connected) from a 3D model, and then converts the information to a format suitable Entities document, which is then viewed in Notepad++.  To do this he opens the 3d model in Blender and then applies a mesh showing how all nodes are connected, and then exports the information into a Wavefront (.obj) file, and then created a new Java file that imports the .obj file and then extracts the necessary mesh data, converts the data so the Entities file can read it, and the exports the data to the clipboard, so it can be copied and pasted into the Entities file.</p>
@@ -325,7 +322,6 @@
 
   <h2><a href="https://www.youtube.com/watch?v=dsL16YynAfw">Day In The Life - Independent iOS Developer - The Green Developer Vlogs</a></h2>
   <p>This video shows what Sean, an independent iOS Software Developer, would do during a day at work.</p>
-
   <ul>
     <li><b>What kind of work does the IT professional perform?</b></li><br>
     <p>As an independent iOS Software Developer the morning Sean works on creating app icons, and redesigning app icons are he finds better ways to design them and compares the iterations.  He constantly loads these app icons into his app, and assesses how they look, so that he can see how better to improve them.  In the afternoon he works on logical problems, such an adding location-based permission and notifications to the app.</p>
@@ -361,7 +357,29 @@
     <p>Danyil works from home, so he spends most of his day working out of his home office.</p>
     <li><b>What aspect of their position is most challenging?</b></li><br>
     <p>Danyil states that the most challenging part of being an Indie Games Developer is having to juggle games development, as well as working as a Truck Dispatcher, and creating videos for the YouTube channel, called Hyve.</p>
-    </ul>
+  </ul>
+  
+  <h2><a href="https://www.youtube.com/watch?v=8gqXda_r1hQ">A day in the life of a Developer... (at an Australian Agency)</a></h2>
+  <p>This video shows Adrian Twarog, who works for Moshi Moshi Marketing, a website design and optimisation business, does everyday during a typical week.</p>
+  <ul>
+    <li><b>What kind of work does the IT professional perform?</b></li><br>
+    <p>Adrian is a website designer and developer.  He also spends time trying to solve bugs in a websites code.</p>
+    <li><b>What kinds of people do they interact with? Other IT professionals, Clients, Investors, or the general public.</b></li><br>
+    <p>Adrian communicates with the general public and clients via email.  He holds a meeting with the Department Heads once per week, so that he can address issues regarding the company.  He then hold another meeting with the individual departments, to find out how tasks are progressing, and to find out any issues that have arisen, and find a solution to address these issues. He also mentors any employees who are having issues.</p>
+    <li><b>Where do they spend most of their time?</b></li><br>
+    <p>Adrain works out of a small office in Western Australia.</p>
+  </ul>
+  
+  <h2><a href="https://www.youtube.com/watch?v=SmxrUmaAOz0">A Day in the Life of a Web Developer</a></h2>
+  <p>This video shows Chris Sean, a Web Developer does on a typical day.</p>
+  <ul>
+    <li><b>What kind of work does the IT professional perform?</b></li><br>
+    <p>Chris designs websites and applications for clients.  He also spends time during the day debugging websites and web applications.</p>
+    <li><b>What kinds of people do they interact with? Other IT professionals, Clients, Investors, or the general public.</b></li><br>
+    <p>Chris communicates with clients via emails, and other staff members via an internal chat program.</p>
+    <li><b>Where do they spend most of their time?</b></li><br>
+    <p>Chris work out of his home office.</p>
+  </ul>
 <br>
    
   <h1><b>IT Technologies</b></h1>
@@ -369,28 +387,18 @@
   <ul>
   <h3>What does it do?</h3>
   <li><b>What is the state of the art of this new technology?</b></li>
-
-  <p>These cars utilise sensory devices such as GPS, radar, sonor, lidar and inertial measuring units.  They use an internal computer to interpret this sensory data and make informed 'decisions' about the safest driving options in any given moment. According to Dingyi(2018) these cars rely on "environmental perception, decision making and motion control" to operate.</p>
-
-<p>The first driverless car was made by google which they called Waymo in October of 2015 they took their first solo drive around Austin in a 10 minute trip, in one of their early 'pod' models. </p>
-
-<p>According to Twi-Global (2019) there are six levels of autonomous driving:</p>
+  <p>These cars utilise sensory devices such as GPS, radar, sonor, lidar and inertial measuring units.  They use an internal computer to interpret this sensory data and make informed 'decisions' about the safest driving options in any given moment. According to Dingyi(2018) these cars rely on "environmental perception, decision making and motion control" to operate.  The first driverless car was made by google which they called Waymo in October of 2015 they took their first solo drive around Austin in a 10 minute trip, in one of their early 'pod' models.  According to Twi-Global (2019) there are six levels of autonomous driving:</p>
 
 <ul>
-<li>
-<p>At level 0, the car has no control over its operation and the human driver does all of the driving.</p>
-</li>
-<li>
-<p>At level 1, the vehicle’s ADAS (advanced driver assistance system) has the ability to support the driver with either steering or accelerating and braking.</p>
-</li>
-<li><p>At level 2, the ADAS can oversee steering and accelerating and braking in some conditions, although the human driver is required to continue paying complete attention to the driving environment throughout the journey, while also performing the remainder of the necessary tasks.</p>
-</li>
-<li><p>At level 3, the ADS (advanced driving system) can perform all parts of the driving task in some conditions, but the human driver is required to be able to regain control when requested to do so by the ADS. In the remaining conditions, the human driver executes the necessary tasks.</p></li>
-<li><p>At level 4, the vehicle’s ADS is able to perform all driving tasks independently in certain conditions in which human attention is not required.</p></li>
-<li><p>Finally, level 5 involves full automation whereby the vehicle’s ADS is able to perform all tasks in all conditions, and no driving assistance is required from the human driver. This full automation will be enabled by the application of 5G technology, which will allow vehicles to communicate not just with one another, but also with traffic lights, signage and even the roads themselves.</p></li></ul>
+  <li><p>At level 0, the car has no control over its operation and the human driver does all of the driving.</p></li>
+  <li><p>At level 1, the vehicle’s ADAS (advanced driver assistance system) has the ability to support the driver with either steering or accelerating and braking.</p></li>
+  <li><p>At level 2, the ADAS can oversee steering and accelerating and braking in some conditions, although the human driver is required to continue paying complete attention to the driving environment throughout the journey, while also performing the remainder of the necessary tasks.</p></li>
+  <li><p>At level 3, the ADS (advanced driving system) can perform all parts of the driving task in some conditions, but the human driver is required to be able to regain control when requested to do so by the ADS. In the remaining conditions, the human driver executes the necessary tasks.</p></li>
+  <li><p>At level 4, the vehicle’s ADS is able to perform all driving tasks independently in certain conditions in which human attention is not required.</p></li>
+  <li><p>Finally, level 5 involves full automation whereby the vehicle’s ADS is able to perform all tasks in all conditions, and no driving assistance is required from the human driver. This full automation will be enabled by the application of 5G technology, which will allow vehicles to communicate not just with one another, but also with traffic lights, signage and even the roads themselves.</p></li>
+</ul>
 
-<p>
-The market for global autonomous vehicles is currently at over $54 billion and could reach more than ten times that amount by 2026. Drivers for this technology include regulatory pressure, increasing connectivity by passengers, high cost of vehicle ownership, and disinterest by an increasingly large segment of the population to own a vehicle outright. (Kimmel, 2019).  Kimmel also goes on to state that the latest advancements in AI & Imaging technology are pushing forward the limits on what is possible with these robo-cars. </p>
+<p>The market for global autonomous vehicles is currently at over $54 billion and could reach more than ten times that amount by 2026. Drivers for this technology include regulatory pressure, increasing connectivity by passengers, high cost of vehicle ownership, and disinterest by an increasingly large segment of the population to own a vehicle outright. (Kimmel, 2019).  Kimmel also goes on to state that the latest advancements in AI & Imaging technology are pushing forward the limits on what is possible with these robo-cars.</p>
 
 
   <li><b>What can be done now?</b></li>
