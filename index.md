@@ -129,7 +129,7 @@
     <p>This is a job for a Senior/Lead developer to work for a cryptocurrency trading business. The business works with several large cryptocurrency exchanges to perform Peer to Peer trading. I feel a job like this would be ideal for me as I am fascinated by what blockchain makes possible online. This job would allow me to be involved with app development, website development and design, work with APIs, the Python programming language as well as the latest internet technologies. I have had an interest in cybersecurity since a teenager and because of the inherent risks with blockchains re cyber attacks/hacks I think it would be amazing to work in a position like this where I had to stay up to date with cyber security topics to ensure I could write efficient, safe code that wasn't easily exploited for my client.</p>
     <p>I find this job very attractive because they also state the successful applicant may get shares in the company, may be able to extend onto being manager of the whole IT department, and it also says the work can be remote.</p>
     <p>The position asks for an exceptional understanding of Python, knowledge of blockchain and cryptocurrencies, front end development tools such as Javascript, VueJS, React & Angular. The company is also saying someone with programming experience in C++, Java, Go, Node & Solidity is beneficial. Further they state knowledge of RDBMS or NoSQL databases is also beneficial.</p>
-    <p>I have skills in web development, PHP, some Python (from this course already), database design however I am familiar with MYSQL and Phpmyadmin. I have no experience with VUEJS, React, Angular, RDBMS, or NoSQL. I have played around with a small Solidity file to make my own cryptocurrency coin on Binance Smart Chain using Remix. I have experience as a web designer, web admin and database admin for large scale commercial projects, as well as some private projects.</p>
+    <p>I have skills in web development, PHP, some Python (from this course already), database design however I am familiar with MYSQL and Phpmyadmin. I have no experience with VueJS, React, Angular, RDBMS, or NoSQL. I have played around with a small Solidity file to make my own cryptocurrency coin on Binance Smart Chain using Remix. I have experience as a web designer, web admin and database admin for large scale commercial projects, as well as some private projects.</p>
     <p>My plan to be able to fulfil all the requirements for this role is to continue to learn as much as I can about blockchain technologies, Solidity, Javascript and cyber security. I will research all of the skills I do not currently have to better advance my understanding throughout this degree. I will continue to stay up to date with the latest web technologies, and also hone my skills on programming automated systems.</p>
 <br>
   
@@ -185,77 +185,77 @@
   <p>Hays suggest that the top three IT jobs in demand in Australia in 2021 are Cloud Engineers, Security Awareness Consultants, and Full Stack Developers.  The most in demand skills for IT professionals according to jobs posted to Seek in the past 30 days for Australia are:</p>
   <ul>
     <li>Business Management: 8,845 jobs;</li>
-    <li><b>SQL: 8,680 jobs;</b></li>
-    <li><b>Java: 7,229 jobs;</b></li>
+    <li><b><i>SQL: 8,680 jobs;</i></b></li>
+    <li><b><i>Java: 7,229 jobs;</i></b></li>
     <li>.NET Programming: 6,424 jobs;</li>
-    <li><b>Software Development: 5,925 jobs;</b></li>
-    <li><b>Python: 5,800 jobs;</b></li>
+    <li><b><i>Software Development: 5,925 jobs;</i></b></li>
+    <li><b<i>>Python: 5,800 jobs;</i></b></li>
     <li>Customer Service: 5,318 jobs;</li>
     <li>Azure: 5,261 jobs;</li>
-    <li><b>C#: 5,177 jobs;</b></li>
+    <li><b><i>C#: 5,177 jobs;</i></b></li>
     <li>Technical Support: 4,809 jobs; </li>
     <li>Project Management: 4,664 jobs;</li>
-    <li><b>Javascript: 4,460 jobs;</b></li>
+    <li><b><i>Javascript: 4,460 jobs;</i></b></li>
     <li>Business Analysis: 4,189;</li>
     <li>Software Engineering: 3,899 jobs;</li>
     <li>Linux: 3,804 jobs;</li>
-    <li><b>PHP: 3,628 jobs;</b></li>
-    <li><b>React: 3,454 jobs;</b></li>
-    <li><b>C++: 3,280 jobs;</b></li>
-    <li><b>Angular: 3,210 jobs;</b></li>
-    <li><b>Learning Design: 2,850 jobs;</b></li>
+    <li><b><i>PHP: 3,628 jobs;</i></b></li>
+    <li><b><i>React: 3,454 jobs;</i></b></li>
+    <li><b><i>C++: 3,280 jobs;</i></b></li>
+    <li><b><i>Angular: 3,210 jobs;</i></b></li>
+    <li><b><i>Learning Design: 2,850 jobs;</i></b></li>
     <li>Oracle: 2,716 jobs;</li>
     <li>SAP: 2,637 jobs;</li>
     <li>ITIL: 2,503 jobs;</li>
     <li>Systems Engineering: 2,280 jobs;</li>
-    <li><b>Computer Science: 2,092 jobs;</b></li>
+    <li><b><i>Computer Science: 2,092 jobs;</i></b></li>
     <li>Building Relationships: 1,737 jobs;</li>
-    <li><b>Test Plans: 1,463 jobs;</b></li>
+    <li><b><i>Test Plans: 1,463 jobs;</i></b></li>
     <li>Microsoft Server: 1,366;</li>
-    <li><b>HTML: 1,334 jobs;</b></li>
-    <li><b>Go: 1,262 jobs;</b></li>
-    <li><b>GIT: 1,156 jobs;</b></li>
-    <li><b>Microsoft Windows: 1,084 jobs;</b></li>
-    <li><b>CSS: 1,006 jobs;</b></li>
-    <li><b>Node: 567 jobs;</b></li>
-    <li><b>C: 566 jobs;</b></li>
-    <li><b>Code Reviews: 492 jobs</b></li>
-    <li><b>Unity: 475 jobs;</b></li>
-    <li><b>Version Control: 421 jobs;</b></li>
-    <li><b>jQuery: 391 jobs;</b></li>
-    <li><b>NoSQL: 319 jobs;</b></li>
-    <li><b>Debugging: 291 jobs;</b></li>
+    <li><b><i>HTML: 1,334 jobs;</i></b></li>
+    <li><b><i>Go: 1,262 jobs;</i></b></li>
+    <li><b><i>GIT: 1,156 jobs;</i></b></li>
+    <li><b><i>Microsoft Windows: 1,084 jobs;</i></b></li>
+    <li><b><i>CSS: 1,006 jobs;</i></b></li>
+    <li><b><i>Node: 567 jobs;</i></b></li>
+    <li><b><i>C: 566 jobs;</i></b></li>
+    <li><b><i>Code Reviews: 492 jobs;</i></b></li>
+    <li><b><i>Unity: 475 jobs;</i></b></li>
+    <li><b><i>Version Control: 421 jobs;</i></b></li>
+    <li><b><i>jQuery: 391 jobs;</i></b></li>
+    <li><b><i>NoSQL: 319 jobs;</i></b></li>
+    <li><b><i>Debugging: 291 jobs;</i></b></li>
     <li>AWS Lambda: 269 jobs;</li>
-    <li><b>Middleware: 267 jobs;</b></li>
-    <li><b>Data Structures: 231 jobs;</b></li>
-    <li><b>Perl: 218 jobs;</b></li>
+    <li><b><i>Middleware: 267 jobs;</i></b></li>
+    <li><b><i>Data Structures: 231 jobs;</i></b></li>
+    <li><b><i>Perl: 218 jobs;</i></b></li>
     <li>DynamoDb: 139 jobs;</li>
     <li>Jest: 114 jobs;</li>
-    <li>RDBMS: 97 jobs;</li>
-    <li><b>Photoshop: 91 jobs;</b></li>
+    <li><b><i>RDBMS: 97 jobs;</i></b></li>
+    <li><b><i>Photoshop: 91 jobs;</i></b></li>
     <li>ES6: 80 jobs; </li>
-    <li><b>Machine Learning Algorithms: 80 jobs;</b></li>
-    <li><b>Illustrator: 91 jobs;</b></li>
-    <li><b>Qt: 62 jobs;</b></li>
-    <li><b>VueJS: 51 jobs;</b></li>
-    <li><b>Game Design Principles: 31 jobs;</b></li>
-    <li><b>Cryptography: 36 jobs;</b></li>
-    <li><b>Blockchain Architecture: 22 jobs;</b></li>
-    <li><b>Unreal: 17 jobs</b></li>
-    <li><b>After Effects: 8 jobs;</b></li>
-    <li><b>STL: 7 jobs;</b></li>
-    <li><b>Lua: 5 jobs;</b></li>
-    <li><b>Solidity: 5 jobs;</b></li>
-    <li><b>3D Studio Max: 2 jobs;</b></li>
-    <li><b>Koa; 2 jobs;</b></li>
-    <li><b>Maya: 2 jobs;</b></li>
-    <li><b>3D Studio Max: 2 jobs;</b></li>
-    <li><b>Symphony: 2 jobs;</b></li>
-    <li><b>Lavarel: 1 job;</b></li>
-    <li><b>Lightworks: 0 jobs;</b></li>
-    <li><b>Nuke: 0 jobs;</b></li>
-    <li><b>Red Giant Universe: 0 jobs;</b> and</li>
-    <li><b>RenderMan: 0 jobs</b>.</li>
+    <li><b><i>Machine Learning Algorithms: 80 jobs;</i></b></li>
+    <li><b><i>Illustrator: 91 jobs;</i></b></li>
+    <li><b><i>Qt: 62 jobs;</i></b></li>
+    <li><b><i>VueJS: 51 jobs;</i></b></li>
+    <li><b><i>Game Design Principles: 31 jobs;</i></b></li>
+    <li><b><i>Cryptography: 36 jobs;</i></b></li>
+    <li><b><i>Blockchain Architecture: 22 jobs;</i></b></li>
+    <li><b><i>Unreal: 17 jobs;</i></b></li>
+    <li><b><i>After Effects: 8 jobs;</i></b></li>
+    <li><b><i>STL: 7 jobs;</i></b></li>
+    <li><b><i>Lua: 5 jobs;</i></b></li>
+    <li><b><i>Solidity: 5 jobs;</i></b></li>
+    <li><b><i>3D Studio Max: 2 jobs;</i></b></li>
+    <li><b><i>Koa; 2 jobs;</i></b></li>
+    <li><b><i>Maya: 2 jobs;</i></b></li>
+    <li><b><i>3D Studio Max: 2 jobs;</i></b></li>
+    <li><b><i>Symphony: 2 jobs;</i></b></li>
+    <li><b><i>Lavarel: 1 job;</i></b></li>
+    <li><b><i>Lightworks: 0 jobs;</i></b></li>
+    <li><b><i>Nuke: 0 jobs;</i></b></li>
+    <li><b><i>Red Giant Universe: 0 jobs;</i></b> and</li>
+    <li><b><i>RenderMan: 0 jobs</i></b>.</li>
   </ul>
 
   <h2>References</h2>
