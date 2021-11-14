@@ -161,6 +161,11 @@
 <br>
 
   <h1><b>Industry Data</b></h1>
+<p>  The skills required to become a blockchain developer include the knowledge of C++, Java, and Python programming languages, as well as well as knowledge of Crytography, Smart Contracts, Data Structures, Blockchain Architecture, and Web Development (Sahu 2021).  
+  The skills required to become a Games Developer/Programmer include the knowledge of C, C++, C#, Java, Javascript, and Lua programming languages, as well as knowledge of 3D Studio Max, After Effects, Computer Science, Debugging, Game Design Principles, Games Development, GIT Version Control System, Illustrator, jQuery, Learning Design, Maya, Middleware, Nuke, Photoshop, Software Development, Test Plans, Unity, and Unreal Engine (cgspectrum n.d.; Seek n.d.).  
+  The skills required to get employed by the film industry include the knowledge of C++, CSS, HTML, Java, PHP, and SQL programming languages, as well as knowledge of After Effects, Lightworks, Photoshop, Red Giant Universe, and RenderMan (Matthews 2015).  
+  The skills required to become a C++ developer include the knowledge of C++, Java, Javascript, Perl, Python programming languages, as well as knowledge of Code Reviews, Data Structures, GIT, Machine Learning Algorithms, Software Development, STL, Version Control, and Windows OS (Zippia n.d.).  The skills required to become a web developer include the knowledge of C#, CSS, HTML, Javascript, and PHP programming languages, as well as knowledge of Angular, API, Bootstrap, GIT Version Control System, jQuery, Laravel, MySQL, Sass, SEO, Shopify, UI, UX,  Web Development, and Wordpress CMS (Seek n.d.).
+  
 <p>According to Seek there were 17,548 IT jobs posted in the past 30 days for Australia, with these jobs falling into these IT categories:</p>
   <ul>
     <li>Developer/Programmers: 3,066 jobs;</li>
@@ -173,55 +178,95 @@
     <li>Consultants: 646 jobs;</li>
     <li>System & Cyber Security: 631 jobs;</li>
     <li>Management: 467 jobs;</li>
-    <li>Network Engineering:433 jobs; and </li>
+    <li>Network Engineering: 433 jobs; and </li>
     <li>Database Development & Administration: 411 jobs.</li>
   </ul>
 
   <p>Hays suggest that the top three IT jobs in demand in Australia in 2021 are Cloud Engineers, Security Awareness Consultants, and Full Stack Developers.  The most in demand skills for IT professionals according to jobs posted to Seek in the past 30 days for Australia are:</p>
   <ul>
     <li>Business Management: 8,845 jobs;</li>
-    <li>SQL: 8,680 jobs;</li>
-    <li>Java: 7,229 jobs</li>
+    <li><b>SQL: 8,680 jobs;</b></li>
+    <li><b>Java: 7,229 jobs;</b></li>
     <li>.NET Programming: 6,424 jobs;</li>
-    <li>Software Development: 5,925 jobs;</li>
-    <li>Python: 5,800 jobs;</li>
+    <li><b>Software Development: 5,925 jobs;</b></li>
+    <li><b>Python: 5,800 jobs;</b></li>
     <li>Customer Service: 5,318 jobs;</li>
     <li>Azure: 5,261 jobs;</li>
-    <li>C#: 5,177 jobs;</li>
+    <li><b>C#: 5,177 jobs;</b></li>
     <li>Technical Support: 4,809 jobs; </li>
     <li>Project Management: 4,664 jobs;</li>
-    <li>Javascript: 4,460 jobs;</li>
+    <li><b>Javascript: 4,460 jobs;</b></li>
     <li>Business Analysis: 4,189;</li>
     <li>Software Engineering: 3,899 jobs;</li>
     <li>Linux: 3,804 jobs;</li>
-    <li>C++: 3,280 jobs;</li>
-    <li>Oracle: 2,716 jobs</li>
+    <li><b>PHP: 3,628 jobs;</b></li>
+    <li><b>React: 3,454 jobs;</b></li>
+    <li><b>C++: 3,280 jobs;</b></li>
+    <li><b>Angular: 3,210 jobs;</b></li>
+    <li><b>Learning Design: 2,850 jobs;</b></li>
+    <li>Oracle: 2,716 jobs;</li>
     <li>SAP: 2,637 jobs;</li>
     <li>ITIL: 2,503 jobs;</li>
     <li>Systems Engineering: 2,280 jobs;</li>
+    <li><b>Computer Science: 2,092 jobs;</b></li>
     <li>Building Relationships: 1,737 jobs;</li>
+    <li><b>Test Plans: 1,463 jobs;</b></li>
     <li>Microsoft Server: 1,366;</li>
-    <li>Git: 1,156 jobs; and</li>
-    <li>Microsoft Windows: 1,084 jobs.</li>
-  </ul>
-  <p>According to Seek there were 74 Games Developer job postings in the past 30 days for Australia.  The most in demand skills in the Games Industry according to jobs posted to Seek in the past 30 days for Australia are:</p>
-  <ul>
-    <li>Unity: 475 jobs;</li>
-    <li>Unreal: 17 jobs</li>
-  </ul>
-  <p>According to Seek there were 144 Blackchain Developer jobs postings for Australia in the past 30 days.  The most in demand skills for Blockchain Developers are:</p>
-  <ul>
-    <li>NoSQL: 321 jobs;</li>
+    <li><b>HTML: 1,334 jobs;</b></li>
+    <li><b>Go: 1,262 jobs;</b></li>
+    <li><b>GIT: 1,156 jobs;</b></li>
+    <li><b>Microsoft Windows: 1,084 jobs;</b></li>
+    <li><b>CSS: 1,006 jobs;</b></li>
+    <li><b>Node: 567 jobs;</b></li>
+    <li><b>C: 566 jobs;</b></li>
+    <li><b>Code Reviews: 492 jobs</b></li>
+    <li><b>Unity: 475 jobs;</b></li>
+    <li><b>Version Control: 421 jobs;</b></li>
+    <li><b>jQuery: 391 jobs;</b></li>
+    <li><b>NoSQL: 319 jobs;</b></li>
+    <li><b>Debugging: 291 jobs;</b></li>
     <li>AWS Lambda: 269 jobs;</li>
+    <li><b>Middleware: 267 jobs;</b></li>
+    <li><b>Data Structures: 231 jobs;</b></li>
+    <li><b>Perl: 218 jobs;</b></li>
     <li>DynamoDb: 139 jobs;</li>
     <li>Jest: 114 jobs;</li>
-    <li>ES6: 80 jobs; and</li>
-    <li>Koa; 2 jobs.</li>
+    <li>RDBMS: 97 jobs;</li>
+    <li><b>Photoshop: 91 jobs;</b></li>
+    <li>ES6: 80 jobs; </li>
+    <li><b>Machine Learning Algorithms: 80 jobs;</b></li>
+    <li><b>Illustrator: 91 jobs;</b></li>
+    <li><b>Qt: 62 jobs;</b></li>
+    <li><b>VueJS: 51 jobs;</b></li>
+    <li><b>Game Design Principles: 31 jobs;</b></li>
+    <li><b>Cryptography: 36 jobs;</b></li>
+    <li><b>Blockchain Architecture: 22 jobs;</b></li>
+    <li><b>Unreal: 17 jobs</b></li>
+    <li><b>After Effects: 8 jobs;</b></li>
+    <li><b>STL: 7 jobs;</b></li>
+    <li><b>Lua: 5 jobs;</b></li>
+    <li><b>Solidity: 5 jobs;</b></li>
+    <li><b>3D Studio Max: 2 jobs;</b></li>
+    <li><b>Koa; 2 jobs;</b></li>
+    <li><b>Maya: 2 jobs;</b></li>
+    <li><b>3D Studio Max: 2 jobs;</b></li>
+    <li><b>Symphony: 2 jobs;</b></li>
+    <li><b>Lavarel: 1 job;</b></li>
+    <li><b>Lightworks: 0 jobs;</b></li>
+    <li><b>Nuke: 0 jobs;</b></li>
+    <li><b>Red Giant Universe: 0 jobs;</b> and</li>
+    <li><b>RenderMan: 0 jobs</b>.</li>
   </ul>
 
   <h2>References</h2>
   <ul>
-    <li>Hays 2021, The most in-demand skills for 2021, Hays, viewed 14 October 2021, <a href="https://www.hays.com.au/press-release/content/skills-in-demand-in-2021">https://www.hays.com.au/press-release/content/skills-in-demand-in-2021</a>.</li>
+    <li>cgspectrum n.d., <i>Game programmer</i>, cgspectrum, viewed 14 November 2021, <a href="https://www.cgspectrum.com/career-pathways/game-programmer">https://www.cgspectrum.com/career-pathways/game-programmer</a>.</li>
+    <li>Hays 2021, <i>The most in-demand skills for 2021</i>, Hays, viewed 14 October 2021, <a href="https://www.hays.com.au/press-release/content/skills-in-demand-in-2021">https://www.hays.com.au/press-release/content/skills-in-demand-in-2021</a>.</li>
+    <li>Matthews, K 2015, <i>Get a job in Hollywood with these 10 tech skills</i>, MUO, viewed 14 November 2021, <a href="https://www.makeuseof.com/tag/get-job-hollywood-10-tech-skills/">https://www.makeuseof.com/tag/get-job-hollywood-10-tech-skills/</a>.</li>
+    <li>Sahu, M 2021, <i>Skills needed to become a blockchain developer</i>, upGrad, viewed 14 November 2021, <a href="https://www.upgrad.com/blog/skills-needed-to-become-blockchain-developer/">https://www.upgrad.com/blog/skills-needed-to-become-blockchain-developer/</a>.</li>
+    <li>Seek n.d., <i>Games developer</i>, Seek, viewed 14 November 2021, <a href"https://www.seek.com.au/career-advice/role/game-developer">https://www.seek.com.au/career-advice/role/game-developer</a>.</li>
+    <li>Seek n.d., <i>Web developer</i>, Seek, viewed 14 November 2021, <a href"https://www.seek.com.au/career-advice/role/web-developer">https://www.seek.com.au/career-advice/role/web-developer</a>.</li>
+    <li>Zippia n.d., <i>C++ developer</i>, Zippia, viewed 14 November 2021, <a href="https://www.zippia.com/c-developer-jobs/skills/">https://www.zippia.com/c-developer-jobs/skills/</a>.</li>
   </ul>
 <br>
 
