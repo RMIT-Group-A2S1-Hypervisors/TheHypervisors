@@ -264,8 +264,8 @@
     <li>Hays 2021, <i>The most in-demand skills for 2021</i>, Hays, viewed 14 October 2021, <a href="https://www.hays.com.au/press-release/content/skills-in-demand-in-2021">https://www.hays.com.au/press-release/content/skills-in-demand-in-2021</a>.</li>
     <li>Matthews, K 2015, <i>Get a job in Hollywood with these 10 tech skills</i>, MUO, viewed 14 November 2021, <a href="https://www.makeuseof.com/tag/get-job-hollywood-10-tech-skills/">https://www.makeuseof.com/tag/get-job-hollywood-10-tech-skills/</a>.</li>
     <li>Sahu, M 2021, <i>Skills needed to become a blockchain developer</i>, upGrad, viewed 14 November 2021, <a href="https://www.upgrad.com/blog/skills-needed-to-become-blockchain-developer/">https://www.upgrad.com/blog/skills-needed-to-become-blockchain-developer/</a>.</li>
-    <li>Seek n.d., <i>Games developer</i>, Seek, viewed 14 November 2021, <a href"https://www.seek.com.au/career-advice/role/game-developer">https://www.seek.com.au/career-advice/role/game-developer</a>.</li>
-    <li>Seek n.d., <i>Web developer</i>, Seek, viewed 14 November 2021, <a href"https://www.seek.com.au/career-advice/role/web-developer">https://www.seek.com.au/career-advice/role/web-developer</a>.</li>
+    <li>Seek n.d., <i>Games developer</i>, Seek, viewed 14 November 2021, <a href="https://www.seek.com.au/career-advice/role/game-developer">https://www.seek.com.au/career-advice/role/game-developer</a>.</li>
+    <li>Seek n.d., <i>Web developer</i>, Seek, viewed 14 November 2021, <a href="https://www.seek.com.au/career-advice/role/web-developer">https://www.seek.com.au/career-advice/role/web-developer</a>.</li>
     <li>Zippia n.d., <i>C++ developer</i>, Zippia, viewed 14 November 2021, <a href="https://www.zippia.com/c-developer-jobs/skills/">https://www.zippia.com/c-developer-jobs/skills/</a>.</li>
   </ul>
 <br>
