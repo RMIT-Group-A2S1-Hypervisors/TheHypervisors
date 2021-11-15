@@ -795,6 +795,38 @@ Since the game will start off with only a single developer, there is a one year 
   <h3>Risks</h3>
   <b>What risks can you identify for your project?</b>
   <p>The main risk to the game would be balancing the scale of the project.  All games being made need to be built to the level of existing games in that genre (Achrén n.d.).  Thus, this project would need to look games like Bit Heroes and Bit Legends, made by GameFun Ltd, and is a Bit Heroes clone, and RPG games like Stardew Valley, which includes dungeon-crawling elements, and was developed by a single developer over a 4 and half year time period in the visual styling, and play similar to games like Final Fantasy, with its turn-based battle system.</p>
+  
+  <h2>Referencing Guide – RMIT Harvard</h2>
+  <h3>Websites</h3>
+  <ul>
+  <li>Paraphrasing: (Author Date)</li>
+  <li>Example: (World Health Organization 2014)</li>
+ 	<li>Reference entry list: Author details (Individual or Corporation), date or n.d., title of the webpage or document in italics, publication details (publisher and place of publication), viewed date, <URL address enclosed in angled brackets>.</li>
+	<li>Example: World Health Organization 2014, WHO recommendations for routine immunization - summary tables, World Health Organization, viewed 1 May 2014, <http://www.who.int/immunization/policy/immunization_tables/en/>.<li>
+  </ul>
+  <h2>References</h2>
+  <ul>
+  <li>Achrén, J n.d., <i>How to avoid risks in a gaming startup</i>, Elite Game Developers, <a href="https://elitegamedevelopers.com/how-to-avoid-risks-in-a-gaming-startup/">https://elitegamedevelopers.com/how-to-avoid-risks-in-a-gaming-startup/</a>.</li>
+  <li>Blake, V 2021, <i>Terraria has sold more than 35 million copies</i>, Euro Gamer, <a href="https://www.eurogamer.net/articles/2021-03-21-terraria-has-sold-more-than-35-million-copies">https://www.eurogamer.net/articles/2021-03-21-terraria-has-sold-more-than-35-million-copies</a>.</li>
+  <li>Davidson, R 2017, <i>The big list of: video game development team roles</i>, Game Career Coach, <a href="https://cdn.fs.teachablecdn.com/N4tk2YWxTHaM6neBSVqV">https://cdn.fs.teachablecdn.com/N4tk2YWxTHaM6neBSVqV</a>.</li>
+  <li>Epic Games 2021, <i>Unreal engine 4.27 documentation – hardware and software specifications</i>, Epic Games, viewed 19 September 2021, <a href="https://docs.unrealengine.com/4.27/en-US/Basics/InstallingUnrealEngine/RecommendedSpecifications/">https://docs.unrealengine.com/4.27/en-US/Basics/InstallingUnrealEngine/RecommendedSpecifications/</a>.</li>
+  <li>Game Designing n.d., <i>Keeping up with the new tech and innovations: 10 trends shaking up the gaming industry</i>, Game Designing, <a href="https://www.gamedesigning.org/gaming/trends/">https://www.gamedesigning.org/gaming/trends/</a>.</li>
+  <li>Howarth, J 2021, <i>7 huge gaming industry trends 2021-2025</i>, Exploding Topics, <a href="https://explodingtopics.com/blog/gaming-trends">https://explodingtopics.com/blog/gaming-trends</a>.</li>
+  <li>José 2021, <i>10 best casual MMOs for time-limited players</i>, Tech News Today, <a href="https://www.technewstoday.com/best-casual-mmo/">https://www.technewstoday.com/best-casual-mmo/</a>.</li>
+  <li>Juppiomenz 2017, <i>Bit Heroes</i>, Kongregate, viewed 11 October 2021, <a href="https://store.steampowered.com/app/666860/Bit_Heroes/">https://store.steampowered.com/app/666860/Bit_Heroes/</a>.</li>
+  <li>Olivetti, J 2018, <i>Perfect ten: MMOs that cater to the time-limited player</i>, Overpowered, <a href="https://massivelyop.com/2018/11/14/perfect-ten-mmos-that-cater-to-the-time-limited-player/">https://massivelyop.com/2018/11/14/perfect-ten-mmos-that-cater-to-the-time-limited-player/</a>.</li>
+  <li>Pickell, D 2019, <i>The 7 stages of game development</i>, G2, <a href="https://www.g2.com/articles/stages-of-game-development">https://www.g2.com/articles/stages-of-game-development</a>.</li>
+  <li>Taylor, M 2021, <i>Stardew Valley has sold over 15 million copies as creator shifts to new project<i>, PC Gamer, <a href="https://www.pcgamer.com/au/stardew-valley-has-sold-over-15-million-copies-as-creator-shifts-to-new-project/">https://www.pcgamer.com/au/stardew-valley-has-sold-over-15-million-copies-as-creator-shifts-to-new-project/</a>.</li>
+  <li>Test Bytes 2017, <i>9 different types of game testing techniques</i>, Test Bytes, <a href="https://www.testbytes.net/blog/types-of-game-testing/">https://www.testbytes.net/blog/types-of-game-testing/</a>.</li>
+  <li>Unity Technologies 2021, <i>Choose the plan that is right for you</i>, Unity Technologies, <a href="https://store.unity.com/compare-plans">https://store.unity.com/compare-plans</a>.</li>
+  <li>Unity Technologies 2021, <i>Documentation, version 2020.3 – system requirements</i>, Unity Technologies, viewed 19 September 2021, <a href="https://docs.unity3d.com/Manual/system-requirements.html">https://docs.unity3d.com/Manual/system-requirements.html</a>.</li>
+  <li>Unity Technologies 2021, <i>Visual scripting</i>, Unity Technologies, <a href="https://unity.com/products/unity-visual-scripting">https://unity.com/products/unity-visual-scripting</a>.</li>
+  <li>UXPin n.d., <i>Video game prototyping – how to do it and why you should!</i>, UXPin, <a href="https://www.uxpin.com/studio/blog/why-and-how-to-use-video-game-prototyping/">https://www.uxpin.com/studio/blog/why-and-how-to-use-video-game-prototyping/</a>.</li>
+  <li>West, C 2021, <i>White boxing? Gray boxing? What?</i>, Medium, <a href="https://gamedevchris.medium.com/white-boxing-grey-boxing-what-6aa9cfa3b0e4">https://gamedevchris.medium.com/white-boxing-grey-boxing-what-6aa9cfa3b0e4</a>.</li>
+  <li>YoYo Games 2021, <i>GameMaker Studio 2 manual: GameMaker Language index</i>, YoYo Games, <a href="https://manual.yoyogames.com/#t=GameMaker_Language%2FGameMaker_Language_Index.htm">https://manual.yoyogames.com/#t=GameMaker_Language%2FGameMaker_Language_Index.htm</a>.</li>
+  <li>YoYo Games 2021, <i>GameMaker Studio 2 – system requirements</i>, YoYo Games, viewed 18 September 2021, <a href="https://www.yoyogames.com/en/get#sysreq">https://www.yoyogames.com/en/get#sysreq</a>.</li>
+  <li>YoYo Games 2021, </i>Pick a tier and make a game</i>, YoYo Games, <a href="https://www.yoyogames.com/en/get">https://www.yoyogames.com/en/get</a>.</li>
+  </ul>
 
 </div>
 </body>
