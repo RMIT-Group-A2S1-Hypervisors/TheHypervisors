@@ -928,7 +928,10 @@ Since the game will start off with only a single developer, there is a one year 
   </ul>
   
   <h3>Feedback</h3>
-  <p></p>
+  <b>David’s Feedback:</b>
+  <p>All of the team members participated in Team Meetings and would adequately complete their chosen tasks for the project.  Kias was hard working and would try to get all work submitted before the due date.
+Cody was diligent in completing his chosen tasks and would ask for clarification when the task wasn’t clearly defined.
+Karl was always looking for ways to improve his work and would seek advice on ways to prepare a better task assignment.</p>
   
   <h3>Group Reflection</h3>
   <b>What went well?</b>
