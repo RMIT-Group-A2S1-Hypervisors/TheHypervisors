@@ -811,7 +811,114 @@ Since the game will start off with only a single developer, there is a one year 
   <p>If a member does not respond to any form of group communication made to them, a personal message will be sent to them to find out and understand why.  With that, any issues that arise will be dealt accordingly, whether it is done through a personal or group meeting. However, if the unresponsive team member does not respond, it will be taken further up to the course convenor.</p>
   
   <h3>Skills and Jobs</h3>
-  
+  <h4>Sound Designer</h4>
+  <p>We are looking for an experienced and passionate Sound Designer for our upcoming MMORPG project. Alongside with a talented team of developers, you will work on many different aspects of audio content development for the project.</p>
+  <b>Duties and responsibilities:</b>
+  <ul>
+  	<li>Designing and implementing linear and interactive sound assets with tools and scripting logic</li>
+  	<li>In-depth real-time audio scripting</li>
+  	<li>SFX creation and mastering</li>
+  	<li>Field recording</li>
+  	<li>Music editing</li>
+  	<li>Moderating and maintaining the internal SFX library</li>
+  <ul>
+  <b>Requirements:</b>
+  <ul>
+  	<li>Minimum 2 years’ experience with game audio development </li>
+ 	<li>Demonstrated creative and technical achievement in sound design</li>
+  	<li>Experience with Audio APIs (Wwise, Fmod, Miles), digital audio workstations, MIDIs, and Max</li>
+ 	<li>Knowledge of C, C++ or C#</li>
+  	<li>A good understanding of software and tool development</li>
+  	<li>Experience with audio engineering (editing and mixing), audio production, audio recording </li>
+  	<li>A good knowledge of sound libraries</li>
+  	<li>Thorough knowledge of PC audio functionality, capabilities, and limitations </li>
+  	<li>Good communication skills and the ability to collaborate with the Game Designer, and Video Game Programmer</li>
+  	<li>Creative drive</li>
+  </ul>
+  <b>Bonus:</b>
+  <ul>
+	<li>Experience in game scripting or other relevant programming elements</li>
+	<li>MMORPG experience a plus</li>
+
+  <h4>Game Designer</h4>
+  <p>We are looking for an experienced and passionate Game Designer for our upcoming MMORPG project. Alongside with a talented team of developers, you will work on many different aspects of Gaming content development for the project.</p>
+  <b>Duties and responsibilities:</b>
+  <ul>
+	<li>Designing and developing the original concept</li>
+	<li>Construct level structure</li>
+	<li>Writing plots, storylines, dialogue, and game objectives</li>
+	<li>Storyboarding the action of the game</li>
+	<li>Conceive every element of the game, including rules, setting, economy, weapons, armour, enemy mobs, NPCs, etc</li>
+	<li>Direct action sequences</li>
+	<li>Define user interface, menus, and controls</li>
+	<li>Develop the Game Design Document</li>
+	<li>Develop early prototypes</li>
+	<li>Define the user experience</li>
+	<li>Lead the development process</li>
+	<li>Manage quality assurance testing, and follow up on feedback</li>
+	<li>Oversee the marketing and distribution roll-out</li>
+	<li>Oversee ongoing development and versions of the game</li>
+  </ul>
+  <b>Requirements:<b>
+  <ul>
+	<li>Experience with GameMaker Studio 2, Unity, or Unreal Engine 4</li>
+	<li>Knowledge of either GML, C# or C++</li>
+	<li>A strong creative drive, and an analytical mind</li>
+	<li>Solid knowledge of the Gaming Industry, and the latest trends</li>
+	<li>Good communication skills and the ability to collaborate with the Game Artist, Sound Designer, and Video Game Programmer</li>
+	<li>Good leadership skills – managing the production process, scheduling, budgeting, keeping all the team members on time</li>
+	<li>A good understanding of gaming engines</li>
+  </ul>
+
+  <h4>Game Artist<h4>
+  <p>We are looking for an experienced and passionate Game Artist for our upcoming MMORPG project. Alongside with a talented team of developers, you will work on many different aspects of Gaming content development for the project.</p>
+  <b>Duties and responsibilities:</b>
+  <ul>
+	<li>Collaborating with the Game Designer regarding the style and feel of the game</li>
+	<li>Researching references and resources required to produce the assets for the game</li>
+	<li>Design the key elements of the visual style</li>
+	<li>Build 2D models of all assets in line with the visual style</li>
+	<li>Applying lighting and shading effects to all elements, ensuring consistency in colour, intensity, and lighting levels</li>
+	<li>Animating player characters, NPCs, and enemy mobs</li>
+	<li>Designing special effects</li>
+	<li>Creating prototypes for testing purposes</li>
+	<li>Designing promotional material, and websites for the launch of the game</li>
+	<li>Moderating and maintaining the asset library</li>
+	<li>Designing with the user experience in mind</li>
+  <b>Requirements:</b>
+  <ul>
+	<li>Minimum 2 years’ experience with Game Artist development</li>
+	<li>Experience with GameMaker Studio 2, Unity, or Unreal Engine 4</li>
+	<li>Knowledge of either GML, C# or C++</li>
+	<li>Comprehensive skills with Adobe photoshop, Illustrator and Affect effects</li>
+	<li>Knowledge of key art principles, such as colour, value, and composition</li>
+	<li>Good communication skills and the ability to collaborate with the Game Designer, and Video Game Programmer</li>
+	<li>Creative drive</li>
+	<li>Proficiency in 2D modelling
+  </ul>
+
+  <h4>Video Game Programmer</h4>
+  <p>We are looking for an experienced and passionate Video Game Programmer for our upcoming MMORPG project. Alongside with a talented team of developers, you will work on many different aspects of Gaming content development for the project. </p>
+  <b>Duties and responsibilities: </b>
+	<li>Designing and implementing the underlying code architecture, with logical programming</li>
+	<li>Self-managing programming task schedule updates and coordinating with the production team</li>
+	<li>Analysing and fixing problematic code</li>
+	<li>Designing and implementing the Artificial Intelligence system</li>
+	<li>Designing and implementing the physics systems </li>
+  <b>Requirements: </b>
+	<li>A Bachelor’s degree in Software Engineering, Computer Science or any other relevant degree</li>
+	<li>Minimum 2 years’ Game Programmer experience </li>
+	<li>Experience with GameMaker Studio 2, Unity, or Unreal Engine 4</li>
+	<li>Exception knowledge of either GML, C# or C++</li>
+	<li>Proficiency 2D modelling </li>
+	<li>Knowledge of debugging tools</li>
+	<li>Knowledge of optimisation principles</li>
+	<li>Good communication skills and the ability to collaborate with the Game Designer, Sound Designer, and Game Artist</li>
+	<li>Ability to find problems, and the resolve these problems quickly</li>
+	<li>Wide-ranging knowledge of gaming trends </li>
+  <b>Bonus:</b>
+	<li>Experience with scripting languages (Lua, Python)</li>
+
   
   <h3>Feedback</h3>
   <p></p>
