@@ -861,7 +861,7 @@ Since the game will start off with only a single developer, there is a one year 
   <li>West, C 2021, <i>White boxing? Gray boxing? What?</i>, Medium, <a href="https://gamedevchris.medium.com/white-boxing-grey-boxing-what-6aa9cfa3b0e4">https://gamedevchris.medium.com/white-boxing-grey-boxing-what-6aa9cfa3b0e4</a>.</li>
   <li>YoYo Games 2021, <i>GameMaker Studio 2 manual: GameMaker Language index</i>, YoYo Games, <a href="https://manual.yoyogames.com/#t=GameMaker_Language%2FGameMaker_Language_Index.htm">https://manual.yoyogames.com/#t=GameMaker_Language%2FGameMaker_Language_Index.htm</a>.</li>
   <li>YoYo Games 2021, <i>GameMaker Studio 2 – system requirements</i>, YoYo Games, viewed 18 September 2021, <a href="https://www.yoyogames.com/en/get#sysreq">https://www.yoyogames.com/en/get#sysreq</a>.</li>
-  <li>YoYo Games 2021, </i>Pick a tier and make a game</i>, YoYo Games, <a href="https://www.yoyogames.com/en/get">https://www.yoyogames.com/en/get</a>.</li>
+  <li>YoYo Games 2021, <i>Pick a tier and make a game</i>, YoYo Games, <a href="https://www.yoyogames.com/en/get">https://www.yoyogames.com/en/get</a>.</li>
   </ul>
 
 </div>
