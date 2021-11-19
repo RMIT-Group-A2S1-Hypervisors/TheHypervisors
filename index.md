@@ -838,7 +838,7 @@ Since the game will start off with only a single developer, there is a one year 
   <li>Paraphrasing: (Author Date)</li>
   <li>Example: (World Health Organization 2014)</li>
  	<li>Reference entry list: Author details (Individual or Corporation), date or n.d., title of the webpage or document in italics, publication details (publisher and place of publication), viewed date, <URL address enclosed in angled brackets>.</li>
-	<li>Example: World Health Organization 2014, WHO recommendations for routine immunization - summary tables, World Health Organization, viewed 1 May 2014, <http://www.who.int/immunization/policy/immunization_tables/en/>.<li>
+	<li>Example: World Health Organization 2014, WHO recommendations for routine immunization - summary tables, World Health Organization, viewed 1 May 2014, <http://www.who.int/immunization/policy/immunization_tables/en/>.</li>
   </ul>
   <h2>References</h2>
   <ul>
