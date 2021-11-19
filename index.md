@@ -817,19 +817,19 @@ Since the game will start off with only a single developer, there is a one year 
   
   <h3>Group Reflection</h3>
   <b>What went well?</b>
-  
+  <p>The process of communicating via Microsoft Teams made team meetings easier and gave several communication avenues for which team members could raise issues with the team leader.</p> 
   
   <b>What could be improved?</b>
-  
+  <p>Scheduling team meetings was the hardest part to handle.  This was a result of scheduling issues, and on times team members weren't able to make the arranged meeting due to outside influences.</p> 
   
   <b>At least one thing that was surprising.</b>
-  
+  <p></p> 
   
   <b>At least one thing that you have learned about groups.</b>
-  
+  <p></p> 
   
   <b>Remember to include in your section on Tools how well you think your GitHub log of activity reflects your group’s work on this assignment.</b>
-  
+  <p>The Contributors section of the Insights doesn't accurately show how much work was done by the team members.  Most of the work of editing the GitHub repository was handled by one team member, however this only shows that team member editing the index.md file to insert and format the work prepared by the other team members.  The project was a team effort where team members chose to do specific tasks and then all the work was brought together by David and added to the index.md file.  This issue was mainly a result of the other team members not having the required permissions to edit the index.md file, and this situation was only resolved late in the process once it was brought to David's attention.</p> 
 
   <h2>Referencing Guide – RMIT Harvard</h2>
   <h3>Websites</h3>
