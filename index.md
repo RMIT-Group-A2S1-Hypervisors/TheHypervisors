@@ -940,7 +940,7 @@ Karl was always looking for ways to improve his work and would seek advice on wa
   <p>Our team communicated well using Microsoft teams. We all talked through what we were working on at the time and asked for help when they needed it. We set up meetings during the weeks to even discuss matters in further detail. We had David work as our team leader basically because he was able to take charge and delegate this team project awesomely. </p>
 
 <b>Karl’s Feedback:</b>
-  <p></p>
+  <p>It was great to be part of this team, everyone participated and did the part with David as our team leader it made our task more efficient to get the project done. We managed to help each other through communications and great leadership.</p>
   
   <h3>Group Reflection</h3>
   <b>What went well?</b>
